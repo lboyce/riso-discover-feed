@@ -312,3 +312,18 @@ if at all).
   per-source try/except degrades to empty award sections, so an outage never breaks the run — awards
   simply fill in on the next successful weekly run (Metron calls come from `.cache`, so it's cheap to
   rerun). Seen 2026-06-23: a multi-hour WQS outage blocked live award verification entirely.
+- **RSS feeds: several traps (all seen live 2026-06).**
+  - **CDN User-Agent blocking.** AIPT/TCJ return 403 (and tools like WebFetch get blocked) without a
+    real `User-Agent`. `feedparser` fetched with a descriptive UA succeeds. Always set the UA.
+  - **Review titles often lack the word "review".** AIPT titles read like
+    "'In Your Skin' #3 blurs the line..." and are only tagged with a "Reviews" *category*. So the
+    reviews filter must check category tags, not just the title, and `parse_review_title` must handle
+    quoted "'Series' #N ..." headlines (smart quotes included).
+  - **"Previews" vs "Reviews" regex.** `"review" in "previews"` is True (substring) and `\breview\b`
+    fails to match the plural "Reviews". Use `\breviews?\b` — matches review/reviews, not preview(s).
+  - **Use reviews-category feeds, not the main feed.** Main outlet feeds are news-heavy. AIPT's
+    `…/comic-book-reviews/feed/` yields clean single-book reviews; the general `…/comic-books/feed/`
+    does not. Per outlet, find the reviews-category URL before shipping it as a review department.
+  - **Not every outlet fits single-book review departments.** The Comics Beat "reviews" are multi-book
+    Rundown/Round-Up columns (→ Editorial Best-Of, not single-book); TCJ is long-form graphic-novel
+    essays with no `#N`; Multiversity's documented feed URL 404s. Only AIPT shipped in v1.

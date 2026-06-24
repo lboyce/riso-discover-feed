@@ -20,6 +20,10 @@ tier = "distribution"
 enabled = true
 tier = "distribution"
 
+[sources.classics]
+enabled = true
+tier = "distribution"
+
 [sources.cbr]
 enabled = true
 tier = "personal"

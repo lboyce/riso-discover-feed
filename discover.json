@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-24T03:41:50Z",
+  "generated_at": "2026-06-24T04:48:57Z",
   "feed_window": {
     "start": "2026-06-22",
     "end": "2026-06-28"
@@ -965,6 +965,61 @@
       "source": "AIPT",
       "items": [
         {
+          "entity": "cv-volume-4050-170669",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/24/peril-of-the-brutal-dark-5-review/",
+            "snippet": "If there's one strike against Peril of the Brutal Dark #5, it's that it's over far too quickly.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/The-Peril-of-the-Brutal-Dark-An-Ezra-Cain-Mystery-5-1-e1781898573389.webp?fit=1248%2C918&amp;ssl=1"
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171249",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/24/bizarro-year-none-2-review/",
+            "snippet": "Bizarro's fragile reality begins to crack apart as Jimmy Olsen and Perry White uncover mysteries lurking beneath one of DC's strangest worlds.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/bizarro-2.jpg?fit=1280%2C1063&amp;ssl=1"
+          }
+        },
+        {
+          "entity": "metron-issue-170936",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/24/summer-of-supergirl-special-1-review/",
+            "snippet": "Three stories that showcase Kara Zor-El's compassion, resilience, and enduring place in the DC Universe.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/81sE-Qtw28L._SL1500_.jpg?fit=1280%2C774&amp;ssl=1"
+          }
+        },
+        {
+          "entity": "cv-volume-4050-91098",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/24/detective-comics-1110-review/",
+            "snippet": "A great example of what happens when you let a dynamite creative team loose on a longstanding character to tell good, old-fashioned mysteries.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/Detective-Comics-1100-1-e1781898501935.webp?fit=1230%2C973&amp;ssl=1"
+          }
+        },
+        {
+          "entity": "cv-volume-4050-160511",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/24/absolute-wonder-woman-21-review/",
+            "snippet": "Absolute Wonder Woman has returned to the Wild Isle, but who kidnapped Circe?",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/Absolute-Wonder-Woman-21.jpg?fit=1200%2C800&amp;ssl=1"
+          }
+        },
+        {
           "entity": "cv-volume-4050-166458",
           "reason": {
             "type": "review_signal",
@@ -1018,60 +1073,48 @@
             "snippet": "High-speed action, striking visuals, and a thought-provoking romance at the heart of its futuristic world.",
             "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/bludwire.jpg?fit=1280%2C1146&amp;ssl=1"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "featured-classic",
+      "type": "featured_classic",
+      "title": "Featured Classic",
+      "subtitle": null,
+      "source_tier": "distribution",
+      "source": "RISO",
+      "items": [
         {
-          "entity": "cv-volume-4050-171581",
+          "entity": "cv-volume-4050-9723",
           "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/23/corpse-knight-3-review/",
-            "snippet": "Long-buried mysteries begin to surface as the Corpse Knight faces his most desperate challenge yet in a standout third chapter.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/corpse-knight-3.jpg?fit=1280%2C1164&amp;ssl=1"
+            "type": "classic",
+            "source": "RISO",
+            "label": "Featured Classic",
+            "url": null,
+            "snippet": null,
+            "image": null
           }
         },
         {
-          "entity": "cv-volume-4050-170821",
+          "entity": "cv-volume-4050-5388",
           "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/23/narco-4-review/",
-            "snippet": "A penultimate issue that really left me feeling lukewarm.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/narco-iss4-x1.jpg?fit=1500%2C1000&amp;ssl=1"
+            "type": "classic",
+            "source": "RISO",
+            "label": "Featured Classic",
+            "url": null,
+            "snippet": null,
+            "image": null
           }
         },
         {
-          "entity": "cv-volume-4050-170598",
+          "entity": "cv-volume-4050-4691",
           "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/23/white-sky-4-review/",
-            "snippet": "What's worse than a ghost? Lots, it would appear.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/white-sky-iss4-x1.jpg?fit=1500%2C1000&amp;ssl=1"
-          }
-        },
-        {
-          "entity": "cv-volume-4050-170589",
-          "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/23/death-fight-forever-5-review/",
-            "snippet": "Seriously, though, mega kaiju galore!",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/death-fight-forever-iss5-x11.jpg?fit=1050%2C700&amp;ssl=1"
-          }
-        },
-        {
-          "entity": "cv-volume-4050-166315",
-          "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/23/escape-8-review/",
-            "snippet": "The aftermath of Milton's impossible mission proves every bit as harrowing as the battle itself in another gripping chapter of Escape.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/escape-88.jpg?fit=1280%2C1087&amp;ssl=1"
+            "type": "classic",
+            "source": "RISO",
+            "label": "Featured Classic",
+            "url": null,
+            "snippet": null,
+            "image": null
           }
         }
       ]
@@ -3317,6 +3360,87 @@
       "resolution": {
         "confidence": "partial",
         "issue_pending": true
+      }
+    },
+    "cv-volume-4050-9723": {
+      "kind": "series",
+      "title": "Fables",
+      "series_name": "Fables",
+      "issue_number": null,
+      "publisher": "DC Comics",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-9723",
+        "metron_issue": null,
+        "metron_series": 793,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 10549,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Fables",
+        "volume_year": 2002
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-5388": {
+      "kind": "series",
+      "title": "Hellboy: Seed of Destruction",
+      "series_name": "Hellboy: Seed of Destruction",
+      "issue_number": null,
+      "publisher": "Dark Horse Comics",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-5388",
+        "metron_issue": null,
+        "metron_series": 52,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 5109,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Hellboy: Seed of Destruction",
+        "volume_year": 1994
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-4691": {
+      "kind": "series",
+      "title": "Bone",
+      "series_name": "Bone",
+      "issue_number": null,
+      "publisher": "Cartoon Books",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-4691",
+        "metron_issue": null,
+        "metron_series": 119,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 4347,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Bone",
+        "volume_year": 1991
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
       }
     }
   }

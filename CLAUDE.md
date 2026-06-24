@@ -327,3 +327,12 @@ if at all).
   - **Not every outlet fits single-book review departments.** The Comics Beat "reviews" are multi-book
     Rundown/Round-Up columns (→ Editorial Best-Of, not single-book); TCJ is long-form graphic-novel
     essays with no `#N`; Multiversity's documented feed URL 404s. Only AIPT shipped in v1.
+- **Trades / New Editions don't fall out of Metron's store_date scan (Step 6).** Verified live
+  2026-06: `issues_list` by `store_date` returns only single-issue-type series (Single Issue / Limited
+  Series / One-Shot); its `series_type` filter is **silently ignored** (returns the same single issues
+  regardless); and `series_list({"series_type": <collected>, "year_began": <year>})` returns 0. Reissue
+  title keywords (facsimile/reprint) matched 0 of ~180 current issues that week. So **Trades /
+  Collected Editions** and **New Editions / Reissues** were **deferred** — they need a dedicated
+  collected-editions data path (candidate: the GCD data dumps, §7), not the new-release pipeline.
+  Series types (id): Trade Paperback 10, Hardcover 8, Omnibus 15, Graphic Novel 9. Only **Featured
+  Classic** (evergreen seed) shipped for the classics group in v1.

@@ -21,6 +21,7 @@ from .metron_gateway import MetronGateway
 from .models import DiscoverFeed, Entity, FeedWindow, Section
 from .sources.base import BaseSource, SourceOutput
 from .sources.cbr import CBRSource
+from .sources.classics import ClassicsSource
 from .sources.metron import MetronSource, week_window
 from .sources.rss import RSSSource
 from .sources.wikidata import WikidataSource
@@ -55,6 +56,8 @@ def build_sources(config: Config, *, today: date, upcoming_weeks: int = 4) -> li
             sources.append(RSSSource(metron_gateway(), today=today))
         elif spec.name == "cbr":
             sources.append(CBRSource(metron_gateway(), today=today))
+        elif spec.name == "classics":
+            sources.append(ClassicsSource(metron_gateway(), today=today))
         else:
             log.info("Source '%s' is enabled but not yet implemented; skipping.", spec.name)
     return sources

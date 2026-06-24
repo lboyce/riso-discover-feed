@@ -1,0 +1,16 @@
+{
+  "id": 56789,
+  "number": "9",
+  "store_date": "2026-06-24",
+  "image": "https://static.metron.cloud/media/issue/2026/06/tmnt-shredder-9.jpg",
+  "publisher": "IDW Publishing",
+  "cv_id": 987654,
+  "gcd_id": null,
+  "isbn": null,
+  "upc": "82771401601100911",
+  "series": {
+    "id": 1234,
+    "name": "Teenage Mutant Ninja Turtles: Shredder",
+    "year_began": 2025
+  }
+}

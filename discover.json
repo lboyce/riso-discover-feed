@@ -1,0 +1,2927 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-24T01:25:45Z",
+  "feed_window": {
+    "start": "2026-06-22",
+    "end": "2026-06-28"
+  },
+  "sections": [
+    {
+      "id": "new-this-week",
+      "type": "new_releases",
+      "title": "New This Week",
+      "subtitle": null,
+      "source_tier": "distribution",
+      "source": "Metron",
+      "items": [
+        {
+          "entity": "cv-volume-4050-19752",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170948",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-160860",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-160511",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170106",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171579",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-168402",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-169448",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170539",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171249",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "metron-issue-171442",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-168595",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-165232",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-152857",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171581",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-164475",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "metron-issue-170926",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-161700",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170589",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-91098",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171582",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-172118",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-166315",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170818",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "metron-issue-171482",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-157432",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-168594",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171508",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-153720",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-158145",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170592",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-167320",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-150172",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-139839",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-134718",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "metron-issue-171489",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171917",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171102",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-161325",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-168725",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171591",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170664",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-172460",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-161311",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-138562",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "metron-issue-171494",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170790",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170821",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170669",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171596",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-166903",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171430",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170949",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-166905",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171105",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171694",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170672",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171515",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171599",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "metron-issue-170936",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-148476",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-172123",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171698",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-151018",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-166458",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-167698",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171600",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-167197",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-169661",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-172014",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "metron-issue-171359",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "metron-issue-171510",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-172125",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170959",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-165725",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-167333",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-151301",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170598",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-159705",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-153611",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-158814",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "metron-issue-171363",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171700",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        }
+      ]
+    }
+  ],
+  "entities": {
+    "cv-volume-4050-19752": {
+      "kind": "issue",
+      "title": "2000 AD #2488",
+      "series_name": "2000 AD",
+      "issue_number": "2488",
+      "publisher": "Rebellion",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/01/a108cf1f920a40efb20ab0b865488ddb.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-19752",
+        "metron_issue": 170956,
+        "metron_series": 15677,
+        "isbn": null,
+        "upc": "977026228432688",
+        "gcd_id": null,
+        "series_name": "2000 AD",
+        "volume_year": 2001
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170948": {
+      "kind": "issue",
+      "title": "51 #4",
+      "series_name": "51",
+      "issue_number": "4",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/03/24/5c43a8b609794011b0e5580f2a3b31c2.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170948",
+        "metron_issue": 163935,
+        "metron_series": 15124,
+        "isbn": null,
+        "upc": "60196140530100411",
+        "gcd_id": 2846548,
+        "series_name": "51",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-160860": {
+      "kind": "issue",
+      "title": "Absolute Superman #20",
+      "series_name": "Absolute Superman",
+      "issue_number": "20",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/6514f0dcd7c8489096d5a4ce604cba3c.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-160860",
+        "metron_issue": 170929,
+        "metron_series": 8746,
+        "isbn": null,
+        "upc": "76194138585302011",
+        "gcd_id": 2845459,
+        "series_name": "Absolute Superman",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-160511": {
+      "kind": "issue",
+      "title": "Absolute Wonder Woman #21",
+      "series_name": "Absolute Wonder Woman",
+      "issue_number": "21",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/5c8ef207abab459da6a392dd8ad97efa.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-160511",
+        "metron_issue": 170924,
+        "metron_series": 8482,
+        "isbn": null,
+        "upc": "76194138586002111",
+        "gcd_id": 2845314,
+        "series_name": "Absolute Wonder Woman",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170106": {
+      "kind": "issue",
+      "title": "Alice Forever After #4",
+      "series_name": "Alice Forever After",
+      "issue_number": "4",
+      "publisher": "Boom! Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/02/24/7772bf3ec97c4ebd828f459f85c21518.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170106",
+        "metron_issue": 162986,
+        "metron_series": 14131,
+        "isbn": null,
+        "upc": "84428401291104011",
+        "gcd_id": 2845395,
+        "series_name": "Alice Forever After",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171579": {
+      "kind": "issue",
+      "title": "Amazing Spider-Man: Spider-Versity #3",
+      "series_name": "Amazing Spider-Man: Spider-Versity",
+      "issue_number": "3",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/12ea539ff19144d2963d4088b257f20f.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171579",
+        "metron_issue": 171350,
+        "metron_series": 15537,
+        "isbn": null,
+        "upc": "75960621577500311",
+        "gcd_id": 2845374,
+        "series_name": "Amazing Spider-Man: Spider-Versity",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-168402": {
+      "kind": "issue",
+      "title": "American Caper #8",
+      "series_name": "American Caper",
+      "issue_number": "8",
+      "publisher": "Dark Horse Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/03/17/0ded4f0b0ae24dc7b281890ef0ad6458.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-168402",
+        "metron_issue": 163720,
+        "metron_series": 13273,
+        "isbn": null,
+        "upc": "76156801474700811",
+        "gcd_id": 2846317,
+        "series_name": "American Caper",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-169448": {
+      "kind": "issue",
+      "title": "Archie (Comics) Double Digest #6",
+      "series_name": "Archie (Comics) Double Digest",
+      "issue_number": "6",
+      "publisher": "Archie Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/17/16af880a0f334d708dba41107c5951cb.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-169448",
+        "metron_issue": 166082,
+        "metron_series": 12956,
+        "isbn": null,
+        "upc": "76281646954800611",
+        "gcd_id": null,
+        "series_name": "Archie (Comics) Double Digest",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170539": {
+      "kind": "issue",
+      "title": "Barbarian Behind Bars #5",
+      "series_name": "Barbarian Behind Bars",
+      "issue_number": "5",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/12/9fd1b29fc72e44caa406d223514c64c5.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170539",
+        "metron_issue": 164520,
+        "metron_series": 14502,
+        "isbn": null,
+        "upc": "60196140525700511",
+        "gcd_id": 2846549,
+        "series_name": "Barbarian Behind Bars",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171249": {
+      "kind": "issue",
+      "title": "Bizarro: Year None #2",
+      "series_name": "Bizarro: Year None",
+      "issue_number": "2",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/a5f47cf2407e4dd9b7b8ff95af5f75f3.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171249",
+        "metron_issue": 170925,
+        "metron_series": 15395,
+        "isbn": null,
+        "upc": "76194139379700211",
+        "gcd_id": 2845319,
+        "series_name": "Bizarro: Year None",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "metron-issue-171442": {
+      "kind": "issue",
+      "title": "Blüdwire #1",
+      "series_name": "Blüdwire",
+      "issue_number": "1",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/16/88a35726bd7d441aa8776e29237924ce.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": 171442,
+        "metron_series": 16102,
+        "isbn": null,
+        "upc": "60196140536300111",
+        "gcd_id": 2846568,
+        "series_name": "Blüdwire",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-168595": {
+      "kind": "issue",
+      "title": "Capes #8",
+      "series_name": "Capes",
+      "issue_number": "8",
+      "publisher": "Skybound",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/542701c3a60645f79911f08ceb35e7b1.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-168595",
+        "metron_issue": 169218,
+        "metron_series": 13281,
+        "isbn": null,
+        "upc": "70985304498700811",
+        "gcd_id": 2846346,
+        "series_name": "Capes",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-165232": {
+      "kind": "issue",
+      "title": "Captain America #12",
+      "series_name": "Captain America",
+      "issue_number": "12",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/46f4d79f425e4fee9680c03a6a394aaf.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-165232",
+        "metron_issue": 171351,
+        "metron_series": 12309,
+        "isbn": null,
+        "upc": "75960621146301211",
+        "gcd_id": 2845380,
+        "series_name": "Captain America",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-152857": {
+      "kind": "issue",
+      "title": "Conan: The Barbarian #32",
+      "series_name": "Conan: The Barbarian",
+      "issue_number": "32",
+      "publisher": "Titan Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/16/172ab08072bf408bac0ea83db238d6d4.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-152857",
+        "metron_issue": 171476,
+        "metron_series": 16103,
+        "isbn": null,
+        "upc": "79361173648103211",
+        "gcd_id": null,
+        "series_name": "Conan: The Barbarian",
+        "volume_year": 2023
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171581": {
+      "kind": "issue",
+      "title": "Corpse Knight #3",
+      "series_name": "Corpse Knight",
+      "issue_number": "3",
+      "publisher": "Skybound",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/e2fbd53254354c08b5b65d403e45fc64.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171581",
+        "metron_issue": 169220,
+        "metron_series": 15437,
+        "isbn": null,
+        "upc": "70985304630100311",
+        "gcd_id": 2846347,
+        "series_name": "Corpse Knight",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-164475": {
+      "kind": "issue",
+      "title": "The Curse of Sherlee Johnson #6",
+      "series_name": "The Curse of Sherlee Johnson",
+      "issue_number": "6",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/16/8e1b9a6c34c4476dabd06266926001d6.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-164475",
+        "metron_issue": 171480,
+        "metron_series": 11736,
+        "isbn": null,
+        "upc": "70985304318800611",
+        "gcd_id": 2846348,
+        "series_name": "The Curse of Sherlee Johnson",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "metron-issue-170926": {
+      "kind": "issue",
+      "title": "DC W.I.P.: Supergirl – Woman of Tomorrow #1",
+      "series_name": "DC W.I.P.: Supergirl – Woman of Tomorrow",
+      "issue_number": "1",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/ea6496d1a7794f87bb3feb9a04a1f33c.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": 170926,
+        "metron_series": 15984,
+        "isbn": null,
+        "upc": "76194139189200111",
+        "gcd_id": null,
+        "series_name": "DC W.I.P.: Supergirl – Woman of Tomorrow",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-161700": {
+      "kind": "issue",
+      "title": "Deadly Tales of the Gunslinger #15",
+      "series_name": "Deadly Tales of the Gunslinger",
+      "issue_number": "15",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2025/12/09/e844972f202a483da3f2c8b08e8bacaa.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-161700",
+        "metron_issue": 158500,
+        "metron_series": 9686,
+        "isbn": null,
+        "upc": "70985304169601511",
+        "gcd_id": 2846349,
+        "series_name": "Deadly Tales of the Gunslinger",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170589": {
+      "kind": "issue",
+      "title": "Death Fight Forever #5",
+      "series_name": "Death Fight Forever",
+      "issue_number": "5",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/12/0da6ea7fd7c84b86b8cb653090a81c6f.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170589",
+        "metron_issue": 164524,
+        "metron_series": 14683,
+        "isbn": null,
+        "upc": "70985304570000511",
+        "gcd_id": 2846350,
+        "series_name": "Death Fight Forever",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-91098": {
+      "kind": "issue",
+      "title": "Detective Comics #1110",
+      "series_name": "Detective Comics",
+      "issue_number": "1110",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/020ff2d96ffc4a6790d5899b0e54b17d.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-91098",
+        "metron_issue": 170927,
+        "metron_series": 1510,
+        "isbn": null,
+        "upc": "76194134373011011",
+        "gcd_id": 2845366,
+        "series_name": "Detective Comics",
+        "volume_year": 2016
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171582": {
+      "kind": "issue",
+      "title": "Diablo: Dawn of Hatred #3",
+      "series_name": "Diablo: Dawn of Hatred",
+      "issue_number": "3",
+      "publisher": "Titan Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/16/1f38698f8527417f8438e6ac0108dc19.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171582",
+        "metron_issue": 171486,
+        "metron_series": 16105,
+        "isbn": null,
+        "upc": "65946021576100311",
+        "gcd_id": null,
+        "series_name": "Diablo: Dawn of Hatred",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-172118": {
+      "kind": "issue",
+      "title": "Doomquest #2",
+      "series_name": "Doomquest",
+      "issue_number": "2",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/808543201ea9497c95ddb349fc225481.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-172118",
+        "metron_issue": 171352,
+        "metron_series": 15781,
+        "isbn": null,
+        "upc": "75960621590400211",
+        "gcd_id": 2845415,
+        "series_name": "Doomquest",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-166315": {
+      "kind": "issue",
+      "title": "Escape #8",
+      "series_name": "Escape",
+      "issue_number": "8",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/20/escape-8-fixed.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-166315",
+        "metron_issue": 169226,
+        "metron_series": 12572,
+        "isbn": null,
+        "upc": "70985304410900811",
+        "gcd_id": 2846352,
+        "series_name": "Escape",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170818": {
+      "kind": "issue",
+      "title": "Exploit #4",
+      "series_name": "Exploit",
+      "issue_number": "4",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/03/24/d7248aa37bcc426bb1afde28018e46ec.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170818",
+        "metron_issue": 163937,
+        "metron_series": 15121,
+        "isbn": null,
+        "upc": "60196140529500411",
+        "gcd_id": 2846550,
+        "series_name": "Exploit",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "metron-issue-171482": {
+      "kind": "issue",
+      "title": "The Eye Collector #1",
+      "series_name": "The Eye Collector",
+      "issue_number": "1",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/16/3565be700c4a472391eef3e0851378cd.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": 171482,
+        "metron_series": 16104,
+        "isbn": null,
+        "upc": "70985304709400111",
+        "gcd_id": 2301322,
+        "series_name": "The Eye Collector",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-157432": {
+      "kind": "issue",
+      "title": "Feral #24",
+      "series_name": "Feral",
+      "issue_number": "24",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/03/24/5ce3d64eb9d24b358e717f6e027d06e9.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-157432",
+        "metron_issue": 163938,
+        "metron_series": 7231,
+        "isbn": null,
+        "upc": "70985303949502411",
+        "gcd_id": 2846351,
+        "series_name": "Feral",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-168594": {
+      "kind": "issue",
+      "title": "Final Boss #7",
+      "series_name": "Final Boss",
+      "issue_number": "7",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/8003d99985c6433bb2b342fc3b017fa2.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-168594",
+        "metron_issue": 169230,
+        "metron_series": 13283,
+        "isbn": null,
+        "upc": "70985304494900711",
+        "gcd_id": 2846354,
+        "series_name": "Final Boss",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171508": {
+      "kind": "issue",
+      "title": "Fireborn #3",
+      "series_name": "Fireborn",
+      "issue_number": "3",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/67f53de9ad024a05b9fea6d27f134074.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171508",
+        "metron_issue": 169232,
+        "metron_series": 15433,
+        "isbn": null,
+        "upc": "70985304615800311",
+        "gcd_id": 2846353,
+        "series_name": "Fireborn",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-153720": {
+      "kind": "issue",
+      "title": "The Flash #34",
+      "series_name": "The Flash",
+      "issue_number": "34",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/0f28d0c4c1614d1388479a3189864248.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-153720",
+        "metron_issue": 170928,
+        "metron_series": 5587,
+        "isbn": null,
+        "upc": "76194138164003411",
+        "gcd_id": 2845320,
+        "series_name": "The Flash",
+        "volume_year": 2023
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-158145": {
+      "kind": "issue",
+      "title": "Gatchaman #19",
+      "series_name": "Gatchaman",
+      "issue_number": "19",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/11/1704d0795d1c4bc399d9fe90bdb1e5be.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-158145",
+        "metron_issue": 164473,
+        "metron_series": 7919,
+        "isbn": null,
+        "upc": "60194704601601911",
+        "gcd_id": null,
+        "series_name": "Gatchaman",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170592": {
+      "kind": "issue",
+      "title": "Generation X-23 #5",
+      "series_name": "Generation X-23",
+      "issue_number": "5",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/8658bd44c35d40b5bc5ae580b927b72a.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170592",
+        "metron_issue": 171353,
+        "metron_series": 15102,
+        "isbn": null,
+        "upc": "75960621449500511",
+        "gcd_id": 2845373,
+        "series_name": "Generation X-23",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-167320": {
+      "kind": "issue",
+      "title": "Gotham Academy: First Year #5",
+      "series_name": "Gotham Academy: First Year",
+      "issue_number": "5",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/00f740f23f7949ee854dc8d99a6d8bf7.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-167320",
+        "metron_issue": 170930,
+        "metron_series": 13199,
+        "isbn": null,
+        "upc": "76194137845900511",
+        "gcd_id": 2845315,
+        "series_name": "Gotham Academy: First Year",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-150172": {
+      "kind": "issue",
+      "title": "Green Lantern #36",
+      "series_name": "Green Lantern",
+      "issue_number": "36",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/c2c92130131748f1a9eed12d30da4c25.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-150172",
+        "metron_issue": 170931,
+        "metron_series": 4913,
+        "isbn": null,
+        "upc": "76194138023003611",
+        "gcd_id": 2845460,
+        "series_name": "Green Lantern",
+        "volume_year": 2023
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-139839": {
+      "kind": "issue",
+      "title": "Gunslinger #55",
+      "series_name": "Gunslinger",
+      "issue_number": "55",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/12/1c7346ca429f40bb9a6b95b13de5ac77.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-139839",
+        "metron_issue": 164526,
+        "metron_series": 4249,
+        "isbn": null,
+        "upc": "70985303221205511",
+        "gcd_id": 2846355,
+        "series_name": "Gunslinger",
+        "volume_year": 2021
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-134718": {
+      "kind": "issue",
+      "title": "Harley Quinn #63",
+      "series_name": "Harley Quinn",
+      "issue_number": "63",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/6a277428e3c341b7a3d8adc4992d05a6.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-134718",
+        "metron_issue": 170932,
+        "metron_series": 2053,
+        "isbn": null,
+        "upc": "76194137281506311",
+        "gcd_id": 2845318,
+        "series_name": "Harley Quinn",
+        "volume_year": 2021
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "metron-issue-171489": {
+      "kind": "issue",
+      "title": "Hellboy and the B.P.R.D.: The Monster of Nivola #1",
+      "series_name": "Hellboy and the B.P.R.D.: The Monster of Nivola",
+      "issue_number": "1",
+      "publisher": "Dark Horse Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/16/c6797f7507e74658b1dee0a0dd4e5c9b.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": 171489,
+        "metron_series": 16106,
+        "isbn": null,
+        "upc": "76156801592800111",
+        "gcd_id": null,
+        "series_name": "Hellboy and the B.P.R.D.: The Monster of Nivola",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-171917": {
+      "kind": "issue",
+      "title": "Hidden Springs #2",
+      "series_name": "Hidden Springs",
+      "issue_number": "2",
+      "publisher": "Dark Horse Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/11/3d4a8cb6182f49baa77544f7e8814ac0.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171917",
+        "metron_issue": 164494,
+        "metron_series": 15559,
+        "isbn": null,
+        "upc": "76156801432700211",
+        "gcd_id": 2846318,
+        "series_name": "Hidden Springs",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171102": {
+      "kind": "issue",
+      "title": "Honor and Curse: Eternal #4",
+      "series_name": "Honor and Curse: Eternal",
+      "issue_number": "4",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/12/8cfbe750110f4538985bc693075c08e0.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171102",
+        "metron_issue": 164527,
+        "metron_series": 15258,
+        "isbn": null,
+        "upc": "60196140527100411",
+        "gcd_id": null,
+        "series_name": "Honor and Curse: Eternal",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-161325": {
+      "kind": "issue",
+      "title": "Hornsby & Halo #14",
+      "series_name": "Hornsby & Halo",
+      "issue_number": "14",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/03/24/b38585c601b144b5a5a5fa93a875243a.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-161325",
+        "metron_issue": 163961,
+        "metron_series": 9473,
+        "isbn": null,
+        "upc": "70985304166501411",
+        "gcd_id": 2846356,
+        "series_name": "Hornsby & Halo",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-168725": {
+      "kind": "issue",
+      "title": "The Infernal Hulk #8",
+      "series_name": "The Infernal Hulk",
+      "issue_number": "8",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/f56f0dbb3c164807a0540ac870806344.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-168725",
+        "metron_issue": 171354,
+        "metron_series": 13913,
+        "isbn": null,
+        "upc": "75960621361000811",
+        "gcd_id": 2845379,
+        "series_name": "The Infernal Hulk",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171591": {
+      "kind": "issue",
+      "title": "In Your Skin #3",
+      "series_name": "In Your Skin",
+      "issue_number": "3",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/c46ec00611964b6c9955d72e21d5c83b.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171591",
+        "metron_issue": 169234,
+        "metron_series": 15443,
+        "isbn": null,
+        "upc": "70985304605900311",
+        "gcd_id": 2846357,
+        "series_name": "In Your Skin",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170664": {
+      "kind": "issue",
+      "title": "Is Ted OK? #5",
+      "series_name": "Is Ted OK?",
+      "issue_number": "5",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/6bf5dd4a6936486db41359c73f1aa304.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170664",
+        "metron_issue": 169236,
+        "metron_series": 14689,
+        "isbn": null,
+        "upc": "60196140528800511",
+        "gcd_id": 2846552,
+        "series_name": "Is Ted OK?",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-172460": {
+      "kind": "issue",
+      "title": "Justice League: Dream Girls – A DC Pride Event #4",
+      "series_name": "Justice League: Dream Girls – A DC Pride Event",
+      "issue_number": "4",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/dfe2764b4a34434ab7abcaa16798d930.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-172460",
+        "metron_issue": 170934,
+        "metron_series": 15764,
+        "isbn": null,
+        "upc": "76194139759700411",
+        "gcd_id": null,
+        "series_name": "Justice League: Dream Girls – A DC Pride Event",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-161311": {
+      "kind": "issue",
+      "title": "Justice League Unlimited #20",
+      "series_name": "Justice League Unlimited",
+      "issue_number": "20",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/ce06bcb279fa440fb7e9610bcf2ae4cd.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-161311",
+        "metron_issue": 170933,
+        "metron_series": 9044,
+        "isbn": null,
+        "upc": "76194138573002011",
+        "gcd_id": 2845367,
+        "series_name": "Justice League Unlimited",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-138562": {
+      "kind": "issue",
+      "title": "King Spawn #56",
+      "series_name": "King Spawn",
+      "issue_number": "56",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/12/e07730ff3e034062b99cb5b6e2be8736.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-138562",
+        "metron_issue": 164529,
+        "metron_series": 4248,
+        "isbn": null,
+        "upc": "70985303170305611",
+        "gcd_id": 2846358,
+        "series_name": "King Spawn",
+        "volume_year": 2021
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "metron-issue-171494": {
+      "kind": "issue",
+      "title": "Mind MGMT: New & Improved #1",
+      "series_name": "Mind MGMT: New & Improved",
+      "issue_number": "1",
+      "publisher": "Oni Press",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/16/aeb8b55537c04a9994a14931b65a659d.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": 171494,
+        "metron_series": 16107,
+        "isbn": null,
+        "upc": "64985600903600111",
+        "gcd_id": null,
+        "series_name": "Mind MGMT: New & Improved",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-170790": {
+      "kind": "issue",
+      "title": "Moonstar #4",
+      "series_name": "Moonstar",
+      "issue_number": "4",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/ff60f7f501cf4b88873e07e8cb669cff.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170790",
+        "metron_issue": 171355,
+        "metron_series": 15292,
+        "isbn": null,
+        "upc": "75960621358000411",
+        "gcd_id": 2845375,
+        "series_name": "Moonstar",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170821": {
+      "kind": "issue",
+      "title": "Narco #4",
+      "series_name": "Narco",
+      "issue_number": "4",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/12/c2d0e8f3c2314e9bb6c476419d41e532.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170821",
+        "metron_issue": 164535,
+        "metron_series": 15123,
+        "isbn": null,
+        "upc": "70985304585400411",
+        "gcd_id": 2846360,
+        "series_name": "Narco",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170669": {
+      "kind": "issue",
+      "title": "The Peril of the Brutal Dark: An Ezra Cain Mystery #5",
+      "series_name": "The Peril of the Brutal Dark: An Ezra Cain Mystery",
+      "issue_number": "5",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/6c9a8e5745324291be2aaa74ec11a569.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170669",
+        "metron_issue": 170935,
+        "metron_series": 14964,
+        "isbn": null,
+        "upc": "76194138465800511",
+        "gcd_id": 2845441,
+        "series_name": "The Peril of the Brutal Dark: An Ezra Cain Mystery",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171596": {
+      "kind": "issue",
+      "title": "Planet Atmos: Exordium #3",
+      "series_name": "Planet Atmos: Exordium",
+      "issue_number": "3",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/f64dd3524cd4446697729c74e9467453.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171596",
+        "metron_issue": 169244,
+        "metron_series": 15445,
+        "isbn": null,
+        "upc": "60196140532500311",
+        "gcd_id": 2846553,
+        "series_name": "Planet Atmos: Exordium",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-166903": {
+      "kind": "issue",
+      "title": "Powers 25 #10",
+      "series_name": "Powers 25",
+      "issue_number": "10",
+      "publisher": "Dark Horse Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/03/17/34a7a4a23913400fb0a18ef121a7c4d9.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-166903",
+        "metron_issue": 163744,
+        "metron_series": 12808,
+        "isbn": null,
+        "upc": "76156801445701011",
+        "gcd_id": 2846319,
+        "series_name": "Powers 25",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171430": {
+      "kind": "issue",
+      "title": "Pretty Hate Machine #3",
+      "series_name": "Pretty Hate Machine",
+      "issue_number": "3",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/98979cac7c1244bcaebc204fac4fe5fe.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171430",
+        "metron_issue": 169245,
+        "metron_series": 15315,
+        "isbn": null,
+        "upc": "60196140531803011",
+        "gcd_id": 2846554,
+        "series_name": "Pretty Hate Machine",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170949": {
+      "kind": "issue",
+      "title": "A Quiet Place: Storm Warning #4",
+      "series_name": "A Quiet Place: Storm Warning",
+      "issue_number": "4",
+      "publisher": "IDW Publishing",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/145b6e2067674648a46e2a6190b10a06.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170949",
+        "metron_issue": 169248,
+        "metron_series": 15128,
+        "isbn": null,
+        "upc": "82771403418900411",
+        "gcd_id": 2846564,
+        "series_name": "A Quiet Place: Storm Warning",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-166905": {
+      "kind": "issue",
+      "title": "Racer X #8",
+      "series_name": "Racer X",
+      "issue_number": "8",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/12/948c76fd72d34e15b26921dd64ba4be7.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-166905",
+        "metron_issue": 164541,
+        "metron_series": 12945,
+        "isbn": null,
+        "upc": "60196140497708011",
+        "gcd_id": 2846326,
+        "series_name": "Racer X",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171105": {
+      "kind": "issue",
+      "title": "Rafael Garcia: Henchman #4",
+      "series_name": "Rafael Garcia: Henchman",
+      "issue_number": "4",
+      "publisher": "Titan Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/16/e0789f381e2d46fd90e4a1f4e5a34852.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171105",
+        "metron_issue": 171505,
+        "metron_series": 16108,
+        "isbn": null,
+        "upc": "65946036590900411",
+        "gcd_id": null,
+        "series_name": "Rafael Garcia: Henchman",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171694": {
+      "kind": "issue",
+      "title": "Red Roots #3",
+      "series_name": "Red Roots",
+      "issue_number": "3",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/17/88e3dbeaa9974d98b1b70b84613b5602.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171694",
+        "metron_issue": 166085,
+        "metron_series": 15446,
+        "isbn": null,
+        "upc": "70985304599100311",
+        "gcd_id": 2846361,
+        "series_name": "Red Roots",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170672": {
+      "kind": "issue",
+      "title": "The Rocketeer: The Island #4",
+      "series_name": "The Rocketeer: The Island",
+      "issue_number": "4",
+      "publisher": "IDW Publishing",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/5446480499274b44802176acb83d2d10.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170672",
+        "metron_issue": 169253,
+        "metron_series": 14691,
+        "isbn": null,
+        "upc": "82771403502500411",
+        "gcd_id": 2845322,
+        "series_name": "The Rocketeer: The Island",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171515": {
+      "kind": "issue",
+      "title": "Star Trek: Starfleet Academy –- Lost Contact #3",
+      "series_name": "Star Trek: Starfleet Academy –- Lost Contact",
+      "issue_number": "3",
+      "publisher": "IDW Publishing",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/0434cfe683f44b7a97d0d698584dcccd.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171515",
+        "metron_issue": 169258,
+        "metron_series": 15436,
+        "isbn": null,
+        "upc": "82771403522300311",
+        "gcd_id": null,
+        "series_name": "Star Trek: Starfleet Academy –- Lost Contact",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171599": {
+      "kind": "issue",
+      "title": "Star Wars: Galaxy's Edge - Echoes of the Empire #3",
+      "series_name": "Star Wars: Galaxy's Edge - Echoes of the Empire",
+      "issue_number": "3",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/20/sw-echoes-empire-3-fixed.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171599",
+        "metron_issue": 171356,
+        "metron_series": 15539,
+        "isbn": null,
+        "upc": "75960621593500311",
+        "gcd_id": 2845383,
+        "series_name": "Star Wars: Galaxy's Edge - Echoes of the Empire",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "metron-issue-170936": {
+      "kind": "issue",
+      "title": "Summer of Supergirl Special #1",
+      "series_name": "Summer of Supergirl Special",
+      "issue_number": "1",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/2111370cbe5e497ea5550ab7b14a856d.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": 170936,
+        "metron_series": 15985,
+        "isbn": null,
+        "upc": "76194139692700111",
+        "gcd_id": null,
+        "series_name": "Summer of Supergirl Special",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-148476": {
+      "kind": "issue",
+      "title": "Superman #39",
+      "series_name": "Superman",
+      "issue_number": "39",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/9991ef3d3242418e85e814effb9aa68c.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-148476",
+        "metron_issue": 170937,
+        "metron_series": 4158,
+        "isbn": null,
+        "upc": "76194137950003911",
+        "gcd_id": 2845368,
+        "series_name": "Superman",
+        "volume_year": 2023
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-172123": {
+      "kind": "issue",
+      "title": "Superman: Father of Tomorrow #2",
+      "series_name": "Superman: Father of Tomorrow",
+      "issue_number": "2",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/a56a9420d9c14a989bc22fcecf788cc6.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-172123",
+        "metron_issue": 170938,
+        "metron_series": 15702,
+        "isbn": null,
+        "upc": "76194139214100211",
+        "gcd_id": 2845321,
+        "series_name": "Superman: Father of Tomorrow",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171698": {
+      "kind": "issue",
+      "title": "Swamp Thing 1989 #3",
+      "series_name": "Swamp Thing 1989",
+      "issue_number": "3",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/25/f9e0d018d4f74acb9a4ba37d6f1621ea.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171698",
+        "metron_issue": 166551,
+        "metron_series": 15673,
+        "isbn": null,
+        "upc": "76194139116800311",
+        "gcd_id": null,
+        "series_name": "Swamp Thing 1989",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-151018": {
+      "kind": "issue",
+      "title": "Teenage Mutant Ninja Turtles: Saturday Morning Adventures #38",
+      "series_name": "Teenage Mutant Ninja Turtles: Saturday Morning Adventures",
+      "issue_number": "38",
+      "publisher": "IDW Publishing",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/12e967119b02488eb077484404990483.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-151018",
+        "metron_issue": 169260,
+        "metron_series": 5811,
+        "isbn": null,
+        "upc": "82771403150803811",
+        "gcd_id": 2846525,
+        "series_name": "Teenage Mutant Ninja Turtles: Saturday Morning Adventures",
+        "volume_year": 2023
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-166458": {
+      "kind": "issue",
+      "title": "Teenage Mutant Ninja Turtles: Shredder #9",
+      "series_name": "Teenage Mutant Ninja Turtles: Shredder",
+      "issue_number": "9",
+      "publisher": "IDW Publishing",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/03/17/cfa3fb6524ad4e398b1aad01dcc9fbe9.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-166458",
+        "metron_issue": 163711,
+        "metron_series": 12803,
+        "isbn": null,
+        "upc": "82771403435600911",
+        "gcd_id": 2845365,
+        "series_name": "Teenage Mutant Ninja Turtles: Shredder",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-167698": {
+      "kind": "issue",
+      "title": "Terrorbytes #7",
+      "series_name": "Terrorbytes",
+      "issue_number": "7",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/12/f0f630a296434d90b7d164d5b90e6297.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-167698",
+        "metron_issue": 164508,
+        "metron_series": 13250,
+        "isbn": null,
+        "upc": "60196140503500711",
+        "gcd_id": null,
+        "series_name": "Terrorbytes",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171600": {
+      "kind": "issue",
+      "title": "ThunderHawks #3",
+      "series_name": "ThunderHawks",
+      "issue_number": "3",
+      "publisher": "Dynamite Entertainment",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/01/c6c1791bf7ba421385cca3f2baee7598.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171600",
+        "metron_issue": 171044,
+        "metron_series": 15412,
+        "isbn": null,
+        "upc": "72513036405003011",
+        "gcd_id": null,
+        "series_name": "ThunderHawks",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-167197": {
+      "kind": "issue",
+      "title": "The Twilight Zone #8",
+      "series_name": "The Twilight Zone",
+      "issue_number": "8",
+      "publisher": "IDW Publishing",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/08/7bc1c37792f146e693d95b65be996d86.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-167197",
+        "metron_issue": 164431,
+        "metron_series": 13217,
+        "isbn": null,
+        "upc": "82771403461500811",
+        "gcd_id": null,
+        "series_name": "The Twilight Zone",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-169661": {
+      "kind": "issue",
+      "title": "Ultimate Endgame #5",
+      "series_name": "Ultimate Endgame",
+      "issue_number": "5",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/a44d23741dc847deb604aa58da4acc6a.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-169661",
+        "metron_issue": 171357,
+        "metron_series": 14179,
+        "isbn": null,
+        "upc": "75960621336800511",
+        "gcd_id": 2845386,
+        "series_name": "Ultimate Endgame",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-172014": {
+      "kind": "issue",
+      "title": "Ultimate Impact: Reborn #2",
+      "series_name": "Ultimate Impact: Reborn",
+      "issue_number": "2",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/d19c37a49de146549f7c866c05a55367.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-172014",
+        "metron_issue": 171358,
+        "metron_series": 15722,
+        "isbn": null,
+        "upc": "75960621461700211",
+        "gcd_id": 2845387,
+        "series_name": "Ultimate Impact: Reborn",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "metron-issue-171359": {
+      "kind": "issue",
+      "title": "Ultimate Universe: Finale #1",
+      "series_name": "Ultimate Universe: Finale",
+      "issue_number": "1",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/20a61c544d894e10875a2238f790ba80.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": 171359,
+        "metron_series": 16077,
+        "isbn": null,
+        "upc": "75960621283500111",
+        "gcd_id": 2817774,
+        "series_name": "Ultimate Universe: Finale",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "metron-issue-171510": {
+      "kind": "issue",
+      "title": "Universal Monsters: Blood of the Wolf Man #1",
+      "series_name": "Universal Monsters: Blood of the Wolf Man",
+      "issue_number": "1",
+      "publisher": "Skybound",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/16/a827fd3e8b6947d9ad5d3d92892eac77.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": 171510,
+        "metron_series": 16109,
+        "isbn": null,
+        "upc": "70985304716200111",
+        "gcd_id": null,
+        "series_name": "Universal Monsters: Blood of the Wolf Man",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-172125": {
+      "kind": "issue",
+      "title": "Universal Monsters: Creature from the Black Lagoon Lives! Black & White Special #2",
+      "series_name": "Universal Monsters: Creature from the Black Lagoon Lives! Black & White Special",
+      "issue_number": "2",
+      "publisher": "Skybound",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/be163c7037084cf6b0f27cf6be51c493.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-172125",
+        "metron_issue": 169263,
+        "metron_series": 15708,
+        "isbn": null,
+        "upc": "70985304623300211",
+        "gcd_id": 2846363,
+        "series_name": "Universal Monsters: Creature from the Black Lagoon Lives! Black & White Special",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170959": {
+      "kind": "issue",
+      "title": "Usagi Yojimbo: Kaitō '84 #4",
+      "series_name": "Usagi Yojimbo: Kaitō '84",
+      "issue_number": "4",
+      "publisher": "Dark Horse Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/03/17/551aa9cc38f44560abab84a0f16d1479.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170959",
+        "metron_issue": 163752,
+        "metron_series": 15130,
+        "isbn": null,
+        "upc": "76156801508900411",
+        "gcd_id": 2846320,
+        "series_name": "Usagi Yojimbo: Kaitō '84",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-165725": {
+      "kind": "issue",
+      "title": "Vampirella Armageddon #12",
+      "series_name": "Vampirella Armageddon",
+      "issue_number": "12",
+      "publisher": "Dynamite Entertainment",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/9337dd3dad4b46e2999f721ceaaebae4.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-165725",
+        "metron_issue": 169264,
+        "metron_series": 12623,
+        "isbn": null,
+        "upc": "72513035713712011",
+        "gcd_id": 2846325,
+        "series_name": "Vampirella Armageddon",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-167333": {
+      "kind": "issue",
+      "title": "Venom #259",
+      "series_name": "Venom",
+      "issue_number": "259",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/6311223f6dec46e7a3787299491dacad.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-167333",
+        "metron_issue": 171360,
+        "metron_series": 13483,
+        "isbn": null,
+        "upc": "75960621330625911",
+        "gcd_id": 2845388,
+        "series_name": "Venom",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-151301": {
+      "kind": "issue",
+      "title": "Void Rivals #31",
+      "series_name": "Void Rivals",
+      "issue_number": "31",
+      "publisher": "Skybound",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/e5e0a731d26a49bbac67b732904ca979.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-151301",
+        "metron_issue": 169265,
+        "metron_series": 5178,
+        "isbn": null,
+        "upc": "70985303768203111",
+        "gcd_id": 2845371,
+        "series_name": "Void Rivals",
+        "volume_year": 2023
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170598": {
+      "kind": "issue",
+      "title": "White Sky #4",
+      "series_name": "White Sky",
+      "issue_number": "4",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/16/5960de79db02482084870b29a0c9633e.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170598",
+        "metron_issue": 171514,
+        "metron_series": 14687,
+        "isbn": null,
+        "upc": "70985304580900411",
+        "gcd_id": 2846332,
+        "series_name": "White Sky",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-159705": {
+      "kind": "issue",
+      "title": "Wolverine #22",
+      "series_name": "Wolverine",
+      "issue_number": "22",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/511eb5d3e7864e108bfe1debf2011ac6.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-159705",
+        "metron_issue": 171361,
+        "metron_series": 8331,
+        "isbn": null,
+        "upc": "75960620841802211",
+        "gcd_id": 2845381,
+        "series_name": "Wolverine",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-153611": {
+      "kind": "issue",
+      "title": "Wonder Woman #34",
+      "series_name": "Wonder Woman",
+      "issue_number": "34",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/11f3acdb20a54d918ee652b12df9ed43.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-153611",
+        "metron_issue": 170939,
+        "metron_series": 5545,
+        "isbn": null,
+        "upc": "76194138162603411",
+        "gcd_id": 2845369,
+        "series_name": "Wonder Woman",
+        "volume_year": 2023
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-158814": {
+      "kind": "issue",
+      "title": "X-Men #32",
+      "series_name": "X-Men",
+      "issue_number": "32",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/4b98512f5eb04323863d7d5016635886.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-158814",
+        "metron_issue": 171362,
+        "metron_series": 7914,
+        "isbn": null,
+        "upc": "75960620920003211",
+        "gcd_id": 2845372,
+        "series_name": "X-Men",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "metron-issue-171363": {
+      "kind": "issue",
+      "title": "X-Men: Outback #1",
+      "series_name": "X-Men: Outback",
+      "issue_number": "1",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/efa03ff112a24eebb5c148a4756ade91.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": 171363,
+        "metron_series": 16078,
+        "isbn": null,
+        "upc": "75960621530000111",
+        "gcd_id": 2845416,
+        "series_name": "X-Men: Outback",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-171700": {
+      "kind": "issue",
+      "title": "Zatanna #3",
+      "series_name": "Zatanna",
+      "issue_number": "3",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/c62d775b0d5e43b9aba016ce2a6694c1.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171700",
+        "metron_issue": 170940,
+        "metron_series": 15526,
+        "isbn": null,
+        "upc": "76194139675000311",
+        "gcd_id": 2845461,
+        "series_name": "Zatanna",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    }
+  }
+}

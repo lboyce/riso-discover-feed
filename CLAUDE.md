@@ -290,3 +290,17 @@ if at all).
 ## 14. Session log / gotchas
 
 (Append platform-specific mistakes and their fixes here the moment they happen, so they do not recur.)
+
+- **Metron rate limit (20 req/min on this account) and `mokkari` behavior.** The live account is
+  capped at 20 requests/minute (lower than the 30 in mokkari's own docstrings). `mokkari` enforces
+  the limit *locally* and **raises `mokkari.exceptions.RateLimitError` instead of sleeping** when the
+  window fills; the exception carries a `retry_after` (seconds). The New This Week pipeline makes
+  ~2 calls per issue (issue detail + series lookup), so a full week (80+ issues) blows past 20/min.
+  Fix in place: `MetronSource._with_retry` catches `RateLimitError`, sleeps `retry_after` (+1s
+  buffer), and retries up to 8 times; on-disk caching (`.cache/`) means successful calls are never
+  re-fetched, so retries and re-runs resume where they left off. Net effect: the weekly batch just
+  waits the limit out. If a run feels slow, that's expected — it's sleeping, not stuck.
+- **Freshness lag is normal for the current week.** A `discover.json` built for the current week is
+  expected to contain mostly `partial` / `issue_pending` entities with only `comicvine_volume` set,
+  because ComicVine hasn't cross-referenced the brand-new *issues* yet. Older weeks resolve to full
+  `comicvine_issue` IDs at `high` confidence. Don't mistake an all-`partial` current week for a bug.

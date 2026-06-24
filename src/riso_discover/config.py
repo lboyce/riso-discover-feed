@@ -40,10 +40,12 @@ class Config:
         return out
 
 
-def load_config(path: Path = DEFAULT_CONFIG_PATH) -> Config:
+def load_config(path: Path = DEFAULT_CONFIG_PATH, *, build_tier_override: str | None = None) -> Config:
     with open(path, "rb") as fh:
         raw = tomllib.load(fh)
-    build_tier = raw.get("build_tier", "distribution")
+    # An explicit override (e.g. --build-tier personal) wins over the committed config, so a personal
+    # build can be run for testing without editing the distribution-clean default.
+    build_tier = build_tier_override or raw.get("build_tier", "distribution")
     sources = {
         name: SourceConfig(
             name=name,

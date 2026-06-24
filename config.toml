@@ -20,8 +20,8 @@ tier = "distribution"
 enabled = true
 tier = "distribution"
 
-[sources.comic_book_roundup]
-enabled = false
+[sources.cbr]
+enabled = true
 tier = "personal"
 
 [sources.comicvine]

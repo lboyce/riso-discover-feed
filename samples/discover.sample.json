@@ -117,6 +117,27 @@
           }
         }
       ]
+    },
+    {
+      "id": "featured-books",
+      "type": "featured_picks",
+      "title": "Featured Books of the Week",
+      "subtitle": "RISO's picks — a personal-tier section, dropped from a distributed build",
+      "source_tier": "personal",
+      "source": "RISO",
+      "items": [
+        {
+          "entity": "cv-issue-4000-987654",
+          "reason": {
+            "type": "featured_pick",
+            "source": "RISO",
+            "label": "Featured Book of the Week",
+            "url": null,
+            "snippet": null,
+            "image": null
+          }
+        }
+      ]
     }
   ],
   "entities": {

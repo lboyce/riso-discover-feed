@@ -20,6 +20,7 @@ from .config import REPO_ROOT, Config, load_config, load_metron_credentials
 from .metron_gateway import MetronGateway
 from .models import DiscoverFeed, Entity, FeedWindow, Section
 from .sources.base import BaseSource, SourceOutput
+from .sources.cbr import CBRSource
 from .sources.metron import MetronSource, week_window
 from .sources.rss import RSSSource
 from .sources.wikidata import WikidataSource
@@ -52,6 +53,8 @@ def build_sources(config: Config, *, today: date, upcoming_weeks: int = 4) -> li
             sources.append(WikidataSource(metron_gateway(), today=today))
         elif spec.name == "rss":
             sources.append(RSSSource(metron_gateway(), today=today))
+        elif spec.name == "cbr":
+            sources.append(CBRSource(metron_gateway(), today=today))
         else:
             log.info("Source '%s' is enabled but not yet implemented; skipping.", spec.name)
     return sources
@@ -86,9 +89,13 @@ def write_feed(feed: DiscoverFeed, path: Path) -> None:
 
 
 def run_build(
-    *, today: date, output: Path = DEFAULT_OUTPUT, upcoming_weeks: int = 4
+    *,
+    today: date,
+    output: Path = DEFAULT_OUTPUT,
+    upcoming_weeks: int = 4,
+    build_tier: str | None = None,
 ) -> DiscoverFeed:
-    config = load_config()
+    config = load_config(build_tier_override=build_tier)
     log.info("Build tier: %s", config.build_tier)
     sources = build_sources(config, today=today, upcoming_weeks=upcoming_weeks)
 
@@ -127,6 +134,12 @@ def main() -> None:
         default=4,
         help="How many weeks of Upcoming Releases to include after this week (0 to skip).",
     )
+    parser.add_argument(
+        "--build-tier",
+        choices=["distribution", "personal"],
+        default=None,
+        help="Override the config build tier. 'personal' includes personal-only sources (e.g. CBR).",
+    )
     parser.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args()
 
@@ -135,7 +148,12 @@ def main() -> None:
         format="%(levelname)s %(name)s: %(message)s",
     )
     today = args.today or datetime.now(timezone.utc).date()
-    run_build(today=today, output=args.output, upcoming_weeks=args.upcoming_weeks)
+    run_build(
+        today=today,
+        output=args.output,
+        upcoming_weeks=args.upcoming_weeks,
+        build_tier=args.build_tier,
+    )
 
 
 if __name__ == "__main__":

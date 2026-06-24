@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-06-23T12:00:00Z",
+  "feed_window": {
+    "start": "2026-06-23",
+    "end": "2026-06-29"
+  },
+  "sections": [
+    {
+      "id": "new-this-week",
+      "type": "new_releases",
+      "title": "New This Week",
+      "subtitle": null,
+      "source_tier": "distribution",
+      "source": "Metron",
+      "items": [
+        {
+          "entity": "cv-issue-4000-987654",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        },
+        {
+          "entity": "metron-issue-56999",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "aipt-best-of-2025",
+      "type": "editorial_best_of",
+      "title": "AIPT's Best of the Year",
+      "subtitle": "From the editors at AIPT",
+      "source_tier": "distribution",
+      "source": "AIPT",
+      "items": [
+        {
+          "entity": "cv-issue-4000-987654",
+          "reason": {
+            "type": "editorial",
+            "source": "AIPT",
+            "label": "AIPT's Best of 2025",
+            "url": "https://aiptcomics.com/2025/12/30/best-comics-2025/",
+            "snippet": "A propulsive, gorgeously drawn arc that cemented this series as IDW's flagship."
+          }
+        }
+      ]
+    },
+    {
+      "id": "eisner-winners",
+      "type": "award_winners",
+      "title": "Eisner Award Winners",
+      "subtitle": null,
+      "source_tier": "distribution",
+      "source": "Wikidata",
+      "items": [
+        {
+          "entity": "cv-volume-4050-145300",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award, Best Continuing Series (2025)",
+            "url": "https://en.wikipedia.org/wiki/Eisner_Award",
+            "snippet": null
+          }
+        }
+      ]
+    }
+  ],
+  "entities": {
+    "cv-issue-4000-987654": {
+      "kind": "issue",
+      "title": "Teenage Mutant Ninja Turtles: Shredder #9",
+      "series_name": "Teenage Mutant Ninja Turtles: Shredder",
+      "issue_number": "9",
+      "publisher": "IDW Publishing",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/tmnt-shredder-9.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": "4000-987654",
+        "comicvine_volume": "4050-145678",
+        "metron_issue": 56789,
+        "metron_series": 1234,
+        "isbn": null,
+        "upc": "82771401601100911",
+        "gcd_id": null,
+        "series_name": "Teenage Mutant Ninja Turtles: Shredder",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "metron-issue-56999": {
+      "kind": "issue",
+      "title": "Indie Spotlight #1",
+      "series_name": "Indie Spotlight",
+      "issue_number": "1",
+      "publisher": "Small Press Co.",
+      "format": "single_issue",
+      "cover_url": null,
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": 56999,
+        "metron_series": 9876,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "series_name": "Indie Spotlight",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-145300": {
+      "kind": "collection",
+      "title": "Monstress Volume 9",
+      "series_name": "Monstress",
+      "issue_number": null,
+      "publisher": "Image Comics",
+      "format": "trade_paperback",
+      "cover_url": "https://static.metron.cloud/media/issue/2025/11/monstress-vol-9.jpg",
+      "release_date": "2025-11-12",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-145300",
+        "metron_issue": null,
+        "metron_series": 4455,
+        "isbn": "9781534399999",
+        "upc": null,
+        "gcd_id": null,
+        "series_name": "Monstress",
+        "volume_year": 2015
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    }
+  }
+}

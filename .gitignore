@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# riso-discover-feed: on-disk API response cache
+.cache/
+
+# macOS
+.DS_Store

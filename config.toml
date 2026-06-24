@@ -1,0 +1,25 @@
+# riso-discover-feed configuration.
+#
+# build_tier controls which sources are allowed to run:
+#   "distribution" -> only distribution-clean sources (safe for an App Store build)
+#   "personal"     -> also runs personal-only sources (CBR, ComicVine) for local/testing
+# A source whose tier is "personal" is skipped automatically when build_tier is "distribution".
+build_tier = "distribution"
+
+# Each source is an independent, flag-gated module. tier is "distribution" or "personal".
+[sources.metron]
+enabled = true
+tier = "distribution"
+
+# Future sources (scaffolded later in the build sequence) — disabled for now.
+[sources.wikidata]
+enabled = false
+tier = "distribution"
+
+[sources.comic_book_roundup]
+enabled = false
+tier = "personal"
+
+[sources.comicvine]
+enabled = false
+tier = "personal"

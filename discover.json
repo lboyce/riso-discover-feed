@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-24T06:01:57Z",
+  "generated_at": "2026-06-24T16:17:04Z",
   "feed_window": {
     "start": "2026-06-22",
     "end": "2026-06-28"
@@ -3351,113 +3351,102 @@
       "source": "AIPT",
       "items": [
         {
-          "entity": "cv-volume-4050-170669",
+          "entity": "cv-volume-4050-171700",
           "reason": {
             "type": "review_signal",
             "source": "AIPT",
             "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/24/peril-of-the-brutal-dark-5-review/",
-            "snippet": "If there's one strike against Peril of the Brutal Dark #5, it's that it's over far too quickly.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/The-Peril-of-the-Brutal-Dark-An-Ezra-Cain-Mystery-5-1-e1781898573389.webp?fit=1248%2C918&amp;ssl=1"
+            "url": "https://aiptcomics.com/2026/06/24/zatanna-3-review-2/",
+            "snippet": "We finally get to see Prime Magus Zatanna in action, but before that, Zatanna has to recover from the events of last issue.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/Zatanna-3-1-cover-a-.jpg?fit=1200%2C800&amp;ssl=1"
           }
         },
         {
-          "entity": "cv-volume-4050-171249",
+          "entity": "cv-volume-4050-161311",
           "reason": {
             "type": "review_signal",
             "source": "AIPT",
             "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/24/bizarro-year-none-2-review/",
-            "snippet": "Bizarro's fragile reality begins to crack apart as Jimmy Olsen and Perry White uncover mysteries lurking beneath one of DC's strangest worlds.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/bizarro-2.jpg?fit=1280%2C1063&amp;ssl=1"
+            "url": "https://aiptcomics.com/2026/06/24/justice-league-unlimited-20-review/",
+            "snippet": "Mark Waid’s characterization of all the main players is the true star of this show.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/919LAnyxpwL._SL1500_.jpg?fit=1280%2C879&amp;ssl=1"
           }
         },
         {
-          "entity": "metron-issue-170936",
+          "entity": "cv-volume-4050-157432",
           "reason": {
             "type": "review_signal",
             "source": "AIPT",
             "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/24/summer-of-supergirl-special-1-review/",
-            "snippet": "Three stories that showcase Kara Zor-El's compassion, resilience, and enduring place in the DC Universe.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/81sE-Qtw28L._SL1500_.jpg?fit=1280%2C774&amp;ssl=1"
+            "url": "https://aiptcomics.com/2026/06/24/feral-24-review/",
+            "snippet": "This series has never once taken its foot off the gas in terms of thrills and chills.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/81l8RpzOR0L._SL1500_.jpg?fit=1280%2C903&amp;ssl=1"
           }
         },
         {
-          "entity": "cv-volume-4050-91098",
+          "entity": "cv-volume-4050-151301",
           "reason": {
             "type": "review_signal",
             "source": "AIPT",
             "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/24/detective-comics-1110-review/",
-            "snippet": "A great example of what happens when you let a dynamite creative team loose on a longstanding character to tell good, old-fashioned mysteries.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/Detective-Comics-1100-1-e1781898501935.webp?fit=1230%2C973&amp;ssl=1"
+            "url": "https://aiptcomics.com/2026/06/24/void-rivals-31-review/",
+            "snippet": "An oddly powerful interlude about letting go and making sure you don’t become an old, bitter version of yourself.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/814pYCb64nL._SL1500_.jpg?fit=1280%2C905&amp;ssl=1"
           }
         },
         {
-          "entity": "cv-volume-4050-160511",
+          "entity": "cv-issue-4000-1173279",
           "reason": {
             "type": "review_signal",
             "source": "AIPT",
             "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/24/absolute-wonder-woman-21-review/",
-            "snippet": "Absolute Wonder Woman has returned to the Wild Isle, but who kidnapped Circe?",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/Absolute-Wonder-Woman-21.jpg?fit=1200%2C800&amp;ssl=1"
+            "url": "https://aiptcomics.com/2026/06/24/hellboy-and-the-bprd-the-monster-of-nivola-1-review/",
+            "snippet": "Hellboy battles a monster and then battles the definition along the way.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/81AG2yB6L._SL1500_.jpg?fit=1280%2C946&amp;ssl=1"
           }
         },
         {
-          "entity": "cv-volume-4050-166458",
+          "entity": "cv-volume-4050-167333",
           "reason": {
             "type": "review_signal",
             "source": "AIPT",
             "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/23/teenage-mutant-ninja-turtles-shredder-9-review/",
-            "snippet": "New character dynamics and a foe that Oroku Saki can't easily defeat are introduced.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/81dbQZhUaML._SL1500_.jpg?fit=1280%2C918&amp;ssl=1"
+            "url": "https://aiptcomics.com/2026/06/24/venom-259-review/",
+            "snippet": "With multiple storylines converging and a cosmic war looming, this issue delivers character growth, sharp plotting, and a good cliffhanger.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/VENOM2025259_Preview-1.jpeg?fit=1280%2C1089&amp;ssl=1"
           }
         },
         {
-          "entity": "cv-volume-4050-171591",
+          "entity": "cv-volume-4050-158814",
           "reason": {
             "type": "review_signal",
             "source": "AIPT",
             "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/23/in-your-skin-3-review/",
-            "snippet": "Explores the corrupting influence of fame and how it shapes someone's identity as the horror series races toward its end.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/81OnCG5JxIL._SL1500_.jpg?fit=1280%2C1025&amp;ssl=1"
+            "url": "https://aiptcomics.com/2026/06/24/x-men-32-review-2/",
+            "snippet": "This issue throws X-Men's current story arc into high gear.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/917OIQZhkL._SL1500_.jpg?fit=1280%2C901&amp;ssl=1"
           }
         },
         {
-          "entity": "cv-volume-4050-168595",
+          "entity": "cv-volume-4050-172014",
           "reason": {
             "type": "review_signal",
             "source": "AIPT",
             "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/23/capes-8-review/",
-            "snippet": "The Invincible Universe continues to expand in fresh new ways, and I can't wait to see what's next.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/81MM8yFbNpL._SL1500_.jpg?fit=1280%2C968&amp;ssl=1"
+            "url": "https://aiptcomics.com/2026/06/24/ultimate-impact-reborn-2-review/",
+            "snippet": "A barrage of new heroes, villains, and shifting alliances keeps the energy high, even when the story struggles to give every character room to breathe.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/ultimate-impact-reborn-2-e1782311340166.jpg?fit=1280%2C994&amp;ssl=1"
           }
         },
         {
-          "entity": "cv-volume-4050-171508",
+          "entity": "cv-volume-4050-165232",
           "reason": {
             "type": "review_signal",
             "source": "AIPT",
             "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/23/fireborn-3-review/",
-            "snippet": "Aaron's trials have only begun.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/91mOh8N85FL._SL1500_.jpg?fit=1280%2C914&amp;ssl=1"
-          }
-        },
-        {
-          "entity": "metron-issue-171442",
-          "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/23/bludwire-1-review/",
-            "snippet": "High-speed action, striking visuals, and a thought-provoking romance at the heart of its futuristic world.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/bludwire.jpg?fit=1280%2C1146&amp;ssl=1"
+            "url": "https://aiptcomics.com/2026/06/24/captain-america-12-review/",
+            "snippet": "Steve Rogers is dragged to Hell on the behest of Doctor Doom.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/81xWA8wye2L._SL1500_.jpg?fit=1280%2C879&amp;ssl=1"
           }
         }
       ]

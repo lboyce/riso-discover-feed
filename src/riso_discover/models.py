@@ -7,6 +7,7 @@ separate JSON-schema file: the models are both writer and validator.
 
 from __future__ import annotations
 
+import hashlib
 from typing import Literal, Optional
 
 from pydantic import BaseModel, ConfigDict, Field
@@ -66,6 +67,7 @@ class Ids(_Model):
     upc: Optional[str] = None
     gcd_id: Optional[int] = None
     wikidata_id: Optional[str] = None  # e.g. "Q123456" — fallback key for editorial-only entities
+    source_url: Optional[str] = None  # origin article URL — fallback key for unresolved editorial items
     series_name: Optional[str] = None
     volume_year: Optional[int] = None
 
@@ -94,6 +96,7 @@ class Reason(_Model):
     label: Optional[str] = None  # human label, e.g. "AIPT's Best of 2025"
     url: Optional[str] = None  # citation / link-back if editorial
     snippet: Optional[str] = None  # short excerpt if editorial, never full text
+    image: Optional[str] = None  # feed image for editorial display (the article's image)
 
 
 class Item(_Model):
@@ -158,4 +161,7 @@ def entity_key(ids: Ids, *, kind: EntityKind = "issue") -> str:
         return f"metron-series-{ids.metron_series}"
     if ids.wikidata_id:
         return f"wd-{ids.wikidata_id}"  # editorial-only entity (e.g. unresolved award winner)
+    if ids.source_url:
+        digest = hashlib.sha1(ids.source_url.encode("utf-8")).hexdigest()[:12]
+        return f"rss-{digest}"  # editorial-only entity (e.g. unresolved review), keyed by article URL
     raise ValueError("Cannot build an entity key: no usable id present in the Ids block.")

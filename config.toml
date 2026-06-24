@@ -16,6 +16,10 @@ tier = "distribution"
 enabled = true
 tier = "distribution"
 
+[sources.rss]
+enabled = true
+tier = "distribution"
+
 [sources.comic_book_roundup]
 enabled = false
 tier = "personal"

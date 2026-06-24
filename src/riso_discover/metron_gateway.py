@@ -172,8 +172,16 @@ class MetronGateway:
             results = self._with_retry(
                 lambda: self.client.issues_list(params), label=f"issues_search {series_name}"
             )
-            # The search returns lightweight issues; fetch detail so cv_id/publisher are present.
-            return [self.issue_detail(getattr(r, "id")) for r in results]
+            # The search returns lightweight issues; fetch detail so cv_id/publisher are present, and
+            # enrich each with its series' ComicVine id so the resolver can fill comicvine_volume
+            # (matching the New This Week path). All sub-calls are cached.
+            enriched = []
+            for r in results:
+                detail = self.issue_detail(getattr(r, "id"))
+                series_id = (detail.get("series") or {}).get("id")
+                cv = self.series_cv_id(series_id) if series_id else None
+                enriched.append({**detail, "series": {**(detail.get("series") or {}), "cv_id": cv}})
+            return enriched
 
         return self.cache.get_or_compute(key, compute)
 

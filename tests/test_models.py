@@ -60,6 +60,15 @@ def test_entity_key_falls_back_to_wikidata():
     assert entity_key(ids) == "wd-Q110881556"
 
 
+def test_entity_key_falls_back_to_source_url():
+    ids = Ids(source_url="https://aiptcomics.com/x/saga-66-review/")
+    key = entity_key(ids)
+    assert key.startswith("rss-")
+    # Stable for the same URL, distinct for a different one.
+    assert key == entity_key(Ids(source_url="https://aiptcomics.com/x/saga-66-review/"))
+    assert key != entity_key(Ids(source_url="https://aiptcomics.com/x/other-review/"))
+
+
 def test_entity_key_requires_some_id():
     with pytest.raises(ValueError):
         entity_key(Ids())

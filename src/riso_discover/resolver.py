@@ -53,6 +53,14 @@ def _parse_date(value: Any) -> Optional[date]:
         return None
 
 
+_CONFIDENCE_ORDER = {"unresolved": 0, "partial": 1, "high": 2}
+
+
+def _weaker(a: Confidence, b: Confidence) -> Confidence:
+    """Return the lower of two confidence levels (high > partial > unresolved)."""
+    return a if _CONFIDENCE_ORDER[a] <= _CONFIDENCE_ORDER[b] else b
+
+
 def _issue_title(series_name: Optional[str], number: Optional[str]) -> str:
     if series_name and number:
         return f"{series_name} #{number}"
@@ -309,9 +317,13 @@ def resolve_query(
         "image": None,
     }
     entity = resolve_metron_issue(issue_dict, series_cv_id=best.series_cv_id)
-    # The fuzzy path's confidence is bounded by the disambiguation result, not just cv_id presence.
-    entity.resolution.confidence = confidence
-    return entity, confidence
+    # Final confidence is the *weaker* of two axes: how sure we are this is the right book
+    # (disambiguation) and whether we actually got the ComicVine issue id (cv presence, which also
+    # sets issue_pending for freshness lag). A confident match to a not-yet-indexed issue is still
+    # only 'partial'. issue_pending is preserved from resolve_metron_issue.
+    final = _weaker(entity.resolution.confidence, confidence)
+    entity.resolution.confidence = final
+    return entity, final
 
 
 # --- series path: for awards and other series-level signals ---------------------------------

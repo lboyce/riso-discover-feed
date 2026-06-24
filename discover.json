@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-24T01:25:45Z",
+  "generated_at": "2026-06-24T03:41:50Z",
   "feed_window": {
     "start": "2026-06-22",
     "end": "2026-06-28"
@@ -21,7 +21,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -31,7 +32,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -41,7 +43,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -51,7 +54,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -61,7 +65,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -71,7 +76,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -81,7 +87,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -91,7 +98,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -101,7 +109,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -111,7 +120,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -121,7 +131,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -131,7 +142,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -141,7 +153,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -151,7 +164,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -161,7 +175,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -171,7 +186,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -181,7 +197,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -191,7 +208,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -201,7 +219,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -211,7 +230,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -221,7 +241,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -231,7 +252,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -241,7 +263,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -251,7 +274,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -261,7 +285,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -271,7 +296,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -281,7 +307,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -291,7 +318,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -301,7 +329,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -311,7 +340,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -321,7 +351,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -331,7 +362,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -341,7 +373,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -351,7 +384,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -361,7 +395,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -371,7 +406,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -381,7 +417,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -391,7 +428,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -401,7 +439,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -411,7 +450,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -421,7 +461,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -431,7 +472,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -441,7 +483,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -451,7 +494,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -461,7 +505,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -471,7 +516,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -481,7 +527,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -491,7 +538,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -501,7 +549,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -511,7 +560,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -521,7 +571,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -531,7 +582,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -541,7 +593,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -551,7 +604,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -561,7 +615,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -571,7 +626,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -581,7 +637,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -591,7 +648,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -601,7 +659,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -611,7 +670,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -621,7 +681,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -631,7 +692,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -641,7 +703,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -651,7 +714,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -661,7 +725,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -671,7 +736,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -681,7 +747,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -691,7 +758,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -701,7 +769,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -711,7 +780,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -721,7 +791,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -731,7 +802,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -741,7 +813,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -751,7 +824,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -761,7 +835,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -771,7 +846,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -781,7 +857,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -791,7 +868,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -801,7 +879,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -811,7 +890,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -821,7 +901,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -831,7 +912,8 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
           }
         },
         {
@@ -841,7 +923,155 @@
             "source": "Metron",
             "label": null,
             "url": null,
-            "snippet": null
+            "snippet": null,
+            "image": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "eisner-winners",
+      "type": "award_winners",
+      "title": "Eisner Award Winners",
+      "subtitle": null,
+      "source_tier": "distribution",
+      "source": "Wikidata",
+      "items": []
+    },
+    {
+      "id": "harvey-winners",
+      "type": "award_winners",
+      "title": "Harvey Award Winners",
+      "subtitle": null,
+      "source_tier": "distribution",
+      "source": "Wikidata",
+      "items": []
+    },
+    {
+      "id": "ringo-winners",
+      "type": "award_winners",
+      "title": "Ringo Award Winners",
+      "subtitle": null,
+      "source_tier": "distribution",
+      "source": "Wikidata",
+      "items": []
+    },
+    {
+      "id": "aipt-reviews",
+      "type": "rss_department",
+      "title": "AIPT Reviews",
+      "subtitle": null,
+      "source_tier": "distribution",
+      "source": "AIPT",
+      "items": [
+        {
+          "entity": "cv-volume-4050-166458",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/23/teenage-mutant-ninja-turtles-shredder-9-review/",
+            "snippet": "New character dynamics and a foe that Oroku Saki can't easily defeat are introduced.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/81dbQZhUaML._SL1500_.jpg?fit=1280%2C918&amp;ssl=1"
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171591",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/23/in-your-skin-3-review/",
+            "snippet": "Explores the corrupting influence of fame and how it shapes someone's identity as the horror series races toward its end.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/81OnCG5JxIL._SL1500_.jpg?fit=1280%2C1025&amp;ssl=1"
+          }
+        },
+        {
+          "entity": "cv-volume-4050-168595",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/23/capes-8-review/",
+            "snippet": "The Invincible Universe continues to expand in fresh new ways, and I can't wait to see what's next.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/81MM8yFbNpL._SL1500_.jpg?fit=1280%2C968&amp;ssl=1"
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171508",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/23/fireborn-3-review/",
+            "snippet": "Aaron's trials have only begun.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/91mOh8N85FL._SL1500_.jpg?fit=1280%2C914&amp;ssl=1"
+          }
+        },
+        {
+          "entity": "metron-issue-171442",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/23/bludwire-1-review/",
+            "snippet": "High-speed action, striking visuals, and a thought-provoking romance at the heart of its futuristic world.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/bludwire.jpg?fit=1280%2C1146&amp;ssl=1"
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171581",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/23/corpse-knight-3-review/",
+            "snippet": "Long-buried mysteries begin to surface as the Corpse Knight faces his most desperate challenge yet in a standout third chapter.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/corpse-knight-3.jpg?fit=1280%2C1164&amp;ssl=1"
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170821",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/23/narco-4-review/",
+            "snippet": "A penultimate issue that really left me feeling lukewarm.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/narco-iss4-x1.jpg?fit=1500%2C1000&amp;ssl=1"
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170598",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/23/white-sky-4-review/",
+            "snippet": "What's worse than a ghost? Lots, it would appear.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/white-sky-iss4-x1.jpg?fit=1500%2C1000&amp;ssl=1"
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170589",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/23/death-fight-forever-5-review/",
+            "snippet": "Seriously, though, mega kaiju galore!",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/death-fight-forever-iss5-x11.jpg?fit=1050%2C700&amp;ssl=1"
+          }
+        },
+        {
+          "entity": "cv-volume-4050-166315",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/23/escape-8-review/",
+            "snippet": "The aftermath of Milton's impossible mission proves every bit as harrowing as the battle itself in another gripping chapter of Escape.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/escape-88.jpg?fit=1280%2C1087&amp;ssl=1"
           }
         }
       ]
@@ -865,6 +1095,8 @@
         "isbn": null,
         "upc": "977026228432688",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "2000 AD",
         "volume_year": 2001
       },
@@ -890,6 +1122,8 @@
         "isbn": null,
         "upc": "60196140530100411",
         "gcd_id": 2846548,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "51",
         "volume_year": 2026
       },
@@ -915,6 +1149,8 @@
         "isbn": null,
         "upc": "76194138585302011",
         "gcd_id": 2845459,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Absolute Superman",
         "volume_year": 2025
       },
@@ -940,6 +1176,8 @@
         "isbn": null,
         "upc": "76194138586002111",
         "gcd_id": 2845314,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Absolute Wonder Woman",
         "volume_year": 2024
       },
@@ -965,6 +1203,8 @@
         "isbn": null,
         "upc": "84428401291104011",
         "gcd_id": 2845395,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Alice Forever After",
         "volume_year": 2026
       },
@@ -990,6 +1230,8 @@
         "isbn": null,
         "upc": "75960621577500311",
         "gcd_id": 2845374,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Amazing Spider-Man: Spider-Versity",
         "volume_year": 2026
       },
@@ -1015,6 +1257,8 @@
         "isbn": null,
         "upc": "76156801474700811",
         "gcd_id": 2846317,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "American Caper",
         "volume_year": 2025
       },
@@ -1040,6 +1284,8 @@
         "isbn": null,
         "upc": "76281646954800611",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Archie (Comics) Double Digest",
         "volume_year": 2025
       },
@@ -1065,6 +1311,8 @@
         "isbn": null,
         "upc": "60196140525700511",
         "gcd_id": 2846549,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Barbarian Behind Bars",
         "volume_year": 2026
       },
@@ -1090,6 +1338,8 @@
         "isbn": null,
         "upc": "76194139379700211",
         "gcd_id": 2845319,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Bizarro: Year None",
         "volume_year": 2026
       },
@@ -1115,6 +1365,8 @@
         "isbn": null,
         "upc": "60196140536300111",
         "gcd_id": 2846568,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Blüdwire",
         "volume_year": 2026
       },
@@ -1140,6 +1392,8 @@
         "isbn": null,
         "upc": "70985304498700811",
         "gcd_id": 2846346,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Capes",
         "volume_year": 2025
       },
@@ -1165,6 +1419,8 @@
         "isbn": null,
         "upc": "75960621146301211",
         "gcd_id": 2845380,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Captain America",
         "volume_year": 2025
       },
@@ -1190,6 +1446,8 @@
         "isbn": null,
         "upc": "79361173648103211",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Conan: The Barbarian",
         "volume_year": 2023
       },
@@ -1215,6 +1473,8 @@
         "isbn": null,
         "upc": "70985304630100311",
         "gcd_id": 2846347,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Corpse Knight",
         "volume_year": 2026
       },
@@ -1240,6 +1500,8 @@
         "isbn": null,
         "upc": "70985304318800611",
         "gcd_id": 2846348,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "The Curse of Sherlee Johnson",
         "volume_year": 2025
       },
@@ -1265,6 +1527,8 @@
         "isbn": null,
         "upc": "76194139189200111",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "DC W.I.P.: Supergirl – Woman of Tomorrow",
         "volume_year": 2026
       },
@@ -1290,6 +1554,8 @@
         "isbn": null,
         "upc": "70985304169601511",
         "gcd_id": 2846349,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Deadly Tales of the Gunslinger",
         "volume_year": 2024
       },
@@ -1315,6 +1581,8 @@
         "isbn": null,
         "upc": "70985304570000511",
         "gcd_id": 2846350,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Death Fight Forever",
         "volume_year": 2026
       },
@@ -1340,6 +1608,8 @@
         "isbn": null,
         "upc": "76194134373011011",
         "gcd_id": 2845366,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Detective Comics",
         "volume_year": 2016
       },
@@ -1365,6 +1635,8 @@
         "isbn": null,
         "upc": "65946021576100311",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Diablo: Dawn of Hatred",
         "volume_year": 2026
       },
@@ -1390,6 +1662,8 @@
         "isbn": null,
         "upc": "75960621590400211",
         "gcd_id": 2845415,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Doomquest",
         "volume_year": 2026
       },
@@ -1415,6 +1689,8 @@
         "isbn": null,
         "upc": "70985304410900811",
         "gcd_id": 2846352,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Escape",
         "volume_year": 2025
       },
@@ -1440,6 +1716,8 @@
         "isbn": null,
         "upc": "60196140529500411",
         "gcd_id": 2846550,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Exploit",
         "volume_year": 2026
       },
@@ -1465,6 +1743,8 @@
         "isbn": null,
         "upc": "70985304709400111",
         "gcd_id": 2301322,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "The Eye Collector",
         "volume_year": 2026
       },
@@ -1490,6 +1770,8 @@
         "isbn": null,
         "upc": "70985303949502411",
         "gcd_id": 2846351,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Feral",
         "volume_year": 2024
       },
@@ -1515,6 +1797,8 @@
         "isbn": null,
         "upc": "70985304494900711",
         "gcd_id": 2846354,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Final Boss",
         "volume_year": 2025
       },
@@ -1540,6 +1824,8 @@
         "isbn": null,
         "upc": "70985304615800311",
         "gcd_id": 2846353,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Fireborn",
         "volume_year": 2026
       },
@@ -1565,6 +1851,8 @@
         "isbn": null,
         "upc": "76194138164003411",
         "gcd_id": 2845320,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "The Flash",
         "volume_year": 2023
       },
@@ -1590,6 +1878,8 @@
         "isbn": null,
         "upc": "60194704601601911",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Gatchaman",
         "volume_year": 2024
       },
@@ -1615,6 +1905,8 @@
         "isbn": null,
         "upc": "75960621449500511",
         "gcd_id": 2845373,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Generation X-23",
         "volume_year": 2026
       },
@@ -1640,6 +1932,8 @@
         "isbn": null,
         "upc": "76194137845900511",
         "gcd_id": 2845315,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Gotham Academy: First Year",
         "volume_year": 2025
       },
@@ -1665,6 +1959,8 @@
         "isbn": null,
         "upc": "76194138023003611",
         "gcd_id": 2845460,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Green Lantern",
         "volume_year": 2023
       },
@@ -1690,6 +1986,8 @@
         "isbn": null,
         "upc": "70985303221205511",
         "gcd_id": 2846355,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Gunslinger",
         "volume_year": 2021
       },
@@ -1715,6 +2013,8 @@
         "isbn": null,
         "upc": "76194137281506311",
         "gcd_id": 2845318,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Harley Quinn",
         "volume_year": 2021
       },
@@ -1740,6 +2040,8 @@
         "isbn": null,
         "upc": "76156801592800111",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Hellboy and the B.P.R.D.: The Monster of Nivola",
         "volume_year": 2026
       },
@@ -1765,6 +2067,8 @@
         "isbn": null,
         "upc": "76156801432700211",
         "gcd_id": 2846318,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Hidden Springs",
         "volume_year": 2026
       },
@@ -1790,6 +2094,8 @@
         "isbn": null,
         "upc": "60196140527100411",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Honor and Curse: Eternal",
         "volume_year": 2026
       },
@@ -1815,6 +2121,8 @@
         "isbn": null,
         "upc": "70985304166501411",
         "gcd_id": 2846356,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Hornsby & Halo",
         "volume_year": 2024
       },
@@ -1840,6 +2148,8 @@
         "isbn": null,
         "upc": "75960621361000811",
         "gcd_id": 2845379,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "The Infernal Hulk",
         "volume_year": 2026
       },
@@ -1865,6 +2175,8 @@
         "isbn": null,
         "upc": "70985304605900311",
         "gcd_id": 2846357,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "In Your Skin",
         "volume_year": 2026
       },
@@ -1890,6 +2202,8 @@
         "isbn": null,
         "upc": "60196140528800511",
         "gcd_id": 2846552,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Is Ted OK?",
         "volume_year": 2026
       },
@@ -1915,6 +2229,8 @@
         "isbn": null,
         "upc": "76194139759700411",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Justice League: Dream Girls – A DC Pride Event",
         "volume_year": 2026
       },
@@ -1940,6 +2256,8 @@
         "isbn": null,
         "upc": "76194138573002011",
         "gcd_id": 2845367,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Justice League Unlimited",
         "volume_year": 2025
       },
@@ -1965,6 +2283,8 @@
         "isbn": null,
         "upc": "70985303170305611",
         "gcd_id": 2846358,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "King Spawn",
         "volume_year": 2021
       },
@@ -1990,6 +2310,8 @@
         "isbn": null,
         "upc": "64985600903600111",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Mind MGMT: New & Improved",
         "volume_year": 2026
       },
@@ -2015,6 +2337,8 @@
         "isbn": null,
         "upc": "75960621358000411",
         "gcd_id": 2845375,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Moonstar",
         "volume_year": 2026
       },
@@ -2040,6 +2364,8 @@
         "isbn": null,
         "upc": "70985304585400411",
         "gcd_id": 2846360,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Narco",
         "volume_year": 2026
       },
@@ -2065,6 +2391,8 @@
         "isbn": null,
         "upc": "76194138465800511",
         "gcd_id": 2845441,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "The Peril of the Brutal Dark: An Ezra Cain Mystery",
         "volume_year": 2026
       },
@@ -2090,6 +2418,8 @@
         "isbn": null,
         "upc": "60196140532500311",
         "gcd_id": 2846553,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Planet Atmos: Exordium",
         "volume_year": 2026
       },
@@ -2115,6 +2445,8 @@
         "isbn": null,
         "upc": "76156801445701011",
         "gcd_id": 2846319,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Powers 25",
         "volume_year": 2025
       },
@@ -2140,6 +2472,8 @@
         "isbn": null,
         "upc": "60196140531803011",
         "gcd_id": 2846554,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Pretty Hate Machine",
         "volume_year": 2026
       },
@@ -2165,6 +2499,8 @@
         "isbn": null,
         "upc": "82771403418900411",
         "gcd_id": 2846564,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "A Quiet Place: Storm Warning",
         "volume_year": 2026
       },
@@ -2190,6 +2526,8 @@
         "isbn": null,
         "upc": "60196140497708011",
         "gcd_id": 2846326,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Racer X",
         "volume_year": 2025
       },
@@ -2215,6 +2553,8 @@
         "isbn": null,
         "upc": "65946036590900411",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Rafael Garcia: Henchman",
         "volume_year": 2026
       },
@@ -2240,6 +2580,8 @@
         "isbn": null,
         "upc": "70985304599100311",
         "gcd_id": 2846361,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Red Roots",
         "volume_year": 2026
       },
@@ -2265,6 +2607,8 @@
         "isbn": null,
         "upc": "82771403502500411",
         "gcd_id": 2845322,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "The Rocketeer: The Island",
         "volume_year": 2026
       },
@@ -2290,6 +2634,8 @@
         "isbn": null,
         "upc": "82771403522300311",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Star Trek: Starfleet Academy –- Lost Contact",
         "volume_year": 2026
       },
@@ -2315,6 +2661,8 @@
         "isbn": null,
         "upc": "75960621593500311",
         "gcd_id": 2845383,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Star Wars: Galaxy's Edge - Echoes of the Empire",
         "volume_year": 2026
       },
@@ -2340,6 +2688,8 @@
         "isbn": null,
         "upc": "76194139692700111",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Summer of Supergirl Special",
         "volume_year": 2026
       },
@@ -2365,6 +2715,8 @@
         "isbn": null,
         "upc": "76194137950003911",
         "gcd_id": 2845368,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Superman",
         "volume_year": 2023
       },
@@ -2390,6 +2742,8 @@
         "isbn": null,
         "upc": "76194139214100211",
         "gcd_id": 2845321,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Superman: Father of Tomorrow",
         "volume_year": 2026
       },
@@ -2415,6 +2769,8 @@
         "isbn": null,
         "upc": "76194139116800311",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Swamp Thing 1989",
         "volume_year": 2026
       },
@@ -2440,6 +2796,8 @@
         "isbn": null,
         "upc": "82771403150803811",
         "gcd_id": 2846525,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Teenage Mutant Ninja Turtles: Saturday Morning Adventures",
         "volume_year": 2023
       },
@@ -2465,6 +2823,8 @@
         "isbn": null,
         "upc": "82771403435600911",
         "gcd_id": 2845365,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Teenage Mutant Ninja Turtles: Shredder",
         "volume_year": 2025
       },
@@ -2490,6 +2850,8 @@
         "isbn": null,
         "upc": "60196140503500711",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Terrorbytes",
         "volume_year": 2025
       },
@@ -2515,6 +2877,8 @@
         "isbn": null,
         "upc": "72513036405003011",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "ThunderHawks",
         "volume_year": 2026
       },
@@ -2540,6 +2904,8 @@
         "isbn": null,
         "upc": "82771403461500811",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "The Twilight Zone",
         "volume_year": 2025
       },
@@ -2565,6 +2931,8 @@
         "isbn": null,
         "upc": "75960621336800511",
         "gcd_id": 2845386,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Ultimate Endgame",
         "volume_year": 2026
       },
@@ -2590,6 +2958,8 @@
         "isbn": null,
         "upc": "75960621461700211",
         "gcd_id": 2845387,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Ultimate Impact: Reborn",
         "volume_year": 2026
       },
@@ -2615,6 +2985,8 @@
         "isbn": null,
         "upc": "75960621283500111",
         "gcd_id": 2817774,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Ultimate Universe: Finale",
         "volume_year": 2026
       },
@@ -2640,6 +3012,8 @@
         "isbn": null,
         "upc": "70985304716200111",
         "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Universal Monsters: Blood of the Wolf Man",
         "volume_year": 2026
       },
@@ -2665,6 +3039,8 @@
         "isbn": null,
         "upc": "70985304623300211",
         "gcd_id": 2846363,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Universal Monsters: Creature from the Black Lagoon Lives! Black & White Special",
         "volume_year": 2026
       },
@@ -2690,6 +3066,8 @@
         "isbn": null,
         "upc": "76156801508900411",
         "gcd_id": 2846320,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Usagi Yojimbo: Kaitō '84",
         "volume_year": 2026
       },
@@ -2715,6 +3093,8 @@
         "isbn": null,
         "upc": "72513035713712011",
         "gcd_id": 2846325,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Vampirella Armageddon",
         "volume_year": 2025
       },
@@ -2740,6 +3120,8 @@
         "isbn": null,
         "upc": "75960621330625911",
         "gcd_id": 2845388,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Venom",
         "volume_year": 2025
       },
@@ -2765,6 +3147,8 @@
         "isbn": null,
         "upc": "70985303768203111",
         "gcd_id": 2845371,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Void Rivals",
         "volume_year": 2023
       },
@@ -2790,6 +3174,8 @@
         "isbn": null,
         "upc": "70985304580900411",
         "gcd_id": 2846332,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "White Sky",
         "volume_year": 2026
       },
@@ -2815,6 +3201,8 @@
         "isbn": null,
         "upc": "75960620841802211",
         "gcd_id": 2845381,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Wolverine",
         "volume_year": 2024
       },
@@ -2840,6 +3228,8 @@
         "isbn": null,
         "upc": "76194138162603411",
         "gcd_id": 2845369,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Wonder Woman",
         "volume_year": 2023
       },
@@ -2865,6 +3255,8 @@
         "isbn": null,
         "upc": "75960620920003211",
         "gcd_id": 2845372,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "X-Men",
         "volume_year": 2024
       },
@@ -2890,6 +3282,8 @@
         "isbn": null,
         "upc": "75960621530000111",
         "gcd_id": 2845416,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "X-Men: Outback",
         "volume_year": 2026
       },
@@ -2915,6 +3309,8 @@
         "isbn": null,
         "upc": "76194139675000311",
         "gcd_id": 2845461,
+        "wikidata_id": null,
+        "source_url": null,
         "series_name": "Zatanna",
         "volume_year": 2026
       },

@@ -85,6 +85,38 @@
           }
         }
       ]
+    },
+    {
+      "id": "aipt-reviews",
+      "type": "rss_department",
+      "title": "AIPT Reviews",
+      "subtitle": null,
+      "source_tier": "distribution",
+      "source": "AIPT",
+      "items": [
+        {
+          "entity": "cv-issue-4000-987654",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/24/tmnt-shredder-9-review/",
+            "snippet": "A propulsive, gorgeously drawn issue that cements this as IDW's flagship.",
+            "image": "https://aiptcomics.com/wp-content/uploads/tmnt-shredder-9.jpg"
+          }
+        },
+        {
+          "entity": "rss-a1b2c3d4e5f6",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/24/obscure-indie-thing-1-review/",
+            "snippet": "A scrappy debut from a brand-new press worth a look.",
+            "image": null
+          }
+        }
+      ]
     }
   ],
   "entities": {
@@ -183,6 +215,32 @@
         "gcd_id": null,
         "wikidata_id": "Q110881556",
         "series_name": "Lore Olympus",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "rss-a1b2c3d4e5f6": {
+      "kind": "issue",
+      "title": "Obscure Indie Thing #1",
+      "series_name": "Obscure Indie Thing",
+      "issue_number": "1",
+      "publisher": null,
+      "format": "single_issue",
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "source_url": "https://aiptcomics.com/2026/06/24/obscure-indie-thing-1-review/",
+        "series_name": "Obscure Indie Thing",
         "volume_year": null
       },
       "resolution": {

@@ -165,6 +165,22 @@ def test_resolve_query_resolves_via_searcher():
     assert entity.ids.comicvine_volume == "4050-145678"
 
 
+def test_resolve_query_freshness_lag_is_partial_even_when_match_is_confident():
+    # Confident disambiguation, but the issue has no ComicVine id yet (just shipped) -> partial.
+    rows = [{
+        "id": 5, "number": "9", "store_date": "2026-06-24", "publisher": "IDW Publishing",
+        "cv_id": None,
+        "series": {"id": 1234, "name": "TMNT: Shredder", "year_began": 2025, "cv_id": 145678},
+    }]
+    entity, confidence = resolve_query(
+        FakeSearcher(rows), "TMNT: Shredder", "9", date_hint=date(2026, 6, 24)
+    )
+    assert confidence == "partial"
+    assert entity.resolution.issue_pending is True
+    assert entity.ids.comicvine_issue is None
+    assert entity.ids.comicvine_volume == "4050-145678"
+
+
 def test_resolve_query_unresolved_returns_none():
     entity, confidence = resolve_query(FakeSearcher([]), "Nonexistent Series", "1")
     assert entity is None

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>AIPT Comics</title>
+    <link>https://aiptcomics.com</link>
+    <description>Comics reviews and news</description>
+    <item>
+      <title>Saga #66 review: A stunning return</title>
+      <link>https://aiptcomics.com/2024/05/01/saga-66-review/</link>
+      <category>Reviews</category>
+      <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://img.example/saga66.jpg" /&gt;Brian K. Vaughan and Fiona Staples deliver a gut-punch as the series returns. &lt;a href="https://aiptcomics.com/x"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+      <media:thumbnail url="https://img.example/saga66-thumb.jpg" />
+    </item>
+    <item>
+      <title>Obscure Indie Thing #1 review</title>
+      <link>https://aiptcomics.com/2024/05/02/obscure-indie-thing-1-review/</link>
+      <category>Reviews</category>
+      <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate>
+      <description>&lt;p&gt;A scrappy debut from a brand-new press worth a look.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Saga #67 preview</title>
+      <link>https://aiptcomics.com/2024/05/08/saga-67-preview/</link>
+      <category>Previews</category>
+      <pubDate>Wed, 08 May 2024 12:00:00 +0000</pubDate>
+      <description>First look at next issue.</description>
+    </item>
+    <item>
+      <title>Marvel announces new X-Men ongoing</title>
+      <link>https://aiptcomics.com/2024/05/09/marvel-xmen/</link>
+      <category>News</category>
+      <pubDate>Thu, 09 May 2024 12:00:00 +0000</pubDate>
+      <description>Big news from Marvel this morning.</description>
+    </item>
+  </channel>
+</rss>

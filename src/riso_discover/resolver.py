@@ -16,6 +16,7 @@ editorial-link-only entity (not pullable) rather than raising.
 
 from __future__ import annotations
 
+import re
 from dataclasses import dataclass
 from datetime import date
 from typing import Any, Optional, Protocol
@@ -311,3 +312,129 @@ def resolve_query(
     # The fuzzy path's confidence is bounded by the disambiguation result, not just cv_id presence.
     entity.resolution.confidence = confidence
     return entity, confidence
+
+
+# --- series path: for awards and other series-level signals ---------------------------------
+#
+# Award winners ("Best Continuing Series") resolve to a *series*, not an issue. Metron's
+# series_list returns lightweight BaseSeries (no cv_id); we disambiguate those, then fetch the
+# series detail for the cv_id. Mirrors the issue path above.
+
+
+def _normalize(text: Optional[str]) -> str:
+    """Lowercase, drop a trailing '(YYYY)', strip punctuation, collapse whitespace."""
+    if not text:
+        return ""
+    text = re.sub(r"\(\d{4}\)\s*$", "", text)  # Metron display names like "Saga (2012)"
+    text = re.sub(r"[^a-z0-9]+", " ", text.lower())
+    return " ".join(text.split())
+
+
+def _token_overlap(a: str, b: str) -> float:
+    sa, sb = set(a.split()), set(b.split())
+    if not sa or not sb:
+        return 0.0
+    return len(sa & sb) / len(sa | sb)
+
+
+class SeriesSearcher(Protocol):
+    """What the series resolver needs from the Metron gateway."""
+
+    def search_series(self, name: str) -> list[dict]: ...
+    def series_detail(self, series_id: int) -> dict: ...
+
+
+def score_series_candidate(
+    cand: dict, *, title: str, year_hint: Optional[int] = None
+) -> float:
+    """Score a BaseSeries candidate against an award-winner title. Pure function."""
+    score = 0.0
+    nt = _normalize(title)
+    cn = _normalize(cand.get("display_name"))
+
+    if nt and nt == cn:
+        score += 5.0
+    elif nt and cn and (nt in cn or cn in nt):
+        score += 2.5
+    else:
+        score += 3.0 * _token_overlap(nt, cn)  # partial-name credit
+
+    year_began = cand.get("year_began")
+    if year_hint and year_began:
+        if year_began > year_hint + 1:
+            score -= 6.0  # a series can't win an award before it began
+        elif abs(year_began - year_hint) <= 20:
+            score += 1.0  # plausible era
+
+    return score
+
+
+_SERIES_HIGH_SCORE = 4.5
+_SERIES_HIGH_MARGIN = 1.5
+
+
+def disambiguate_series(
+    candidates: list[dict], *, title: str, year_hint: Optional[int] = None
+) -> tuple[Optional[dict], Confidence]:
+    if not candidates:
+        return None, "unresolved"
+    scored = sorted(
+        candidates, key=lambda c: score_series_candidate(c, title=title, year_hint=year_hint),
+        reverse=True,
+    )
+    best = scored[0]
+    best_score = score_series_candidate(best, title=title, year_hint=year_hint)
+    runner = (
+        score_series_candidate(scored[1], title=title, year_hint=year_hint)
+        if len(scored) > 1
+        else float("-inf")
+    )
+    if best_score < 2.0:
+        return None, "unresolved"  # too weak a name match to trust
+    if best_score >= _SERIES_HIGH_SCORE and (best_score - runner) >= _SERIES_HIGH_MARGIN:
+        return best, "high"
+    return best, "partial"
+
+
+def resolve_series(
+    searcher: SeriesSearcher,
+    title: str,
+    *,
+    publisher_hint: Optional[str] = None,
+    year_hint: Optional[int] = None,
+) -> tuple[Optional[Entity], Confidence]:
+    """Resolve a series-level title (e.g. an award winner) to a series Entity.
+
+    Returns (entity, confidence). 'unresolved' -> entity is None and the caller falls back to an
+    editorial-only entry. Never emits a wrong match."""
+    candidates = searcher.search_series(title)
+    best, confidence = disambiguate_series(candidates, title=title, year_hint=year_hint)
+    if best is None:
+        return None, "unresolved"
+
+    detail = searcher.series_detail(best["id"])
+    cv_id = detail.get("cv_id")
+    series_name = detail.get("name") or _normalize(best.get("display_name")) or title
+    # Confidence is bounded by both the name match and whether we got a ComicVine id.
+    final: Confidence = "high" if (confidence == "high" and cv_id) else "partial"
+
+    ids = Ids(
+        comicvine_volume=comicvine_volume_id(cv_id) if cv_id else None,
+        metron_series=detail.get("id"),
+        gcd_id=detail.get("gcd_id") or None,
+        series_name=series_name,
+        volume_year=detail.get("year_began"),
+    )
+    entity = Entity(
+        kind="series",
+        title=series_name,
+        series_name=series_name,
+        issue_number=None,
+        publisher=detail.get("publisher") or publisher_hint,
+        format=None,  # a series has no single physical format
+        cover_url=None,
+        release_date=None,
+        ids=ids,
+        resolution=Resolution(confidence=final, issue_pending=False),
+    )
+    return entity, final

@@ -13,7 +13,7 @@ tier = "distribution"
 
 # Future sources (scaffolded later in the build sequence) — disabled for now.
 [sources.wikidata]
-enabled = false
+enabled = true
 tier = "distribution"
 
 [sources.comic_book_roundup]

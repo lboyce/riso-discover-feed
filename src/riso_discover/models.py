@@ -65,6 +65,7 @@ class Ids(_Model):
     isbn: Optional[str] = None
     upc: Optional[str] = None
     gcd_id: Optional[int] = None
+    wikidata_id: Optional[str] = None  # e.g. "Q123456" — fallback key for editorial-only entities
     series_name: Optional[str] = None
     volume_year: Optional[int] = None
 
@@ -80,7 +81,7 @@ class Entity(_Model):
     series_name: Optional[str] = None
     issue_number: Optional[str] = None  # null for collections / series-level entities
     publisher: Optional[str] = None
-    format: EntityFormat
+    format: Optional[EntityFormat] = None  # null for series-level entities (no single format)
     cover_url: Optional[str] = None
     release_date: Optional[str] = None  # YYYY-MM-DD
     ids: Ids
@@ -155,4 +156,6 @@ def entity_key(ids: Ids, *, kind: EntityKind = "issue") -> str:
         return f"metron-issue-{ids.metron_issue}"
     if ids.metron_series is not None:
         return f"metron-series-{ids.metron_series}"
+    if ids.wikidata_id:
+        return f"wd-{ids.wikidata_id}"  # editorial-only entity (e.g. unresolved award winner)
     raise ValueError("Cannot build an entity key: no usable id present in the Ids block.")

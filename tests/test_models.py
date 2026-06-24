@@ -55,6 +55,11 @@ def test_entity_key_falls_back_to_metron():
     assert entity_key(ids) == "metron-issue-56999"
 
 
+def test_entity_key_falls_back_to_wikidata():
+    ids = Ids(wikidata_id="Q110881556", series_name="Lore Olympus")
+    assert entity_key(ids) == "wd-Q110881556"
+
+
 def test_entity_key_requires_some_id():
     with pytest.raises(ValueError):
         entity_key(Ids())

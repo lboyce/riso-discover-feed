@@ -69,8 +69,18 @@
           "reason": {
             "type": "award",
             "source": "Wikidata",
-            "label": "Eisner Award, Best Continuing Series (2025)",
-            "url": "https://en.wikipedia.org/wiki/Eisner_Award",
+            "label": "Eisner Award for Best Continuing Series (2025)",
+            "url": "https://en.wikipedia.org/wiki/Monstress_(comics)",
+            "snippet": null
+          }
+        },
+        {
+          "entity": "wd-Q110881556",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Webcomic (2024)",
+            "url": "https://en.wikipedia.org/wiki/Lore_Olympus",
             "snippet": null
           }
         }
@@ -129,27 +139,54 @@
       }
     },
     "cv-volume-4050-145300": {
-      "kind": "collection",
-      "title": "Monstress Volume 9",
+      "kind": "series",
+      "title": "Monstress",
       "series_name": "Monstress",
       "issue_number": null,
       "publisher": "Image Comics",
-      "format": "trade_paperback",
-      "cover_url": "https://static.metron.cloud/media/issue/2025/11/monstress-vol-9.jpg",
-      "release_date": "2025-11-12",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
       "ids": {
         "comicvine_issue": null,
         "comicvine_volume": "4050-145300",
         "metron_issue": null,
         "metron_series": 4455,
-        "isbn": "9781534399999",
+        "isbn": null,
         "upc": null,
         "gcd_id": null,
+        "wikidata_id": "Q19355247",
         "series_name": "Monstress",
         "volume_year": 2015
       },
       "resolution": {
         "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "wd-Q110881556": {
+      "kind": "series",
+      "title": "Lore Olympus",
+      "series_name": "Lore Olympus",
+      "issue_number": null,
+      "publisher": "WEBTOON",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q110881556",
+        "series_name": "Lore Olympus",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
         "issue_pending": false
       }
     }

@@ -5,6 +5,7 @@ from types import SimpleNamespace
 
 from riso_discover.cache import JsonCache
 from riso_discover.config import MetronCredentials
+from riso_discover.metron_gateway import MetronGateway
 from riso_discover.sources.metron import MetronSource, upcoming_window, week_window
 
 
@@ -54,16 +55,20 @@ class FakeMetronClient:
         return self._issues[issue_id]
 
     def series(self, series_id):
-        return SimpleNamespace(id=series_id, cv_id=self._series_cv.get(series_id))
+        return SimpleNamespace(
+            id=series_id, name=f"series-{series_id}", year_began=2025, year_end=None,
+            issue_count=1, publisher=None, series_type=None,
+            cv_id=self._series_cv.get(series_id), gcd_id=None,
+        )
 
 
 def _source():
-    return MetronSource(
+    gateway = MetronGateway(
         MetronCredentials("fake", "fake"),
-        today=date(2026, 6, 24),
         cache=JsonCache("test", enabled=False),
         client=FakeMetronClient(),
     )
+    return MetronSource(gateway, today=date(2026, 6, 24))
 
 
 def test_windows():

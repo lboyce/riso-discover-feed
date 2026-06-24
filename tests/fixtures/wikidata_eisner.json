@@ -1,0 +1,17 @@
+[
+  {
+    "work": {"type": "uri", "value": "http://www.wikidata.org/entity/Q60799410"},
+    "workLabel": {"value": "Something Is Killing the Children"},
+    "awardLabel": {"value": "Eisner Award for Best New Series"},
+    "year": {"value": "2020"},
+    "publisherLabel": {"value": "BOOM! Studios"},
+    "article": {"value": "https://en.wikipedia.org/wiki/Something_Is_Killing_the_Children"}
+  },
+  {
+    "work": {"type": "uri", "value": "http://www.wikidata.org/entity/Q110881556"},
+    "workLabel": {"value": "Lore Olympus"},
+    "awardLabel": {"value": "Eisner Award for Best Webcomic"},
+    "year": {"value": "2022"},
+    "article": {"value": "https://en.wikipedia.org/wiki/Lore_Olympus"}
+  }
+]

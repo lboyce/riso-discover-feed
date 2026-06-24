@@ -7,8 +7,10 @@ from pathlib import Path
 from riso_discover.resolver import (
     Candidate,
     disambiguate,
+    disambiguate_series,
     resolve_metron_issue,
     resolve_query,
+    resolve_series,
 )
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
@@ -165,5 +167,74 @@ def test_resolve_query_resolves_via_searcher():
 
 def test_resolve_query_unresolved_returns_none():
     entity, confidence = resolve_query(FakeSearcher([]), "Nonexistent Series", "1")
+    assert entity is None
+    assert confidence == "unresolved"
+
+
+# --- series path (awards) -------------------------------------------------------------------
+
+
+class FakeSeriesSearcher:
+    def __init__(self, rows, detail):
+        self.rows = rows
+        self.detail = detail
+
+    def search_series(self, name):
+        return self.rows
+
+    def series_detail(self, series_id):
+        return self.detail[series_id]
+
+
+_SIKTC_ROWS = [
+    {"id": 100, "display_name": "Something Is Killing the Children (2019)",
+     "year_began": 2019, "year_end": None, "issue_count": 36},
+    {"id": 200, "display_name": "House of Slaughter (2021)",
+     "year_began": 2021, "year_end": None, "issue_count": 20},
+]
+
+
+def test_disambiguate_series_picks_by_name():
+    best, confidence = disambiguate_series(
+        _SIKTC_ROWS, title="Something Is Killing the Children", year_hint=2022
+    )
+    assert best["id"] == 100
+    assert confidence == "high"
+
+
+def test_resolve_series_high_with_cv_id():
+    detail = {100: {"id": 100, "name": "Something Is Killing the Children", "year_began": 2019,
+                    "publisher": "BOOM! Studios", "series_type": "Ongoing", "cv_id": 120000,
+                    "gcd_id": None}}
+    entity, confidence = resolve_series(
+        FakeSeriesSearcher(_SIKTC_ROWS, detail),
+        "Something Is Killing the Children",
+        year_hint=2022,
+    )
+    assert confidence == "high"
+    assert entity.kind == "series"
+    assert entity.format is None
+    assert entity.ids.comicvine_volume == "4050-120000"
+    assert entity.ids.metron_series == 100
+    assert entity.publisher == "BOOM! Studios"
+
+
+def test_resolve_series_partial_without_cv_id():
+    detail = {100: {"id": 100, "name": "Something Is Killing the Children", "year_began": 2019,
+                    "publisher": "BOOM! Studios", "cv_id": None, "gcd_id": None}}
+    entity, confidence = resolve_series(
+        FakeSeriesSearcher(_SIKTC_ROWS, detail),
+        "Something Is Killing the Children",
+        year_hint=2022,
+    )
+    assert confidence == "partial"
+    assert entity.ids.comicvine_volume is None
+    assert entity.ids.metron_series == 100
+
+
+def test_resolve_series_unresolved_when_no_name_match():
+    entity, confidence = resolve_series(
+        FakeSeriesSearcher(_SIKTC_ROWS, {}), "A Totally Different Webcomic", year_hint=2022
+    )
     assert entity is None
     assert confidence == "unresolved"

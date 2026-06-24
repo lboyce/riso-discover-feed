@@ -17,9 +17,11 @@ from pathlib import Path
 
 from . import SCHEMA_VERSION
 from .config import REPO_ROOT, Config, load_config, load_metron_credentials
+from .metron_gateway import MetronGateway
 from .models import DiscoverFeed, Entity, FeedWindow, Section
 from .sources.base import BaseSource, SourceOutput
 from .sources.metron import MetronSource, week_window
+from .sources.wikidata import WikidataSource
 
 log = logging.getLogger(__name__)
 
@@ -27,15 +29,26 @@ DEFAULT_OUTPUT = REPO_ROOT / "discover.json"
 
 
 def build_sources(config: Config, *, today: date, upcoming_weeks: int = 4) -> list[BaseSource]:
-    """Instantiate the active sources named in config. Unknown/not-yet-built names are skipped."""
+    """Instantiate the active sources named in config. Unknown/not-yet-built names are skipped.
+
+    A single Metron gateway (client + cache + rate-limit retry) is built once and shared by every
+    source that resolves through Metron."""
+    gateway: MetronGateway | None = None
+
+    def metron_gateway() -> MetronGateway:
+        nonlocal gateway
+        if gateway is None:
+            gateway = MetronGateway(load_metron_credentials())
+        return gateway
+
     sources: list[BaseSource] = []
     for spec in config.active_sources():
         if spec.name == "metron":
             sources.append(
-                MetronSource(
-                    load_metron_credentials(), today=today, upcoming_weeks=upcoming_weeks
-                )
+                MetronSource(metron_gateway(), today=today, upcoming_weeks=upcoming_weeks)
             )
+        elif spec.name == "wikidata":
+            sources.append(WikidataSource(metron_gateway(), today=today))
         else:
             log.info("Source '%s' is enabled but not yet implemented; skipping.", spec.name)
     return sources

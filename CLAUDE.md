@@ -304,3 +304,11 @@ if at all).
   expected to contain mostly `partial` / `issue_pending` entities with only `comicvine_volume` set,
   because ComicVine hasn't cross-referenced the brand-new *issues* yet. Older weeks resolve to full
   `comicvine_issue` IDs at `high` confidence. Don't mistake an all-`partial` current week for a bug.
+- **Wikidata Query Service (WQS) is finicky.** It requires a **descriptive `User-Agent`** (project +
+  contact URL) or it blocks you. It also **rate-limits and has periodic outages** — during an
+  incident it returns `429 ... 1 req/min` or `502`. Keep SPARQL **lean** (use `STRSTARTS` not
+  `CONTAINS`, filter works-only with `?type != wd:Q5`, minimize `OPTIONAL`/`SERVICE` joins) so
+  queries finish inside the 60s server limit. The Wikidata source has bounded retry/backoff and the
+  per-source try/except degrades to empty award sections, so an outage never breaks the run — awards
+  simply fill in on the next successful weekly run (Metron calls come from `.cache`, so it's cheap to
+  rerun). Seen 2026-06-23: a multi-hour WQS outage blocked live award verification entirely.

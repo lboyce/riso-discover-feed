@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-25T02:32:47Z",
+  "generated_at": "2026-06-25T03:17:10Z",
   "feed_window": {
     "start": "2026-06-22",
     "end": "2026-06-28"
@@ -193,9 +193,9 @@
             "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-wonder-woman-(2024)/21",
             "snippet": null,
             "image": null,
-            "score": 9.3,
+            "score": 9.2,
             "score_max": 10.0,
-            "review_count": 5,
+            "review_count": 6,
             "pros": null,
             "cons": null
           }
@@ -212,22 +212,6 @@
             "score": 9.2,
             "score_max": 10.0,
             "review_count": 11,
-            "pros": null,
-            "cons": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-160860",
-          "reason": {
-            "type": "featured_pick",
-            "source": "Comic Book Roundup",
-            "label": "Critically Acclaimed",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-superman-(2024)/20",
-            "snippet": null,
-            "image": null,
-            "score": 9.0,
-            "score_max": 10.0,
-            "review_count": 5,
             "pros": null,
             "cons": null
           }
@@ -260,6 +244,22 @@
             "score": 9.0,
             "score_max": 10.0,
             "review_count": 8,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-160860",
+          "reason": {
+            "type": "featured_pick",
+            "source": "Comic Book Roundup",
+            "label": "Critically Acclaimed",
+            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-superman-(2024)/20",
+            "snippet": null,
+            "image": null,
+            "score": 9.0,
+            "score_max": 10.0,
+            "review_count": 6,
             "pros": null,
             "cons": null
           }
@@ -475,9 +475,9 @@
             "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-wonder-woman-(2024)/21",
             "snippet": null,
             "image": null,
-            "score": 9.3,
+            "score": 9.2,
             "score_max": 10.0,
-            "review_count": 5,
+            "review_count": 6,
             "pros": null,
             "cons": null
           }
@@ -493,7 +493,7 @@
             "image": null,
             "score": 9.0,
             "score_max": 10.0,
-            "review_count": 5,
+            "review_count": 6,
             "pros": null,
             "cons": null
           }
@@ -613,7 +613,440 @@
       "subtitle": null,
       "source_tier": "distribution",
       "source": "Wikidata",
-      "items": []
+      "items": [
+        {
+          "entity": "cv-volume-4050-160511",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best New Series (2025)",
+            "url": "https://en.wikipedia.org/wiki/Absolute_Wonder_Woman",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q131520441",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Digital Comic (2025)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q138606391",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award (2025)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q11316067",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Painter/Multimedia Artist (2023)",
+            "url": "https://en.wikipedia.org/wiki/Sana_Takeda",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q18221753",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best U.S. Edition of International Material-Asia (2022)",
+            "url": "https://en.wikipedia.org/wiki/Lovesickness_(manga)",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q96219608",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Webcomic (2022)",
+            "url": "https://en.wikipedia.org/wiki/Lore_Olympus",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-121102",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Continuing Series (2022)",
+            "url": "https://en.wikipedia.org/wiki/Something_Is_Killing_the_Children",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-115236",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Continuing Series (2022)",
+            "url": "https://en.wikipedia.org/wiki/Bitter_Root",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q107404730",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Comics-Related Periodical/Journalism (2022)",
+            "url": "https://en.wikipedia.org/wiki/WomenWriteAboutComics",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q108795607",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Digital Comic (2022)",
+            "url": "https://en.wikipedia.org/wiki/Snow_Angels_(comic)",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-138069",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Humor Publication (2022)",
+            "url": "https://en.wikipedia.org/wiki/Not_All_Robots",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-135895",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Limited Series (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q113342691",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best New Series (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q113342694",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Publication for Teens (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q113342692",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Publication for Early Readers (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q113342693",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Publication for Kids (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q113342698",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Reality-Based Work (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q113342699",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Graphic Memoir (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q113342697",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Anthology (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q113342702",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Adaptation from Another Medium (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-81335",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best U.S. Edition of International Material (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-133182",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Graphic Album — New (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q113342701",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Graphic Album — Reprint (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q113342706",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Comics-Related Book (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q113342707",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Academic/Scholarly Work (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q113342704",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Archival Collection/Project (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q113342705",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Archival Collection/Project (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        }
+      ]
     },
     {
       "id": "harvey-winners",
@@ -622,7 +1055,40 @@
       "subtitle": null,
       "source_tier": "distribution",
       "source": "Wikidata",
-      "items": []
+      "items": [
+        {
+          "entity": "wd-Q65240543",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Harvey Awards (2023)",
+            "url": "https://en.wikipedia.org/wiki/Chainsaw_Man",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        },
+        {
+          "entity": "wd-Q115259407",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Harvey Awards (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null
+          }
+        }
+      ]
     },
     {
       "id": "ringo-winners",
@@ -2847,6 +3313,762 @@
         "issue_pending": true
       }
     },
+    "wd-Q131520441": {
+      "kind": "series",
+      "title": "My Journey to Her",
+      "series_name": "My Journey to Her",
+      "issue_number": null,
+      "publisher": null,
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q131520441",
+        "source_url": null,
+        "series_name": "My Journey to Her",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q138606391": {
+      "kind": "series",
+      "title": "Q138606391",
+      "series_name": "Q138606391",
+      "issue_number": null,
+      "publisher": null,
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q138606391",
+        "source_url": null,
+        "series_name": "Q138606391",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q11316067": {
+      "kind": "series",
+      "title": "Sana Takeda",
+      "series_name": "Sana Takeda",
+      "issue_number": null,
+      "publisher": null,
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q11316067",
+        "source_url": null,
+        "series_name": "Sana Takeda",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q18221753": {
+      "kind": "series",
+      "title": "Lovesickness: Junji Ito Story Collection",
+      "series_name": "Lovesickness: Junji Ito Story Collection",
+      "issue_number": null,
+      "publisher": "Viz Media, LLC",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q18221753",
+        "source_url": null,
+        "series_name": "Lovesickness: Junji Ito Story Collection",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q96219608": {
+      "kind": "series",
+      "title": "Lore Olympus",
+      "series_name": "Lore Olympus",
+      "issue_number": null,
+      "publisher": "Webtoon",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q96219608",
+        "source_url": null,
+        "series_name": "Lore Olympus",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-121102": {
+      "kind": "series",
+      "title": "Something Is Killing the Children",
+      "series_name": "Something Is Killing the Children",
+      "issue_number": null,
+      "publisher": "Boom! Studios",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-121102",
+        "metron_issue": null,
+        "metron_series": 614,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 160025,
+        "wikidata_id": "Q96406003",
+        "source_url": null,
+        "series_name": "Something Is Killing the Children",
+        "volume_year": 2019
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-115236": {
+      "kind": "series",
+      "title": "Bitter Root",
+      "series_name": "Bitter Root",
+      "issue_number": null,
+      "publisher": "Image Comics",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-115236",
+        "metron_issue": null,
+        "metron_series": 4244,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 133767,
+        "wikidata_id": "Q98108164",
+        "source_url": null,
+        "series_name": "Bitter Root",
+        "volume_year": 2018
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "wd-Q107404730": {
+      "kind": "series",
+      "title": "WomenWriteAboutComics",
+      "series_name": "WomenWriteAboutComics",
+      "issue_number": null,
+      "publisher": null,
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q107404730",
+        "source_url": null,
+        "series_name": "WomenWriteAboutComics",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q108795607": {
+      "kind": "series",
+      "title": "Snow Angels",
+      "series_name": "Snow Angels",
+      "issue_number": null,
+      "publisher": "Dark Horse Books",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q108795607",
+        "source_url": null,
+        "series_name": "Snow Angels",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-138069": {
+      "kind": "series",
+      "title": "Not All Robots",
+      "series_name": "Not All Robots",
+      "issue_number": null,
+      "publisher": "AWA Studios",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-138069",
+        "metron_issue": null,
+        "metron_series": 2514,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 174708,
+        "wikidata_id": "Q113342696",
+        "source_url": null,
+        "series_name": "Not All Robots",
+        "volume_year": 2021
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-135895": {
+      "kind": "series",
+      "title": "The Good Asian",
+      "series_name": "The Good Asian",
+      "issue_number": null,
+      "publisher": "Image Comics",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-135895",
+        "metron_issue": null,
+        "metron_series": 2759,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 172789,
+        "wikidata_id": "Q113342690",
+        "source_url": null,
+        "series_name": "The Good Asian",
+        "volume_year": 2021
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342691": {
+      "kind": "series",
+      "title": "The Nice House On The Lake 2021",
+      "series_name": "The Nice House On The Lake 2021",
+      "issue_number": null,
+      "publisher": "DC Comics",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342691",
+        "source_url": null,
+        "series_name": "The Nice House On The Lake 2021",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342694": {
+      "kind": "series",
+      "title": "The Legend of Auntie Po",
+      "series_name": "The Legend of Auntie Po",
+      "issue_number": null,
+      "publisher": "Penguin Random House",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342694",
+        "source_url": null,
+        "series_name": "The Legend of Auntie Po",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342692": {
+      "kind": "series",
+      "title": "Attack of the Heebie Chibis",
+      "series_name": "Attack of the Heebie Chibis",
+      "issue_number": null,
+      "publisher": "IDW Publishing",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342692",
+        "source_url": null,
+        "series_name": "Attack of the Heebie Chibis",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342693": {
+      "kind": "series",
+      "title": "Salt Magic",
+      "series_name": "Salt Magic",
+      "issue_number": null,
+      "publisher": null,
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342693",
+        "source_url": null,
+        "series_name": "Salt Magic",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342698": {
+      "kind": "series",
+      "title": "The Black Panther Party: A Graphic Novel History",
+      "series_name": "The Black Panther Party: A Graphic Novel History",
+      "issue_number": null,
+      "publisher": "Ten Speed Press",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342698",
+        "source_url": null,
+        "series_name": "The Black Panther Party: A Graphic Novel History",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342699": {
+      "kind": "series",
+      "title": "Run Book One",
+      "series_name": "Run Book One",
+      "issue_number": null,
+      "publisher": "Abrams Books",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342699",
+        "source_url": null,
+        "series_name": "Run Book One",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342697": {
+      "kind": "series",
+      "title": "You Died: An Anthology of the Afterlife",
+      "series_name": "You Died: An Anthology of the Afterlife",
+      "issue_number": null,
+      "publisher": "Iron Circus Comics",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342697",
+        "source_url": null,
+        "series_name": "You Died: An Anthology of the Afterlife",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342702": {
+      "kind": "series",
+      "title": "George Orwell's 1984: The Graphic Novel",
+      "series_name": "George Orwell's 1984: The Graphic Novel",
+      "issue_number": null,
+      "publisher": "Mariner Books",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342702",
+        "source_url": null,
+        "series_name": "George Orwell's 1984: The Graphic Novel",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-81335": {
+      "kind": "series",
+      "title": "Convergence Batman: Shadow of the Bat",
+      "series_name": "Convergence Batman: Shadow of the Bat",
+      "issue_number": null,
+      "publisher": "DC Comics",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-81335",
+        "metron_issue": null,
+        "metron_series": 13757,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 88322,
+        "wikidata_id": "Q113342703",
+        "source_url": null,
+        "series_name": "Convergence Batman: Shadow of the Bat",
+        "volume_year": 2015
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-133182": {
+      "kind": "series",
+      "title": "American Mythology Monsters",
+      "series_name": "American Mythology Monsters",
+      "issue_number": null,
+      "publisher": "American Mythology Productions",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-133182",
+        "metron_issue": null,
+        "metron_series": 13036,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 168712,
+        "wikidata_id": "Q113342700",
+        "source_url": null,
+        "series_name": "American Mythology Monsters",
+        "volume_year": 2021
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342701": {
+      "kind": "series",
+      "title": "The Complete American Gods",
+      "series_name": "The Complete American Gods",
+      "issue_number": null,
+      "publisher": "Dark Horse Books",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342701",
+        "source_url": null,
+        "series_name": "The Complete American Gods",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342706": {
+      "kind": "series",
+      "title": "All of the Marvels: A Journey to the Ends of the Biggest Story Ever Told",
+      "series_name": "All of the Marvels: A Journey to the Ends of the Biggest Story Ever Told",
+      "issue_number": null,
+      "publisher": "Penguin Group",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342706",
+        "source_url": null,
+        "series_name": "All of the Marvels: A Journey to the Ends of the Biggest Story Ever Told",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342707": {
+      "kind": "series",
+      "title": "Comics and the Origins of Manga: A Revisionist History",
+      "series_name": "Comics and the Origins of Manga: A Revisionist History",
+      "issue_number": null,
+      "publisher": "Rutgers University Press",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342707",
+        "source_url": null,
+        "series_name": "Comics and the Origins of Manga: A Revisionist History",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342704": {
+      "kind": "series",
+      "title": "Popeye: The E.C. Segar Popeye Sundays Volume 1",
+      "series_name": "Popeye: The E.C. Segar Popeye Sundays Volume 1",
+      "issue_number": null,
+      "publisher": "Fantagraphics Books",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342704",
+        "source_url": null,
+        "series_name": "Popeye: The E.C. Segar Popeye Sundays Volume 1",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342705": {
+      "kind": "series",
+      "title": "EC Covers Artist's Edition",
+      "series_name": "EC Covers Artist's Edition",
+      "issue_number": null,
+      "publisher": "IDW Publishing",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342705",
+        "source_url": null,
+        "series_name": "EC Covers Artist's Edition",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q65240543": {
+      "kind": "series",
+      "title": "Chainsaw Man",
+      "series_name": "Chainsaw Man",
+      "issue_number": null,
+      "publisher": "Jump Comics",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q65240543",
+        "source_url": null,
+        "series_name": "Chainsaw Man",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q115259407": {
+      "kind": "series",
+      "title": "Squire",
+      "series_name": "Squire",
+      "issue_number": null,
+      "publisher": "Quill Tree Books",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": "978-0-06-294584-6",
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q115259407",
+        "source_url": null,
+        "series_name": "Squire",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
     "cv-volume-4050-167320": {
       "kind": "issue",
       "title": "Gotham Academy: First Year #5",
@@ -2854,7 +4076,7 @@
       "issue_number": "5",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/00f740f23f7949ee854dc8d99a6d8bf7.jpg",
       "release_date": "2026-06-24",
       "ids": {
         "comicvine_issue": null,
@@ -2862,8 +4084,8 @@
         "metron_issue": 170930,
         "metron_series": 13199,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "76194137845900511",
+        "gcd_id": 2845315,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Gotham Academy: First Year",
@@ -2881,7 +4103,7 @@
       "issue_number": "4",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/dfe2764b4a34434ab7abcaa16798d930.jpg",
       "release_date": "2026-06-24",
       "ids": {
         "comicvine_issue": null,
@@ -2889,7 +4111,7 @@
         "metron_issue": 170934,
         "metron_series": 15764,
         "isbn": null,
-        "upc": null,
+        "upc": "76194139759700411",
         "gcd_id": null,
         "wikidata_id": null,
         "source_url": null,
@@ -2908,7 +4130,7 @@
       "issue_number": "34",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/11f3acdb20a54d918ee652b12df9ed43.jpg",
       "release_date": "2026-06-24",
       "ids": {
         "comicvine_issue": null,
@@ -2916,8 +4138,8 @@
         "metron_issue": 170939,
         "metron_series": 5545,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "76194138162603411",
+        "gcd_id": 2845369,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Wonder Woman",
@@ -2935,7 +4157,7 @@
       "issue_number": "3",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/c62d775b0d5e43b9aba016ce2a6694c1.jpg",
       "release_date": "2026-06-24",
       "ids": {
         "comicvine_issue": null,
@@ -2943,8 +4165,8 @@
         "metron_issue": 170940,
         "metron_series": 15526,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "76194139675000311",
+        "gcd_id": 2845461,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Zatanna",
@@ -2962,7 +4184,7 @@
       "issue_number": "20",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/ce06bcb279fa440fb7e9610bcf2ae4cd.jpg",
       "release_date": "2026-06-24",
       "ids": {
         "comicvine_issue": null,
@@ -2970,8 +4192,8 @@
         "metron_issue": 170933,
         "metron_series": 9044,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "76194138573002011",
+        "gcd_id": 2845367,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Justice League Unlimited",
@@ -2989,7 +4211,7 @@
       "issue_number": "24",
       "publisher": "Image Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/03/24/5ce3d64eb9d24b358e717f6e027d06e9.jpg",
       "release_date": "2026-06-24",
       "ids": {
         "comicvine_issue": null,
@@ -2997,8 +4219,8 @@
         "metron_issue": 163938,
         "metron_series": 7231,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "70985303949502411",
+        "gcd_id": 2846351,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Feral",
@@ -3016,7 +4238,7 @@
       "issue_number": "31",
       "publisher": "Skybound",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/e5e0a731d26a49bbac67b732904ca979.jpg",
       "release_date": "2026-06-24",
       "ids": {
         "comicvine_issue": null,
@@ -3024,8 +4246,8 @@
         "metron_issue": 169265,
         "metron_series": 5178,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "70985303768203111",
+        "gcd_id": 2845371,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Void Rivals",
@@ -3043,7 +4265,7 @@
       "issue_number": "1",
       "publisher": "Dark Horse Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/16/c6797f7507e74658b1dee0a0dd4e5c9b.jpg",
       "release_date": "2026-06-24",
       "ids": {
         "comicvine_issue": "4000-1173279",
@@ -3051,7 +4273,7 @@
         "metron_issue": 171489,
         "metron_series": 16106,
         "isbn": null,
-        "upc": null,
+        "upc": "76156801592800111",
         "gcd_id": null,
         "wikidata_id": null,
         "source_url": null,
@@ -3070,7 +4292,7 @@
       "issue_number": "259",
       "publisher": "Marvel",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/6311223f6dec46e7a3787299491dacad.jpg",
       "release_date": "2026-06-24",
       "ids": {
         "comicvine_issue": null,
@@ -3078,8 +4300,8 @@
         "metron_issue": 171360,
         "metron_series": 13483,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "75960621330625911",
+        "gcd_id": 2845388,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Venom",
@@ -3178,7 +4400,7 @@
       "issue_number": "48",
       "publisher": "Boom! Studios",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/11/629da388c2974995b409640ec0310f02.jpg",
       "release_date": "2026-06-17",
       "ids": {
         "comicvine_issue": "4000-1172012",
@@ -3186,8 +4408,8 @@
         "metron_issue": 164498,
         "metron_series": 614,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "84428400737548011",
+        "gcd_id": 2843007,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Something Is Killing the Children",
@@ -3205,7 +4427,7 @@
       "issue_number": "10",
       "publisher": "Image Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/12/351b20c401f741ec8b04a50e09fb669d.jpg",
       "release_date": "2026-06-17",
       "ids": {
         "comicvine_issue": "4000-1171993",
@@ -3213,8 +4435,8 @@
         "metron_issue": 164528,
         "metron_series": 11881,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "70985304269301011",
+        "gcd_id": 2844152,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Invincible Universe: Battle Beast",
@@ -3232,7 +4454,7 @@
       "issue_number": "1",
       "publisher": "Marvel",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/20a61c544d894e10875a2238f790ba80.jpg",
       "release_date": "2026-06-24",
       "ids": {
         "comicvine_issue": null,
@@ -3240,8 +4462,8 @@
         "metron_issue": 171359,
         "metron_series": 16077,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "75960621283500111",
+        "gcd_id": 2817774,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Ultimate Universe: Finale",
@@ -3259,7 +4481,7 @@
       "issue_number": "1",
       "publisher": "Mad Cave Studios",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/01/45328f7f84b849f79a387bab990cf028.jpg",
       "release_date": "2026-06-17",
       "ids": {
         "comicvine_issue": "4000-1171995",
@@ -3267,8 +4489,8 @@
         "metron_issue": 171039,
         "metron_series": 16001,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "60194704578100111",
+        "gcd_id": 2844247,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Land of Never",
@@ -3286,7 +4508,7 @@
       "issue_number": "36",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/c2c92130131748f1a9eed12d30da4c25.jpg",
       "release_date": "2026-06-24",
       "ids": {
         "comicvine_issue": null,
@@ -3294,8 +4516,8 @@
         "metron_issue": 170931,
         "metron_series": 4913,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "76194138023003611",
+        "gcd_id": 2845460,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Green Lantern",
@@ -3313,7 +4535,7 @@
       "issue_number": "1",
       "publisher": "Oni Press",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/16/aeb8b55537c04a9994a14931b65a659d.jpg",
       "release_date": "2026-06-24",
       "ids": {
         "comicvine_issue": null,
@@ -3321,7 +4543,7 @@
         "metron_issue": 171494,
         "metron_series": 16107,
         "isbn": null,
-        "upc": null,
+        "upc": "64985600903600111",
         "gcd_id": null,
         "wikidata_id": null,
         "source_url": null,
@@ -3340,7 +4562,7 @@
       "issue_number": "8",
       "publisher": "IDW Publishing",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/01/545197cecb91482a9de0f20b7bbf349f.jpg",
       "release_date": "2026-06-17",
       "ids": {
         "comicvine_issue": "4000-1172014",
@@ -3348,8 +4570,8 @@
         "metron_issue": 171072,
         "metron_series": 13216,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "82771403458500811",
+        "gcd_id": 2844235,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Star Trek: The Last Starship",
@@ -3367,7 +4589,7 @@
       "issue_number": "5",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/a5e12db38832478b87d90c82cbe2acd6.jpg",
       "release_date": "2026-06-17",
       "ids": {
         "comicvine_issue": "4000-1171923",
@@ -3375,8 +4597,8 @@
         "metron_issue": 170830,
         "metron_series": 14910,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "76194138553200511",
+        "gcd_id": 2843107,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "End of Life",
@@ -3394,7 +4616,7 @@
       "issue_number": "39",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/9991ef3d3242418e85e814effb9aa68c.jpg",
       "release_date": "2026-06-24",
       "ids": {
         "comicvine_issue": null,
@@ -3402,8 +4624,8 @@
         "metron_issue": 170937,
         "metron_series": 4158,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "76194137950003911",
+        "gcd_id": 2845368,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Superman",
@@ -3421,7 +4643,7 @@
       "issue_number": "1",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/2111370cbe5e497ea5550ab7b14a856d.jpg",
       "release_date": "2026-06-24",
       "ids": {
         "comicvine_issue": null,
@@ -3429,7 +4651,7 @@
         "metron_issue": 170936,
         "metron_series": 15985,
         "isbn": null,
-        "upc": null,
+        "upc": "76194139692700111",
         "gcd_id": null,
         "wikidata_id": null,
         "source_url": null,
@@ -3448,7 +4670,7 @@
       "issue_number": "2",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/41bb82de9d704040837a138e130d8898.jpg",
       "release_date": "2026-06-17",
       "ids": {
         "comicvine_issue": "4000-1171918",
@@ -3456,8 +4678,8 @@
         "metron_issue": 170825,
         "metron_series": 15701,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "76194139422000211",
+        "gcd_id": 2843102,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Absolute Green Arrow",
@@ -3475,7 +4697,7 @@
       "issue_number": "3",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/f9eeb952240645a8a74685c54a04ff29.jpg",
       "release_date": "2026-06-17",
       "ids": {
         "comicvine_issue": "4000-1171924",
@@ -3483,7 +4705,7 @@
         "metron_issue": 170831,
         "metron_series": 15764,
         "isbn": null,
-        "upc": null,
+        "upc": "76194139759700311",
         "gcd_id": null,
         "wikidata_id": null,
         "source_url": null,
@@ -3502,7 +4724,7 @@
       "issue_number": "2",
       "publisher": "Image Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/03/24/0aeba235c4db46a79a0c872059931d55.jpg",
       "release_date": "2026-06-17",
       "ids": {
         "comicvine_issue": "4000-1171992",
@@ -3510,8 +4732,8 @@
         "metron_issue": 163964,
         "metron_series": 15477,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "70985304616500211",
+        "gcd_id": 2844151,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "If Destruction Be Our Lot",
@@ -3529,7 +4751,7 @@
       "issue_number": "139",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/e5f66b5d98b74a5c9c9f06a2c8cf162c.jpg",
       "release_date": "2026-06-17",
       "ids": {
         "comicvine_issue": "4000-1171927",
@@ -3537,8 +4759,8 @@
         "metron_issue": 170834,
         "metron_series": 981,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "76194134174313911",
+        "gcd_id": 2843105,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Nightwing",
@@ -3556,7 +4778,7 @@
       "issue_number": "14",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/3cac7dceb6914b47865266aa43ef20d5.jpg",
       "release_date": "2026-06-17",
       "ids": {
         "comicvine_issue": "4000-1171928",
@@ -3564,8 +4786,8 @@
         "metron_issue": 170835,
         "metron_series": 11731,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "76194139077201411",
+        "gcd_id": 2842931,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Superman Unlimited",
@@ -3583,7 +4805,7 @@
       "issue_number": "4",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/ffe64d62e46e4743abf74c01654fc727.jpg",
       "release_date": "2026-06-17",
       "ids": {
         "comicvine_issue": "4000-1171922",
@@ -3591,8 +4813,8 @@
         "metron_issue": 170829,
         "metron_series": 15296,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "76194139721400411",
+        "gcd_id": 2842930,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Deathstroke: The Terminator",
@@ -3610,7 +4832,7 @@
       "issue_number": "52",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/572127fbf7ee497183386657fd2a521c.jpg",
       "release_date": "2026-06-17",
       "ids": {
         "comicvine_issue": "4000-1171919",
@@ -3618,8 +4840,8 @@
         "metron_issue": 170826,
         "metron_series": 3173,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "76194137521205241",
+        "gcd_id": 2842998,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Batman / Superman: World's Finest",
@@ -3637,7 +4859,7 @@
       "issue_number": "21",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/dde05ad95654477391928abd3f8ba477.jpg",
       "release_date": "2026-06-17",
       "ids": {
         "comicvine_issue": "4000-1171916",
@@ -3645,8 +4867,8 @@
         "metron_issue": 170823,
         "metron_series": 8477,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "76194138584602111",
+        "gcd_id": 2842928,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Absolute Batman",
@@ -3664,7 +4886,7 @@
       "issue_number": "88",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/436203f1322647aa812421d06ad75ed1.jpg",
       "release_date": "2026-06-17",
       "ids": {
         "comicvine_issue": "4000-1171921",
@@ -3672,8 +4894,8 @@
         "metron_issue": 170828,
         "metron_series": 6,
         "isbn": null,
-        "upc": null,
-        "gcd_id": null,
+        "upc": "76194135682208811",
+        "gcd_id": 2842932,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Catwoman",

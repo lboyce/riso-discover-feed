@@ -95,8 +95,13 @@ class Reason(_Model):
     source: str
     label: Optional[str] = None  # human label, e.g. "AIPT's Best of 2025"
     url: Optional[str] = None  # citation / link-back if editorial
-    snippet: Optional[str] = None  # short excerpt if editorial, never full text
+    snippet: Optional[str] = None  # short excerpt / verdict teaser, never the full article body
     image: Optional[str] = None  # feed image for editorial display (the article's image)
+    score: Optional[float] = None  # rating value (CBR aggregate or AIPT review score)
+    score_max: Optional[float] = None  # rating scale, e.g. 10.0
+    review_count: Optional[int] = None  # number of reviews behind an aggregate score
+    pros: Optional[list[str]] = None  # review "likes" (e.g. AIPT)
+    cons: Optional[list[str]] = None  # review "dislikes" (e.g. AIPT)
 
 
 class Item(_Model):

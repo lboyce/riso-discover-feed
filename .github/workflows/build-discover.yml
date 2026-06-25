@@ -43,11 +43,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -e .
 
-      - name: Build discover.json (distribution tier)
+      - name: Build discover.json
+        # Testing phase: personal tier includes the CBR curation shelves (and CBR ratings / AIPT
+        # verdicts via the config toggles). Switch to `distribution` for a clean public ship once
+        # CBR/AIPT permissions are secured.
         env:
           METRON_USERNAME: ${{ secrets.METRON_USERNAME }}
           METRON_PASSWORD: ${{ secrets.METRON_PASSWORD }}
-        run: python -m riso_discover.build -v
+        run: python -m riso_discover.build --build-tier personal -v
 
       - name: Commit updated feed
         run: |

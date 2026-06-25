@@ -30,12 +30,29 @@ log = logging.getLogger(__name__)
 
 DEFAULT_OUTPUT = REPO_ROOT / "discover.json"
 
+# Curation leads the feed. Sections are ordered by this list (by id); anything unlisted sorts last.
+SECTION_ORDER = [
+    "riso-recommends",
+    "critically-acclaimed",
+    "popular",
+    "featured-classic",
+    "eisner-winners",
+    "harvey-winners",
+    "ringo-winners",
+    "aipt-reviews",
+    "new-this-week",
+    "upcoming-releases",
+]
+
+#: Cap for the raw Metron new-release lists so curation dominates the feed.
+METRON_MAX_PER_WINDOW = 24
+
 
 def build_sources(config: Config, *, today: date, upcoming_weeks: int = 4) -> list[BaseSource]:
     """Instantiate the active sources named in config. Unknown/not-yet-built names are skipped.
 
     A single Metron gateway (client + cache + rate-limit retry) is built once and shared by every
-    source that resolves through Metron."""
+    source that resolves through Metron. Per-source `options` from config.toml are threaded in."""
     gateway: MetronGateway | None = None
 
     def metron_gateway() -> MetronGateway:
@@ -46,21 +63,41 @@ def build_sources(config: Config, *, today: date, upcoming_weeks: int = 4) -> li
 
     sources: list[BaseSource] = []
     for spec in config.active_sources():
+        opts = spec.options
         if spec.name == "metron":
             sources.append(
-                MetronSource(metron_gateway(), today=today, upcoming_weeks=upcoming_weeks)
+                MetronSource(
+                    metron_gateway(), today=today, upcoming_weeks=upcoming_weeks,
+                    max_per_window=opts.get("max_per_window", METRON_MAX_PER_WINDOW),
+                )
             )
         elif spec.name == "wikidata":
             sources.append(WikidataSource(metron_gateway(), today=today))
         elif spec.name == "rss":
-            sources.append(RSSSource(metron_gateway(), today=today))
+            sources.append(
+                RSSSource(
+                    metron_gateway(), today=today,
+                    include_verdict=bool(opts.get("include_verdict", False)),
+                )
+            )
         elif spec.name == "cbr":
-            sources.append(CBRSource(metron_gateway(), today=today))
+            sources.append(
+                CBRSource(
+                    metron_gateway(), today=today,
+                    show_rating=bool(opts.get("show_rating", True)),
+                )
+            )
         elif spec.name == "classics":
             sources.append(ClassicsSource(metron_gateway(), today=today))
         else:
             log.info("Source '%s' is enabled but not yet implemented; skipping.", spec.name)
     return sources
+
+
+def order_sections(sections: list[Section]) -> list[Section]:
+    """Sort sections curation-first per SECTION_ORDER; unlisted sections keep their order, last."""
+    rank = {sid: i for i, sid in enumerate(SECTION_ORDER)}
+    return sorted(sections, key=lambda s: rank.get(s.id, len(SECTION_ORDER)))
 
 
 def assemble(
@@ -81,7 +118,7 @@ def assemble(
         schema_version=SCHEMA_VERSION,
         generated_at=generated_at,
         feed_window=window,
-        sections=sections,
+        sections=order_sections(sections),  # curation leads
         entities=entities,
     )
 

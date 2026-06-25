@@ -4,8 +4,9 @@ from __future__ import annotations
 
 import os
 import tomllib
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
+from typing import Any
 
 from dotenv import load_dotenv
 
@@ -19,6 +20,7 @@ class SourceConfig:
     name: str
     enabled: bool
     tier: str  # "distribution" | "personal"
+    options: dict[str, Any] = field(default_factory=dict)  # extra per-source settings from config.toml
 
 
 @dataclass(frozen=True)
@@ -51,6 +53,7 @@ def load_config(path: Path = DEFAULT_CONFIG_PATH, *, build_tier_override: str | 
             name=name,
             enabled=bool(spec.get("enabled", False)),
             tier=spec.get("tier", "distribution"),
+            options={k: v for k, v in spec.items() if k not in ("enabled", "tier")},
         )
         for name, spec in raw.get("sources", {}).items()
     }

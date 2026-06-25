@@ -19,6 +19,9 @@ tier = "distribution"
 [sources.rss]
 enabled = true
 tier = "distribution"
+# Testing: pull AIPT's score + verdict + likes/dislikes (teaser) with a prominent Read-more link.
+# Set false for a clean ship (feed excerpt + link only). Permission from AIPT pending.
+include_verdict = true
 
 [sources.classics]
 enabled = true
@@ -27,6 +30,9 @@ tier = "distribution"
 [sources.cbr]
 enabled = true
 tier = "personal"
+# Testing: show CBR's aggregate critic score + review count, crediting CBR on the direct lists.
+# Set false for the conservative "RISO pick, no scores" mode. Permission from CBR pending.
+show_rating = true
 
 [sources.comicvine]
 enabled = false

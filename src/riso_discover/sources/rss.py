@@ -25,6 +25,7 @@ from typing import Callable, Optional
 
 import feedparser
 
+from ..cache import JsonCache
 from ..metron_gateway import MetronGateway
 from ..models import Entity, Ids, Item, Reason, Resolution, Section, entity_key
 from ..resolver import resolve_query
@@ -141,6 +142,28 @@ def _published_date(entry: dict) -> Optional[date]:
     return None
 
 
+# --- AIPT article enrichment (Lets-Review WordPress block; verified live) --------------------
+# Reproduces only the score + verdict + likes/dislikes (a teaser), never the full body, and the
+# article link is kept prominent for a "Read more at AIPT" button. Owner's §8 call; toggle-gated.
+
+_LR_VERDICT_RE = re.compile(r'lets-review-block__conclusion"[^>]*>(.*?)</div>', re.DOTALL)
+_LR_PRO_RE = re.compile(r'lets-review-block__pro">(.*?)</div>', re.DOTALL)
+_LR_CON_RE = re.compile(r'lets-review-block__con">(.*?)</div>', re.DOTALL)
+_LR_SCORE_RE = re.compile(r'score-level-\d+">.*?class="score">\s*([\d.]+)', re.DOTALL)
+
+
+def parse_review_article(html: str) -> dict:
+    """Extract {score, verdict, pros, cons} from an AIPT review's Lets-Review block. Pure, tested."""
+    verdict_m = _LR_VERDICT_RE.search(html)
+    score_m = _LR_SCORE_RE.search(html)
+    return {
+        "score": float(score_m.group(1)) if score_m else None,
+        "verdict": _clean_snippet(verdict_m.group(1), limit=400) if verdict_m else None,
+        "pros": [_clean_snippet(x, limit=160) for x in _LR_PRO_RE.findall(html)][:6],
+        "cons": [_clean_snippet(x, limit=160) for x in _LR_CON_RE.findall(html)][:6],
+    }
+
+
 class RSSSource(BaseSource):
     name = "rss"
     tier = "distribution"
@@ -152,13 +175,19 @@ class RSSSource(BaseSource):
         today: date,
         max_items: int = 12,
         feeds: Optional[list[Feed]] = None,
+        include_verdict: bool = False,
         fetch: Optional[Callable[[str], bytes]] = None,
+        article_fetch: Optional[Callable[[str], str]] = None,
+        articles_cache: Optional[JsonCache] = None,
     ):
         self.gateway = gateway
         self.today = today
         self.max_items = max_items
         self.feeds = feeds if feeds is not None else FEEDS
+        self.include_verdict = include_verdict
         self._fetch = fetch or self._default_fetch
+        self._article_fetch = article_fetch or self._default_article_fetch
+        self._articles = articles_cache or JsonCache("rss_articles")  # parsed review extracts by URL
 
     def _default_fetch(self, url: str) -> bytes:
         req = urllib.request.Request(
@@ -170,6 +199,21 @@ class RSSSource(BaseSource):
         )
         with urllib.request.urlopen(req, timeout=30) as resp:
             return resp.read()
+
+    def _default_article_fetch(self, url: str) -> str:
+        req = urllib.request.Request(url, headers={"User-Agent": RSS_USER_AGENT})
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            return resp.read().decode("utf-8", errors="replace")
+
+    def _review_extract(self, url: str) -> dict:
+        """Fetch + parse an AIPT review article (cached by URL). {} on failure (graceful)."""
+        def compute() -> dict:
+            try:
+                return parse_review_article(self._article_fetch(url))
+            except Exception as exc:
+                log.warning("AIPT article fetch failed %s: %s", url, exc)
+                return {}
+        return self._articles.get_or_compute(f"article:{url}", compute)
 
     def run(self) -> SourceOutput:
         out = SourceOutput()
@@ -239,8 +283,22 @@ class RSSSource(BaseSource):
             type="review_signal",
             source=feed.outlet,
             label=f"{feed.outlet} review",
-            url=link,
+            url=link,  # RISO's "Read more at <outlet>" link
             snippet=_clean_snippet(entry.get("summary")),
             image=_entry_image(entry),
         )
+
+        # Enrich from the article: score + verdict teaser + likes/dislikes (never the full body).
+        if self.include_verdict:
+            extract = self._review_extract(link)
+            if extract.get("score") is not None:
+                reason.score = extract["score"]
+                reason.score_max = 10.0
+            if extract.get("verdict"):
+                reason.snippet = extract["verdict"]  # the verdict reads better than the feed excerpt
+            if extract.get("pros"):
+                reason.pros = extract["pros"]
+            if extract.get("cons"):
+                reason.cons = extract["cons"]
+
         return key, entity, reason

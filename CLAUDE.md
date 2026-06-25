@@ -336,3 +336,17 @@ if at all).
   collected-editions data path (candidate: the GCD data dumps, §7), not the new-release pipeline.
   Series types (id): Trade Paperback 10, Hardcover 8, Omnibus 15, Graphic Novel 9. Only **Featured
   Classic** (evergreen seed) shipped for the classics group in v1.
+- **Curation-first pivot + permission-pending reproduction (post-launch).** After seeing the live
+  feed, the owner reprioritized curation to the top and chose, *for the testing phase*, to reproduce
+  source data that the earlier conservative stance avoided — knowingly, with written permission from
+  CBR and AIPT to be obtained before any public ship:
+  - **CBR shelves now lead** the feed: *RISO Recommends* (balanced, week-seeded pick from both CBR
+    lists), *Critically Acclaimed* (highest-rated, **with the aggregate score** + CBR credit), *Popular
+    This Week* (most-pulled). Section order is fixed in `build.py` `SECTION_ORDER`.
+  - **AIPT reviews** now carry the **score + verdict + likes/dislikes** (the verdict teaser, *never*
+    the full body) with a prominent "Read more at AIPT" link. Extracted from the article's Lets-Review
+    WordPress block (`lets-review-block__conclusion` / `__pro` / `__con`; score in `class="score"`).
+  - Both are behind config toggles (`[sources.cbr] show_rating`, `[sources.rss] include_verdict`) and
+    CBR stays personal-tier, so a clean ship is `--build-tier distribution` + toggles off. The weekly
+    Action runs `--build-tier personal` during testing.
+  - New This Week / Upcoming are capped (`build.py` `METRON_MAX_PER_WINDOW = 24`) so curation dominates.

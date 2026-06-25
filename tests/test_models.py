@@ -8,6 +8,7 @@ import pytest
 from riso_discover.models import (
     DiscoverFeed,
     Ids,
+    Reason,
     comicvine_issue_id,
     comicvine_volume_id,
     entity_key,
@@ -67,6 +68,16 @@ def test_entity_key_falls_back_to_source_url():
     # Stable for the same URL, distinct for a different one.
     assert key == entity_key(Ids(source_url="https://aiptcomics.com/x/saga-66-review/"))
     assert key != entity_key(Ids(source_url="https://aiptcomics.com/x/other-review/"))
+
+
+def test_reason_rating_fields_round_trip():
+    r = Reason(
+        type="review_signal", source="AIPT", score=9.0, score_max=10.0, review_count=8,
+        pros=["Great art"], cons=["Too short"],
+    )
+    reparsed = Reason.model_validate(json.loads(r.model_dump_json()))
+    assert reparsed == r
+    assert reparsed.score == 9.0 and reparsed.pros == ["Great art"]
 
 
 def test_entity_key_requires_some_id():

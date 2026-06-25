@@ -15,6 +15,7 @@ from __future__ import annotations
 import logging
 from dataclasses import dataclass
 from datetime import date, timedelta
+from typing import Optional
 
 from ..metron_gateway import MetronGateway
 from ..models import Item, Reason, Section, entity_key
@@ -50,10 +51,18 @@ class MetronSource(BaseSource):
     name = "metron"
     tier = "distribution"
 
-    def __init__(self, gateway: MetronGateway, *, today: date, upcoming_weeks: int = 4):
+    def __init__(
+        self,
+        gateway: MetronGateway,
+        *,
+        today: date,
+        upcoming_weeks: int = 4,
+        max_per_window: Optional[int] = None,
+    ):
         self.gateway = gateway
         self.today = today
         self.upcoming_weeks = upcoming_weeks
+        self.max_per_window = max_per_window  # cap items per section (None = no cap)
 
     def run(self) -> SourceOutput:
         nt_start, nt_end = week_window(self.today)
@@ -80,6 +89,8 @@ class MetronSource(BaseSource):
                 section.items.append(
                     Item(entity=key, reason=Reason(type="new_release", source="Metron"))
                 )
+                if self.max_per_window is not None and len(section.items) >= self.max_per_window:
+                    break  # cap the section (and stop fetching further issues — generator is lazy)
             out.sections.append(section)
             log.info("Metron %s: %d issues", win.section_id, len(section.items))
         return out

@@ -23,17 +23,27 @@ that document is the authoritative brief.
 
 ### Sources & sections
 
+Curation leads the feed (`build.py` `SECTION_ORDER`):
+
 | Source | Tier | Sections |
 | --- | --- | --- |
-| Metron | distribution | New This Week, Upcoming Releases |
-| Wikidata | distribution | Eisner / Harvey / Ringo Award Winners |
-| RSS (AIPT) | distribution | AIPT Reviews (review departments) |
+| Comic Book Roundup | **personal** | **RISO Recommends**, **Critically Acclaimed** (with scores), **Popular This Week** |
 | Classics | distribution | Featured Classic (evergreen seed) |
-| Comic Book Roundup | **personal** | Featured Books of the Week, Trending This Week |
+| Wikidata | distribution | Eisner / Harvey / Ringo Award Winners |
+| RSS (AIPT) | distribution | AIPT Reviews (score + verdict + likes/dislikes + Read-more link) |
+| Metron | distribution | New This Week, Upcoming Releases (capped to 24 each) |
 
 Each source is a flag-gated module (`config.toml`). Personal-tier sources run only in a personal
-build and are excluded from the distributed feed. Trades / Collected Editions and New Editions /
-Reissues are deferred (see `CLAUDE.md` §14 for the Metron data limitation).
+build and are excluded from the distributed feed.
+
+**Permission-pending toggles (testing phase).** During testing the feed shows CBR ratings and AIPT
+verdicts; written permission from CBR and AIPT is being sought before any public ship. Both are behind
+config flags for a one-line clean ship:
+- `[sources.cbr] show_rating` — show CBR's aggregate score + credit CBR (off → "RISO pick, no scores").
+- `[sources.rss] include_verdict` — pull AIPT's score + verdict + likes/dislikes (off → feed excerpt + link only).
+- Run `--build-tier distribution` to drop CBR entirely for a clean public build.
+
+Trades / Collected Editions and New Editions / Reissues remain deferred (see `CLAUDE.md` §14).
 
 ## Setup
 
@@ -95,8 +105,9 @@ python -m riso_discover.build --build-tier personal
 ## Automated weekly build (GitHub Action)
 
 `.github/workflows/build-discover.yml` regenerates and commits `discover.json` every **Wednesday**
-(and on demand from the Actions tab). It always builds the **distribution** tier, so the published
-feed never contains personal-only sources.
+(and on demand from the Actions tab). During the testing phase it builds the **personal** tier so the
+curation shelves (CBR) appear; switch the workflow's build step to `--build-tier distribution` for a
+clean public ship once permissions are secured.
 
 **One-time setup:** in the GitHub repo, go to **Settings → Secrets and variables → Actions → New
 repository secret** and add two secrets:

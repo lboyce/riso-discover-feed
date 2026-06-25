@@ -10,15 +10,19 @@ from pathlib import Path
 
 import pytest
 
+from riso_discover.cache import JsonCache
 from riso_discover.sources.rss import (
     Feed,
     RSSSource,
     _clean_snippet,
+    parse_review_article,
     parse_review_title,
 )
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 FEED_XML = (FIXTURES / "rss_reviews.xml").read_bytes()
+AIPT_ARTICLE = (FIXTURES / "aipt_review.html").read_text("utf-8")
+_NO_CACHE = JsonCache("test", enabled=False)
 
 TEST_FEED = Feed("AIPT", "https://example/feed", "aipt-reviews", "AIPT Reviews")
 
@@ -111,3 +115,37 @@ def test_unresolved_review_degrades_to_editorial_link():
     assert e.issue_number == "1"
     assert e.ids.comicvine_issue is None
     assert e.ids.source_url == "https://aiptcomics.com/2024/05/02/obscure-indie-thing-1-review/"
+
+
+# --- AIPT article enrichment (verdict + score + likes/dislikes) -----------------------------
+
+
+def test_parse_review_article_extracts_score_verdict_proscons():
+    x = parse_review_article(AIPT_ARTICLE)
+    assert x["score"] == 9.0
+    assert x["verdict"].startswith("A propulsive, beautifully drawn return")
+    assert x["pros"] == ["Gorgeous Fiona Staples art", "A gut-punch of an emotional return"]
+    assert x["cons"] == ["The wait between issues remains brutal"]
+    # The article body paragraphs are never captured.
+    assert "Body text" not in (x["verdict"] or "")
+
+
+def test_include_verdict_enriches_the_reason():
+    src = RSSSource(
+        FakeGateway(),
+        today=date(2024, 5, 10),
+        feeds=[TEST_FEED],
+        fetch=lambda url: FEED_XML,
+        include_verdict=True,
+        article_fetch=lambda url: AIPT_ARTICLE,
+        articles_cache=_NO_CACHE,
+    )
+    out = src.run()
+    item = next(
+        it for s in out.sections for it in s.items if it.entity == "cv-issue-4000-880000"
+    )
+    r = item.reason
+    assert r.score == 9.0 and r.score_max == 10.0
+    assert r.snippet.startswith("A propulsive")  # verdict replaces the feed excerpt
+    assert r.pros and r.cons
+    assert r.url == "https://aiptcomics.com/2024/05/01/saga-66-review/"  # Read more link kept

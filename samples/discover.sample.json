@@ -102,7 +102,11 @@
             "label": "AIPT review",
             "url": "https://aiptcomics.com/2026/06/24/tmnt-shredder-9-review/",
             "snippet": "A propulsive, gorgeously drawn issue that cements this as IDW's flagship.",
-            "image": "https://aiptcomics.com/wp-content/uploads/tmnt-shredder-9.jpg"
+            "image": "https://aiptcomics.com/wp-content/uploads/tmnt-shredder-9.jpg",
+            "score": 9.0,
+            "score_max": 10.0,
+            "pros": ["Gorgeous, kinetic art", "Raises the stakes for the finale"],
+            "cons": ["Feels over too quickly"]
           }
         },
         {
@@ -119,22 +123,23 @@
       ]
     },
     {
-      "id": "featured-books",
+      "id": "critically-acclaimed",
       "type": "featured_picks",
-      "title": "Featured Books of the Week",
-      "subtitle": "RISO's picks — a personal-tier section, dropped from a distributed build",
+      "title": "Critically Acclaimed",
+      "subtitle": "Highest-rated this week — a personal-tier shelf, dropped from a distributed build",
       "source_tier": "personal",
-      "source": "RISO",
+      "source": "Comic Book Roundup",
       "items": [
         {
           "entity": "cv-issue-4000-987654",
           "reason": {
             "type": "featured_pick",
-            "source": "RISO",
-            "label": "Featured Book of the Week",
-            "url": null,
-            "snippet": null,
-            "image": null
+            "source": "Comic Book Roundup",
+            "label": "Critically Acclaimed",
+            "url": "https://comicbookroundup.com/comic-books/reviews/idw-publishing/teenage-mutant-ninja-turtles-shredder-(2025)/9",
+            "score": 9.4,
+            "score_max": 10.0,
+            "review_count": 8
           }
         }
       ]

@@ -205,3 +205,22 @@ class MetronGateway:
                 self._with_retry(lambda: self.client.series(series_id), label=f"series {series_id}")
             ),
         )
+
+    def series_cover(self, series_id: Optional[int]) -> Optional[str]:
+        """A representative cover for a series (first issue's image). Metron series have no image of
+        their own, so series-level entities (awards, classics) borrow an issue cover for the mosaic."""
+        if series_id is None:
+            return None
+
+        def compute() -> Optional[str]:
+            results = self._with_retry(
+                lambda: self.client.issues_list({"series_id": series_id}),
+                label=f"series_issues {series_id}",
+            )
+            for r in results:
+                img = getattr(r, "image", None)
+                if img:
+                    return str(img)
+            return None
+
+        return self.cache.get_or_compute(f"series_cover:{series_id}", compute)

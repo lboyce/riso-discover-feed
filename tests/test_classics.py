@@ -37,6 +37,9 @@ class FakeGateway:
         return {"id": 10, "name": "Saga", "year_began": 2012,
                 "publisher": "Image Comics", "cv_id": 42042, "gcd_id": None}
 
+    def series_cover(self, series_id):
+        return "https://static.metron.cloud/saga-1.jpg"  # representative issue cover
+
 
 def _run_all_featured():
     # Feature the whole seed so the one resolvable entry (Saga) is always included this run.
@@ -54,5 +57,6 @@ def test_featured_classic_resolves_pullable_and_skips_unresolved():
     e = out.entities["cv-volume-4050-42042"]
     assert e.kind == "series"
     assert e.ids.comicvine_volume == "4050-42042"
+    assert e.cover_url == "https://static.metron.cloud/saga-1.jpg"  # series borrows an issue cover
     assert section.items[0].reason.type == "classic"
     assert section.items[0].reason.source == "RISO"

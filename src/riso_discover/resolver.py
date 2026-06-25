@@ -426,6 +426,15 @@ def resolve_series(
     # Confidence is bounded by both the name match and whether we got a ComicVine id.
     final: Confidence = "high" if (confidence == "high" and cv_id) else "partial"
 
+    # Borrow a representative cover (first issue) so series-level entities render in RISO's mosaic.
+    cover_url = None
+    cover_fn = getattr(searcher, "series_cover", None)
+    if cover_fn is not None and detail.get("id") is not None:
+        try:
+            cover_url = cover_fn(detail["id"])
+        except Exception:  # cover is best-effort; never block resolution on it
+            cover_url = None
+
     ids = Ids(
         comicvine_volume=comicvine_volume_id(cv_id) if cv_id else None,
         metron_series=detail.get("id"),
@@ -440,7 +449,7 @@ def resolve_series(
         issue_number=None,
         publisher=detail.get("publisher") or publisher_hint,
         format=None,  # a series has no single physical format
-        cover_url=None,
+        cover_url=cover_url,
         release_date=None,
         ids=ids,
         resolution=Resolution(confidence=final, issue_pending=False),

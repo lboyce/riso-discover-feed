@@ -298,25 +298,21 @@ def resolve_query(
     if best is None:
         return None, "unresolved"
 
-    # Reconstruct a minimal issue dict for the shared builder. (A real run would fetch full detail;
-    # for confidence='partial' we keep what the search gave us.)
-    issue_dict = {
-        "id": best.issue_id,
-        "number": best.number,
-        "store_date": best.store_date,
-        "publisher": best.publisher,
-        "cv_id": best.cv_id,
-        "isbn": None,
-        "upc": None,
-        "gcd_id": None,
-        "series": {
-            "id": best.series_id,
-            "name": best.series_name,
-            "year_began": best.volume_year,
-        },
-        "image": None,
-    }
-    entity = resolve_metron_issue(issue_dict, series_cv_id=best.series_cv_id)
+    # Resolve from the chosen candidate's *full* search record so the cover image (and isbn/upc) carry
+    # through. search_issues returns full issue detail enriched with the series cv_id, so falling back
+    # to a minimal dict would needlessly drop cover_url — the mosaic on RISO's side is cover-driven.
+    best_raw = next((r for r in raw if r.get("id") == best.issue_id), None)
+    if best_raw is not None:
+        issue_dict = best_raw
+        series_cv_id = (best_raw.get("series") or {}).get("cv_id") or best.series_cv_id
+    else:  # defensive: reconstruct from the candidate (no cover available)
+        issue_dict = {
+            "id": best.issue_id, "number": best.number, "store_date": best.store_date,
+            "publisher": best.publisher, "cv_id": best.cv_id,
+            "series": {"id": best.series_id, "name": best.series_name, "year_began": best.volume_year},
+        }
+        series_cv_id = best.series_cv_id
+    entity = resolve_metron_issue(issue_dict, series_cv_id=series_cv_id)
     # Final confidence is the *weaker* of two axes: how sure we are this is the right book
     # (disambiguation) and whether we actually got the ComicVine issue id (cv presence, which also
     # sets issue_pending for freshness lag). A confident match to a not-yet-indexed issue is still

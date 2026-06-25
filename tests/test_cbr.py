@@ -51,7 +51,8 @@ class FakeGateway:
         cv, pub, scv = hit
         return [{
             "id": cv, "number": issue_number, "store_date": "2026-06-20", "publisher": pub,
-            "cv_id": cv, "isbn": None, "upc": None, "gcd_id": None, "image": None,
+            "cv_id": cv, "isbn": None, "upc": None, "gcd_id": None,
+            "image": f"https://static.metron.cloud/cover-{cv}.jpg",
             "series": {"id": scv, "name": series_name, "year_began": 2026, "cv_id": scv},
         }]
 
@@ -76,6 +77,8 @@ def test_critically_acclaimed_shows_score_and_credits_cbr():
     assert it.reason.score is not None and it.reason.score_max == 10.0
     assert it.reason.review_count is not None
     assert it.reason.url.startswith("https://comicbookroundup.com/comic-books/reviews/")
+    # The Metron cover carries through so unowned picks still render in the mosaic.
+    assert out.entities[it.entity].cover_url.startswith("https://static.metron.cloud/")
 
 
 def test_riso_recommends_is_riso_sourced_no_cbr_link():

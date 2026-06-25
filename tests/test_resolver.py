@@ -139,6 +139,7 @@ def test_resolve_query_resolves_via_searcher():
             "store_date": "2026-06-24",
             "publisher": "IDW Publishing",
             "cv_id": 987654,
+            "image": "https://static.metron.cloud/tmnt-shredder-9.jpg",
             "series": {"id": 1234, "name": "Teenage Mutant Ninja Turtles: Shredder",
                        "year_began": 2025, "cv_id": 145678},
         },
@@ -163,6 +164,8 @@ def test_resolve_query_resolves_via_searcher():
     assert entity is not None
     assert entity.ids.comicvine_issue == "4000-987654"
     assert entity.ids.comicvine_volume == "4050-145678"
+    # The cover from the chosen search record carries through (the mosaic needs it).
+    assert entity.cover_url == "https://static.metron.cloud/tmnt-shredder-9.jpg"
 
 
 def test_resolve_query_freshness_lag_is_partial_even_when_match_is_confident():

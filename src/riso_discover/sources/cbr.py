@@ -23,12 +23,14 @@ import re
 import urllib.request
 from dataclasses import dataclass
 from datetime import date
+from html import unescape
 from html.parser import HTMLParser
 from typing import Callable, Optional
 
+from ..cache import JsonCache
 from ..config import REPO_ROOT
 from ..metron_gateway import MetronGateway
-from ..models import Item, Reason, Section, entity_key
+from ..models import Item, Quote, Reason, Section, entity_key
 from ..resolver import resolve_query
 from ..store import RollingStore, merge_entries
 from .base import BaseSource, SourceOutput
@@ -211,6 +213,47 @@ def _dedupe(candidates: list[Candidate]) -> list[Candidate]:
     return out
 
 
+_TAG_RE = re.compile(r"<[^>]+>")
+
+
+def _clean(text: str) -> str:
+    return unescape(_TAG_RE.sub("", text)).strip()
+
+
+def parse_issue_quotes(html: str, limit: int = 2) -> list[dict]:
+    """Extract critic review excerpts from a CBR issue page (reproduced with CBR's permission). Each:
+    {outlet, reviewer, excerpt, score, url}. Returns the highest-scored `limit`. Pure, tested.
+
+    Markup (verified live): a <ul> after id="critic-review-header", each <li> with
+      <div class="review COLOR"><span>SCORE</span></div>
+      <h3>OUTLET - <a href="/comic-books/reviewer/...">REVIEWER</a></h3>
+      <p>EXCERPT <a href="<outlet full-review url>" target="_blank">...</a></p>
+    """
+    start = html.find("critic-review-header")
+    if start == -1:
+        return []
+    end = html.find("</ul>", start)
+    block = html[start : end if end != -1 else len(html)]
+
+    quotes = []
+    for li in re.findall(r"<li>(.*?)</li>", block, re.DOTALL):
+        h3 = re.search(r"<h3>(.*?)</h3>", li, re.DOTALL)
+        para = re.search(r"<p>(.*?)(?:<a\s+href=\"(https?://[^\"]+)\"|</p>)", li, re.DOTALL)
+        if not (h3 and para):
+            continue
+        score_m = re.search(r'class="review[^"]*"><span>([\d.]+)</span>', li)
+        reviewer_m = re.search(r"<a[^>]*>(.*?)</a>", h3.group(1), re.DOTALL)
+        quotes.append({
+            "outlet": _clean(re.split(r"\s[-–]\s", _TAG_RE.sub("", h3.group(1)))[0]),
+            "reviewer": _clean(reviewer_m.group(1)) if reviewer_m else None,
+            "excerpt": _clean(para.group(1)),
+            "score": float(score_m.group(1)) if score_m else None,
+            "url": para.group(2),
+        })
+    quotes.sort(key=lambda q: q["score"] or 0.0, reverse=True)
+    return quotes[:limit]
+
+
 def _to_entry(c: Candidate) -> dict:
     return {
         "url": c.href, "series": c.series, "issue": c.issue, "publisher": c.publisher,
@@ -237,18 +280,24 @@ class CBRSource(BaseSource):
         max_per_shelf: int = 12,
         recommends_count: int = 8,
         show_rating: bool = True,
+        quotes_per_book: int = 2,
         retention_days: int = DEFAULT_RETENTION_DAYS,
         store: Optional[RollingStore] = None,
         fetch: Optional[Callable[[str], str]] = None,
+        issue_fetch: Optional[Callable[[str], str]] = None,
+        quotes_cache: Optional[JsonCache] = None,
     ):
         self.gateway = gateway
         self.today = today
         self.max_per_shelf = max_per_shelf
         self.recommends_count = recommends_count
         self.show_rating = show_rating
+        self.quotes_per_book = quotes_per_book
         self.retention_days = retention_days
         self._store = store if store is not None else RollingStore(DEFAULT_CBR_STORE)
         self._fetch = fetch or self._default_fetch
+        self._issue_fetch = issue_fetch or self._fetch  # CBR issue pages (same site/UA)
+        self._quotes = quotes_cache or JsonCache("cbr_quotes")  # parsed critic quotes per issue href
 
     def _default_fetch(self, url: str) -> str:
         req = urllib.request.Request(url, headers={"User-Agent": CBR_USER_AGENT})
@@ -262,6 +311,16 @@ class CBRSource(BaseSource):
             log.warning("CBR fetch/parse %s failed: %s", path, exc)
             return []
 
+    def _issue_quotes(self, href: str) -> list[Quote]:
+        """Two highest-scored critic excerpts for a CBR issue page (cached). [] on failure."""
+        def compute() -> list[dict]:
+            try:
+                return parse_issue_quotes(self._issue_fetch(CBR_BASE + href), self.quotes_per_book)
+            except Exception as exc:
+                log.warning("CBR quotes %s failed: %s", href, exc)
+                return []
+        return [Quote(**q) for q in self._quotes.get_or_compute(f"quotes:{href}", compute)]
+
     def _reason(self, cand: Candidate, *, reason_type: str, source: str, label: str, cbr_link: bool) -> Reason:
         kw = {"type": reason_type, "source": source, "label": label}
         if self.show_rating:
@@ -272,7 +331,12 @@ class CBRSource(BaseSource):
                 kw["review_count"] = cand.review_count
             if cbr_link:
                 kw["url"] = CBR_BASE + cand.href
-        return Reason(**kw)  # type: ignore[arg-type]
+        reason = Reason(**kw)  # type: ignore[arg-type]
+        # Critic excerpts fill the card's empty space (reproduced with CBR's permission + link-back).
+        quotes = self._issue_quotes(cand.href)
+        if quotes:
+            reason.quotes = quotes
+        return reason
 
     def _shelf(self, cands, *, cap, reason_type, source, label, cbr_link):
         results, seen = [], set()

@@ -90,6 +90,16 @@ class Entity(_Model):
     resolution: Resolution
 
 
+class Quote(_Model):
+    """A single critic review excerpt aggregated by CBR (reproduced with permission + link-back)."""
+
+    outlet: str
+    reviewer: Optional[str] = None
+    excerpt: str
+    score: Optional[float] = None
+    url: Optional[str] = None  # link to the outlet's full review
+
+
 class Reason(_Model):
     type: ReasonType
     source: str
@@ -102,6 +112,7 @@ class Reason(_Model):
     review_count: Optional[int] = None  # number of reviews behind an aggregate score
     pros: Optional[list[str]] = None  # review "likes" (e.g. AIPT)
     cons: Optional[list[str]] = None  # review "dislikes" (e.g. AIPT)
+    quotes: Optional[list[Quote]] = None  # critic review excerpts (CBR), highest-scored first
 
 
 class Item(_Model):

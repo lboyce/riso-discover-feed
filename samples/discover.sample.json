@@ -139,7 +139,23 @@
             "url": "https://comicbookroundup.com/comic-books/reviews/idw-publishing/teenage-mutant-ninja-turtles-shredder-(2025)/9",
             "score": 9.4,
             "score_max": 10.0,
-            "review_count": 8
+            "review_count": 8,
+            "quotes": [
+              {
+                "outlet": "AIPT",
+                "reviewer": "Jane Doe",
+                "excerpt": "A propulsive, gorgeously drawn issue that cements this as IDW's flagship.",
+                "score": 9.5,
+                "url": "https://aiptcomics.com/2026/06/24/tmnt-shredder-9-review/"
+              },
+              {
+                "outlet": "Comic Watch",
+                "reviewer": "John Roe",
+                "excerpt": "Shredder has never been more menacing; the art team is firing on all cylinders.",
+                "score": 9.3,
+                "url": "https://comic-watch.com/tmnt-shredder-9"
+              }
+            ]
           }
         }
       ]

@@ -363,3 +363,12 @@ if at all).
     an editorial link, so the shelf is never empty. Its rolling store (`state/aipt_reviews.json`)
     accumulates so older, fully-matchable reviews also surface as the feature ages.
   - The `state/` stores are committed by the weekly Action so accumulation persists run-to-run.
+- **CBR permission GRANTED — critic quotes reproduced.** The owner confirmed with Comic Book Roundup
+  that scraping + reproducing their content is fine and encouraged; the link back to CBR is the
+  agreed "payment". So CBR is no longer permission-pending: we reproduce **full** critic-review
+  excerpts. Each featured CBR pick (all three shelves) carries `reason.quotes` — the **two
+  highest-scored** critic reviews `{outlet, reviewer, excerpt, score, url}`, parsed from the book's
+  CBR issue page (`parse_issue_quotes` in `sources/cbr.py`; the `<li>` block under
+  `id="critic-review-header"`), filling the card's empty space. `reason.url` stays the CBR issue page
+  (the link-back); each quote's `url` is the outlet's full review. Cached in `.cache/cbr_quotes`.
+  (AIPT verdicts remain owner-approved-with-attribution, written permission still being sought there.)

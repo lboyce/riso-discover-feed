@@ -3,11 +3,38 @@
 from datetime import date
 from pathlib import Path
 
-from riso_discover.sources.cbr import CBRSource, parse_list, select_picks
+from riso_discover.cache import JsonCache
+from riso_discover.sources.cbr import CBRSource, parse_issue_quotes, parse_list, select_picks
 from riso_discover.store import RollingStore
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 HTML = (FIXTURES / "cbr_highest_rated.html").read_text("utf-8")
+ISSUE_HTML = (FIXTURES / "cbr_issue.html").read_text("utf-8")
+_NO_CACHE = JsonCache("test", enabled=False)
+
+
+# --- critic quotes ---------------------------------------------------------------------------
+
+
+def test_parse_issue_quotes_takes_top_two_by_score():
+    quotes = parse_issue_quotes(ISSUE_HTML, limit=2)
+    assert [q["outlet"] for q in quotes] == ["Geek Dad", "Comic Watch"]  # 10.0, 9.5 (8.0 dropped)
+    top = quotes[0]
+    assert top["reviewer"] == "Ray Goldfield"
+    assert top["score"] == 10.0
+    assert top["url"] == "https://geekdad.example/review"
+    assert top["excerpt"].startswith("The story is great") and "<" not in top["excerpt"]
+    assert "Read full review" not in top["excerpt"]  # trailing link text not captured
+
+
+def test_shelf_items_carry_two_critic_quotes():
+    out = _run()
+    acc = next(s for s in out.sections if s.id == "critically-acclaimed")
+    for it in acc.items:
+        quotes = it.reason.quotes
+        assert quotes and len(quotes) == 2
+        assert all(q.outlet and q.excerpt for q in quotes)
+        assert quotes[0].score >= (quotes[1].score or 0)  # highest-scored first
 
 
 # --- parse (now WITH score + review_count) ---------------------------------------------------
@@ -63,7 +90,8 @@ class FakeGateway:
 def _run(show_rating=True):
     src = CBRSource(FakeGateway(), today=date(2026, 6, 24), show_rating=show_rating,
                     fetch=lambda url: HTML,  # both lists return the same fixture
-                    store=RollingStore(None))  # in-memory; no disk
+                    issue_fetch=lambda url: ISSUE_HTML,  # every issue page returns the quote fixture
+                    quotes_cache=_NO_CACHE, store=RollingStore(None))
     return src.run()
 
 

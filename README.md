@@ -36,12 +36,15 @@ Curation leads the feed (`build.py` `SECTION_ORDER`):
 Each source is a flag-gated module (`config.toml`). Personal-tier sources run only in a personal
 build and are excluded from the distributed feed.
 
-**Permission-pending toggles (testing phase).** During testing the feed shows CBR ratings and AIPT
-verdicts; written permission from CBR and AIPT is being sought before any public ship. Both are behind
-config flags for a one-line clean ship:
-- `[sources.cbr] show_rating` — show CBR's aggregate score + credit CBR (off → "RISO pick, no scores").
-- `[sources.rss] include_verdict` — pull AIPT's score + verdict + likes/dislikes (off → feed excerpt + link only).
-- Run `--build-tier distribution` to drop CBR entirely for a clean public build.
+**CBR — permission granted.** Comic Book Roundup has confirmed scraping + reproducing their content is
+fine (the link back to CBR is the agreed credit). So CBR shelves show the aggregate score and, in the
+card's empty space, the **two highest-scored critic-review excerpts** (`reason.quotes`: outlet,
+reviewer, full excerpt, score, link to the full review). `[sources.cbr] show_rating` still toggles the
+aggregate score; CBR stays personal-tier, so `--build-tier distribution` drops it entirely.
+
+**AIPT — owner-approved, written permission pending.** The feed shows AIPT's score + verdict +
+likes/dislikes with a prominent "Read more at AIPT" link, behind `[sources.rss] include_verdict`
+(off → feed excerpt + link only) for a one-line clean ship.
 
 Trades / Collected Editions and New Editions / Reissues remain deferred (see `CLAUDE.md` §14).
 

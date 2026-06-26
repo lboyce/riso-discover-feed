@@ -80,6 +80,21 @@ def test_reason_rating_fields_round_trip():
     assert reparsed.score == 9.0 and reparsed.pros == ["Great art"]
 
 
+def test_reason_quotes_round_trip():
+    r = Reason(
+        type="featured_pick", source="Comic Book Roundup",
+        quotes=[
+            {"outlet": "Geek Dad", "reviewer": "Ray Goldfield", "excerpt": "Stunning.",
+             "score": 10.0, "url": "https://geekdad.example/r"},
+            {"outlet": "Comic Watch", "reviewer": "C. Laspada", "excerpt": "Can't miss.",
+             "score": 9.5, "url": "https://comic-watch.example/r"},
+        ],
+    )
+    reparsed = Reason.model_validate(json.loads(r.model_dump_json()))
+    assert reparsed == r
+    assert reparsed.quotes[0].outlet == "Geek Dad" and reparsed.quotes[0].score == 10.0
+
+
 def test_entity_key_requires_some_id():
     with pytest.raises(ValueError):
         entity_key(Ids())

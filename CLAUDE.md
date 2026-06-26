@@ -350,3 +350,16 @@ if at all).
     CBR stays personal-tier, so a clean ship is `--build-tier distribution` + toggles off. The weekly
     Action runs `--build-tier personal` during testing.
   - New This Week / Upcoming are capped (`build.py` `METRON_MAX_PER_WINDOW = 24`) so curation dominates.
+- **Curated shelves: match-gate + rolling stores (span several weeks).** Owner found curated picks
+  were all *this week's* issues, which lack a ComicVine *issue* id until ~1 week post-release
+  (freshness lag) and so didn't match the Komga library (e.g. Green Lantern #36 showed "not in
+  library"). Two mechanisms, in `src/riso_discover/store.py` (`RollingStore` + `merge_entries`):
+  - **CBR shelves require a `comicvine_issue`** (settled + matchable) and draw from a **rolling store**
+    (`state/cbr_lists.json`) that accumulates the live lists across runs — CBR's "current" lists only
+    span ~2 weeks, so accumulation is how shelves reach "several weeks" (grows over time; pruned at
+    `DEFAULT_RETENTION_DAYS = 90`). Acclaimed sorts by score; Recommends is the balanced/week-shuffled pick.
+  - **AIPT is intentionally NOT issue-gated** (owner: keep reviews fresh): a freshness-lagged review
+    still resolves to a volume (series-matchable, has a cover) and a wholly-unresolved one degrades to
+    an editorial link, so the shelf is never empty. Its rolling store (`state/aipt_reviews.json`)
+    accumulates so older, fully-matchable reviews also surface as the feature ages.
+  - The `state/` stores are committed by the weekly Action so accumulation persists run-to-run.

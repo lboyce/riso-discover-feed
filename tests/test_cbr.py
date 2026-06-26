@@ -4,6 +4,7 @@ from datetime import date
 from pathlib import Path
 
 from riso_discover.sources.cbr import CBRSource, parse_list, select_picks
+from riso_discover.store import RollingStore
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 HTML = (FIXTURES / "cbr_highest_rated.html").read_text("utf-8")
@@ -49,9 +50,11 @@ class FakeGateway:
         if not hit:
             return []
         cv, pub, scv = hit
+        # Uncanny X-Men #30 simulates freshness lag: resolves to a volume but NO issue cv_id.
+        issue_cv = None if series_name == "Uncanny X-Men" else cv
         return [{
             "id": cv, "number": issue_number, "store_date": "2026-06-20", "publisher": pub,
-            "cv_id": cv, "isbn": None, "upc": None, "gcd_id": None,
+            "cv_id": issue_cv, "isbn": None, "upc": None, "gcd_id": None,
             "image": f"https://static.metron.cloud/cover-{cv}.jpg",
             "series": {"id": scv, "name": series_name, "year_began": 2026, "cv_id": scv},
         }]
@@ -59,7 +62,8 @@ class FakeGateway:
 
 def _run(show_rating=True):
     src = CBRSource(FakeGateway(), today=date(2026, 6, 24), show_rating=show_rating,
-                    fetch=lambda url: HTML)  # both lists return the same fixture
+                    fetch=lambda url: HTML,  # both lists return the same fixture
+                    store=RollingStore(None))  # in-memory; no disk
     return src.run()
 
 
@@ -67,6 +71,17 @@ def test_three_shelves_present():
     out = _run()
     ids = [s.id for s in out.sections]
     assert set(ids) == {"riso-recommends", "critically-acclaimed", "popular"}
+
+
+def test_match_gate_excludes_freshness_lagged_picks():
+    out = _run()
+    # Uncanny X-Men #30 resolved to a volume but no comicvine_issue (freshness lag) -> never featured.
+    titles = {e.title for e in out.entities.values()}
+    assert not any("Uncanny X-Men" in t for t in titles)
+    # Every featured pick on every shelf carries a ComicVine issue id (matchable).
+    for s in out.sections:
+        for it in s.items:
+            assert out.entities[it.entity].ids.comicvine_issue is not None
 
 
 def test_critically_acclaimed_shows_score_and_credits_cbr():

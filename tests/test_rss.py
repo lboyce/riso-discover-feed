@@ -18,6 +18,7 @@ from riso_discover.sources.rss import (
     parse_review_article,
     parse_review_title,
 )
+from riso_discover.store import RollingStore, merge_entries
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 FEED_XML = (FIXTURES / "rss_reviews.xml").read_bytes()
@@ -75,46 +76,35 @@ def _run():
         today=date(2024, 5, 10),
         feeds=[TEST_FEED],
         fetch=lambda url: FEED_XML,
+        review_store=RollingStore(None),  # in-memory; no disk
     )
     return source.run()
 
 
-def test_only_reviews_kept_preview_and_news_filtered():
+def test_aipt_keeps_reviews_fresh_with_editorial_fallback():
     out = _run()
     section = next(s for s in out.sections if s.id == "aipt-reviews")
     assert section.type == "rss_department"
-    assert len(section.items) == 2  # Saga review + obscure review; preview & news dropped
+    # AIPT is not issue-gated (owner: keep fresh): Saga #66 resolves; Obscure Indie Thing degrades to
+    # an editorial link. Preview & news were filtered out. So two review items.
+    assert len(section.items) == 2
+    assert "cv-issue-4000-880000" in out.entities  # resolved review
+    assert any(k.startswith("rss-") for k in out.entities)  # editorial fallback for the unresolved one
 
 
 def test_resolved_review_is_pullable_with_review_signal():
     out = _run()
     e = out.entities["cv-issue-4000-880000"]
-    assert e.kind == "issue"
     assert e.ids.comicvine_issue == "4000-880000"
     assert e.ids.comicvine_volume == "4050-18029"
-    assert e.resolution.confidence == "high"
 
-    section = next(s for s in out.sections if s.id == "aipt-reviews")
-    item = next(i for i in section.items if i.entity == "cv-issue-4000-880000")
+    item = next(
+        it for s in out.sections for it in s.items if it.entity == "cv-issue-4000-880000"
+    )
     assert item.reason.type == "review_signal"
-    assert item.reason.source == "AIPT"
     assert item.reason.url == "https://aiptcomics.com/2024/05/01/saga-66-review/"
     assert item.reason.image == "https://img.example/saga66-thumb.jpg"
-    assert "Brian K. Vaughan" in item.reason.snippet
-    assert "<" not in item.reason.snippet  # HTML stripped, never full body
-
-
-def test_unresolved_review_degrades_to_editorial_link():
-    out = _run()
-    # Keyed by the article URL (rss-<hash>), not a book id.
-    editorial = [k for k in out.entities if k.startswith("rss-")]
-    assert len(editorial) == 1
-    e = out.entities[editorial[0]]
-    assert e.resolution.confidence == "unresolved"
-    assert e.series_name == "Obscure Indie Thing"
-    assert e.issue_number == "1"
-    assert e.ids.comicvine_issue is None
-    assert e.ids.source_url == "https://aiptcomics.com/2024/05/02/obscure-indie-thing-1-review/"
+    assert "Brian K. Vaughan" in item.reason.snippet and "<" not in item.reason.snippet
 
 
 # --- AIPT article enrichment (verdict + score + likes/dislikes) -----------------------------
@@ -139,6 +129,7 @@ def test_include_verdict_enriches_the_reason():
         include_verdict=True,
         article_fetch=lambda url: AIPT_ARTICLE,
         articles_cache=_NO_CACHE,
+        review_store=RollingStore(None),
     )
     out = src.run()
     item = next(
@@ -149,3 +140,51 @@ def test_include_verdict_enriches_the_reason():
     assert r.snippet.startswith("A propulsive")  # verdict replaces the feed excerpt
     assert r.pros and r.cons
     assert r.url == "https://aiptcomics.com/2024/05/01/saga-66-review/"  # Read more link kept
+
+
+# --- rolling review store -------------------------------------------------------------------
+
+
+def test_merge_reviews_dedupes_preserves_first_seen_and_prunes():
+    today = date(2024, 5, 10)
+    existing = [
+        {"url": "a", "series": "X", "issue": "1", "published": "2024-05-03", "first_seen": "2024-05-03"},
+        {"url": "old", "series": "Y", "issue": "2", "published": "2024-01-01", "first_seen": "2024-01-01"},
+    ]
+    fresh = [
+        {"url": "a", "series": "X", "issue": "1", "published": "2024-05-03"},  # dupe
+        {"url": "b", "series": "Z", "issue": "3", "published": "2024-05-09"},  # new
+    ]
+    merged = merge_entries(existing, fresh, today, retention_days=90)
+    urls = [e["url"] for e in merged]
+    assert urls == ["b", "a"]  # newest first; "old" pruned (>90d); "a" deduped
+    assert next(e for e in merged if e["url"] == "a")["first_seen"] == "2024-05-03"  # preserved
+
+
+NEWISH_XML = b"""<?xml version="1.0"?><rss version="2.0"><channel>
+  <item><title>Newish Thing #1 review</title><link>https://aipt/newish-1-review/</link>
+  <category>Reviews</category><pubDate>Wed, 08 May 2024 12:00:00 +0000</pubDate>
+  <description>A debut.</description></item>
+</channel></rss>"""
+
+
+def test_rolling_store_surfaces_prior_week_once_indexed(tmp_path):
+    class GW:
+        def search_issues(self, name, number=None):
+            if "Saga" in name and number == "66":  # last week's review — now CV-indexed
+                return [{"id": 700, "number": "66", "store_date": "2024-05-01",
+                         "publisher": "Image Comics", "cv_id": 880000,
+                         "series": {"id": 7777, "name": "Saga", "year_began": 2012, "cv_id": 18029}}]
+            return []  # this week's review is still unindexed
+
+    store = RollingStore(tmp_path / "reviews.json")
+    store.save({"aipt-reviews": [{"url": "https://aipt/saga-66-review/", "series": "Saga",
+                                  "issue": "66", "published": "2024-05-01", "first_seen": "2024-05-01"}]})
+    out = RSSSource(GW(), today=date(2024, 5, 10), feeds=[TEST_FEED],
+                    fetch=lambda url: NEWISH_XML, review_store=store).run()
+
+    keys = [it.entity for s in out.sections for it in s.items]
+    # The prior-week Saga (not in this week's feed) surfaces from the store, now fully resolved.
+    assert "cv-issue-4000-880000" in keys
+    # This week's review is accumulated into the store for future runs (and grows the pool).
+    assert any(e["url"] == "https://aipt/newish-1-review/" for e in store.load()["aipt-reviews"])

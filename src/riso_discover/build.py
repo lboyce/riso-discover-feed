@@ -78,6 +78,7 @@ def build_sources(config: Config, *, today: date, upcoming_weeks: int = 4) -> li
                 RSSSource(
                     metron_gateway(), today=today,
                     include_verdict=bool(opts.get("include_verdict", False)),
+                    retention_days=int(opts.get("review_retention_days", 90)),
                 )
             )
         elif spec.name == "cbr":

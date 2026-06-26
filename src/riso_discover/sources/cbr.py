@@ -26,9 +26,11 @@ from datetime import date
 from html.parser import HTMLParser
 from typing import Callable, Optional
 
+from ..config import REPO_ROOT
 from ..metron_gateway import MetronGateway
 from ..models import Item, Reason, Section, entity_key
 from ..resolver import resolve_query
+from ..store import RollingStore, merge_entries
 from .base import BaseSource, SourceOutput
 
 log = logging.getLogger(__name__)
@@ -37,6 +39,10 @@ CBR_BASE = "https://comicbookroundup.com"
 CBR_USER_AGENT = (
     "riso-discover-feed/0.1 (https://github.com/lboyce/riso-discover-feed; lukeslens@gmail.com)"
 )
+
+#: Rolling store so the curated shelves span several weeks (CBR's lists only cover ~2). Committed.
+DEFAULT_CBR_STORE = REPO_ROOT / "state" / "cbr_lists.json"
+DEFAULT_RETENTION_DAYS = 90
 
 HIGHEST_RATED_PATH = "/comic-books/recent-highest-rated-list"
 MOST_PULLED_PATH = "/comic-books/recent-most-pulled-list"
@@ -205,6 +211,20 @@ def _dedupe(candidates: list[Candidate]) -> list[Candidate]:
     return out
 
 
+def _to_entry(c: Candidate) -> dict:
+    return {
+        "url": c.href, "series": c.series, "issue": c.issue, "publisher": c.publisher,
+        "year": c.year, "score": c.score, "review_count": c.review_count,
+    }
+
+
+def _from_entry(e: dict) -> Candidate:
+    return Candidate(
+        series=e["series"], issue=e["issue"], publisher=e["publisher"], year=e.get("year"),
+        href=e["url"], score=e.get("score"), review_count=e.get("review_count"),
+    )
+
+
 class CBRSource(BaseSource):
     name = "cbr"
     tier = "personal"
@@ -217,6 +237,8 @@ class CBRSource(BaseSource):
         max_per_shelf: int = 12,
         recommends_count: int = 8,
         show_rating: bool = True,
+        retention_days: int = DEFAULT_RETENTION_DAYS,
+        store: Optional[RollingStore] = None,
         fetch: Optional[Callable[[str], str]] = None,
     ):
         self.gateway = gateway
@@ -224,6 +246,8 @@ class CBRSource(BaseSource):
         self.max_per_shelf = max_per_shelf
         self.recommends_count = recommends_count
         self.show_rating = show_rating
+        self.retention_days = retention_days
+        self._store = store if store is not None else RollingStore(DEFAULT_CBR_STORE)
         self._fetch = fetch or self._default_fetch
 
     def _default_fetch(self, url: str) -> str:
@@ -265,6 +289,9 @@ class CBRSource(BaseSource):
                 continue
             if entity is None:
                 continue  # picks must be pullable; skip and let the next candidate fill the slot
+            if not entity.ids.comicvine_issue:
+                continue  # match gate: only feature CV-indexed (settled, library-matchable) issues;
+                #           skips this-week's freshness-lagged picks, biasing shelves to recent weeks
             key = entity_key(entity.ids)
             if key in seen:
                 continue
@@ -278,8 +305,23 @@ class CBRSource(BaseSource):
     def run(self) -> SourceOutput:
         out = SourceOutput()
         week = self.today.isocalendar().week
-        acclaimed = self._candidates(HIGHEST_RATED_PATH)
-        popular = self._candidates(MOST_PULLED_PATH)
+
+        # Accumulate each list into the rolling store so the shelves span several weeks (CBR's live
+        # lists only cover ~2). Then build from the accumulated, gated pool.
+        groups = self._store.load()
+        groups["highest-rated"] = merge_entries(
+            groups.get("highest-rated", []), [_to_entry(c) for c in self._candidates(HIGHEST_RATED_PATH)],
+            self.today, self.retention_days,
+        )
+        groups["most-pulled"] = merge_entries(
+            groups.get("most-pulled", []), [_to_entry(c) for c in self._candidates(MOST_PULLED_PATH)],
+            self.today, self.retention_days,
+        )
+        self._store.save(groups)
+
+        acclaimed = [_from_entry(e) for e in groups["highest-rated"]]
+        acclaimed.sort(key=lambda c: c.score or 0.0, reverse=True)  # best-rated across weeks first
+        popular = [_from_entry(e) for e in groups["most-pulled"]]  # newest-first from the store
         cbr_source = "Comic Book Roundup" if self.show_rating else "RISO"
 
         shelves = [

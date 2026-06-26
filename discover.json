@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-25T03:25:14Z",
+  "generated_at": "2026-06-26T06:42:01Z",
   "feed_window": {
     "start": "2026-06-22",
     "end": "2026-06-28"
@@ -27,7 +27,23 @@
             "score_max": 10.0,
             "review_count": 2,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Get Your Comic On",
+                "reviewer": "Michael Brennan",
+                "excerpt": "Something is Killing the Children #48 delivers yet another strong issue, balancing action, emotion, and world-building with real confidence. Thrilling from start to finish. A great read.",
+                "score": 10.0,
+                "url": "https://getyourcomicon.co.uk/blog/2026/06/17/something-is-killing-the-children-2019-48-review/"
+              },
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Ken M.",
+                "excerpt": "A difficult conversation between Erica and Jessica reveals a new side to the life of the Order in a powerful chapter. Tynion IV delves into Jessica’s deep pain with magnificent writing . Dell’edera and Muerto unload the heavy burdens of truth with impressive visuals. The world of Erica Slaughter is one that never leaves readers thoughts when the issue finishes for a reason.",
+                "score": 9.0,
+                "url": "https://www.fanlightzone.com/comics/something-is-killing-the-children-48"
+              }
+            ]
           }
         },
         {
@@ -43,23 +59,23 @@
             "score_max": 10.0,
             "review_count": 6,
             "pros": null,
-            "cons": null
-          }
-        },
-        {
-          "entity": "metron-issue-171359",
-          "reason": {
-            "type": "featured_pick",
-            "source": "RISO",
-            "label": "RISO Recommends",
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": 8.8,
-            "score_max": 10.0,
-            "review_count": 5,
-            "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Nerd Initiative",
+                "reviewer": "TravisComicHaven",
+                "excerpt": "Issue ten is a staple for this series of Battle Beast! With this being within the Invincible Universe readers finally get a battle between warriors they have been waiting for. Entertaining storytelling aided by gorgeous art! Battle Beast fans will not want to miss this issue when these two titans collide! This looks to be a battle for the ages and Battle Beast’s toughest bout yet!",
+                "score": 10.0,
+                "url": "https://nerdinitiative.com/2026/06/17/invincible-universe-battle-beast-10-when-warriors-meet/"
+              },
+              {
+                "outlet": "COMICON",
+                "reviewer": "Tom Smithyman",
+                "excerpt": "Great illustrations and pacing make the beginning of this fight between Battle Beast and Conquest a must-read. Don’t worry, though. With a matchup this epic, there will be plenty more for the creative team to wow readers with.",
+                "score": 9.5,
+                "url": "https://comicon.com/2026/06/15/advance-review-the-battle-royale-begins-in-invincible-universe-battle-beast-10/"
+              }
+            ]
           }
         },
         {
@@ -75,39 +91,23 @@
             "score_max": 10.0,
             "review_count": 5,
             "pros": null,
-            "cons": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-150172",
-          "reason": {
-            "type": "featured_pick",
-            "source": "RISO",
-            "label": "RISO Recommends",
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": 8.2,
-            "score_max": 10.0,
-            "review_count": 2,
-            "pros": null,
-            "cons": null
-          }
-        },
-        {
-          "entity": "metron-issue-171494",
-          "reason": {
-            "type": "featured_pick",
-            "source": "RISO",
-            "label": "RISO Recommends",
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": 8.8,
-            "score_max": 10.0,
-            "review_count": 6,
-            "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Richard Coryell",
+                "excerpt": "Land of Never #1 is a nice start to a very promising series. The initial premise will grab your attention, but the teased tie in will make you sit up in your seat. The artwork is fantastic and leaves nothing to the imagination as it captures the story completely. This is a must grab at the shop this week. Give this first issue a shot and consider adding it to your Pull List, or at the very least order the second issue to see where it goes.",
+                "score": 9.4,
+                "url": "https://www.fanlightzone.com/comics/land-of-never-1"
+              },
+              {
+                "outlet": "Capes & Tights",
+                "reviewer": "Justin Soderberg",
+                "excerpt": "Land of Never takes a familiar tale and twists it into something truly unsettling. Steve Orlando delivers a gripping mystery fueled by a desperate father, all while Miguel Mora illustrates atmospheric tension that jumps from the page. Land of Never is the version of an age-old classic that you never knew you needed, a blend of heart and horror. Cannot wait for what is coming next.",
+                "score": 9.0,
+                "url": "https://capesandtights.com/land-of-never-1-review-haunting-twist-classic/"
+              }
+            ]
           }
         },
         {
@@ -123,7 +123,23 @@
             "score_max": 10.0,
             "review_count": 5,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "SciFiPulse",
+                "reviewer": "Ian Cullen",
+                "excerpt": "This was a solid issue that carries a real sense of danger and presents readers with a problem that only someone like James T. Kirk could likely solve. There is also a great observation made by both Kirk and Jurati about Sato, which has been a recurring theme throughout the series so far. Sato is a captain who is often held back from making the tough choices because of his own fears and self-doubt.",
+                "score": 9.7,
+                "url": "https://www.scifipulse.net/in-review-star-trek-the-last-starship-8-kirk-vs-jurati/"
+              },
+              {
+                "outlet": "The Super Powered Fancast",
+                "reviewer": "Deron Generally",
+                "excerpt": "Gonzalez delivers stunning art throughout the issue. I absolutely love the character designs and the attention to detail in every page and panel.",
+                "score": 9.0,
+                "url": "https://www.superpoweredfancast.com/star-trek-the-last-starship-8-review/"
+              }
+            ]
           }
         },
         {
@@ -139,7 +155,119 @@
             "score_max": 10.0,
             "review_count": 5,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Ken M.",
+                "excerpt": "Eddie attempts to be a reluctant hero as Trent is kidnapped in another phenomenal issue. Starks unloads the deep rooted feelings in-between the adult humor. Pugh & O'Halloran bring the insanity of Eddie’s world to spectacular life. There is no good reason End Of Life shouldn’t be in your collection.",
+                "score": 9.6,
+                "url": "https://www.fanlightzone.com/comics/end-of-life-5"
+              },
+              {
+                "outlet": "Geek Dad",
+                "reviewer": "Ray Goldfield",
+                "excerpt": "This issue is pretty close to perfect, but it also seems to bring an end to the whole Pluto era of the title. I’m very curious to see where it goes now, as the small-town setting was one of the big selling points.",
+                "score": 9.5,
+                "url": "https://geekdad.com/2026/06/dc-this-week-roundup-worlds-of-heroes/"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1171938",
+          "reason": {
+            "type": "featured_pick",
+            "source": "RISO",
+            "label": "RISO Recommends",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": 8.5,
+            "score_max": 10.0,
+            "review_count": 9,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Nerd Initiative",
+                "reviewer": "TravisComicHaven",
+                "excerpt": "This new limited series is proving to be very captivating! This first issue leaves readers wanting to know more about so many things that you have no choice but to continue to read! Why is Hulk after this artifact, and what is Spider-Man going to do when he has to confront him? I have my assumptions but those will have to wait till more of this series comes out. The creative team for this issue work so well together to bring such an amazing book to fans. Be sure to pick this title up from your local shop today!",
+                "score": 10.0,
+                "url": "https://nerdinitiative.com/2026/06/17/spider-man-long-way-home-1-mission-impossible/"
+              },
+              {
+                "outlet": "Super Hero Hype",
+                "reviewer": "Matt Morrison",
+                "excerpt": "The only real flaw to Spider-Man: Long Way Home is its deceptive title. This can be forgiven, however, given everything else makes it the perfect comic to offer anyone interested in reading more comics after seeing Brand New Day. And with legends like Kirkman and Kubert on deck, longtime fans will love it too.",
+                "score": 9.0,
+                "url": "https://www.superherohype.com/features/672963-spider-man-long-way-home-1-review-misleading-title-disappoint-mcu-fans"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1171987",
+          "reason": {
+            "type": "featured_pick",
+            "source": "RISO",
+            "label": "RISO Recommends",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": 8.6,
+            "score_max": 10.0,
+            "review_count": 5,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Lyles Movie Files",
+                "reviewer": "Jeffrey Lyles",
+                "excerpt": "GI Joe 23 delivers the usual exciting action readers have come to expect from the series. The only downside is that with squads of three members each it felt weird seeing two of them sidelined.",
+                "score": 9.5,
+                "url": "https://lylesmoviefiles.com/2026/06/17/image-comics-gi-joe-23-redcoat-18/2/"
+              },
+              {
+                "outlet": "Comic Watch",
+                "reviewer": "Anthony Bergamini",
+                "excerpt": "G.I. Joe #23 blends character-driven storytelling, unexpected alliances, and world-expanding conflicts to deliver a mature and emotionally resonant entry in the Energon Universe.",
+                "score": 9.0,
+                "url": "https://comic-watch.com/comic-book-reviews/g-i-joe-23-the-enemy-of-my-enemy"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1171992",
+          "reason": {
+            "type": "featured_pick",
+            "source": "RISO",
+            "label": "RISO Recommends",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": 9.0,
+            "score_max": 10.0,
+            "review_count": 8,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "AIPT",
+                "reviewer": "Collier Jennings",
+                "excerpt": "If Destruction Be Our Lot #2 continues to flesh out its weird, wild, and wonderful world of robots, by offering plenty of visuals with personality and plot twists that will have readers talking.",
+                "score": 10.0,
+                "url": "https://aiptcomics.com/2026/06/16/if-destruction-be-our-lot-2-review/"
+              },
+              {
+                "outlet": "Nerd Initiative",
+                "reviewer": "Eda Thomas Bagwell",
+                "excerpt": "I already require the next issue of “If Destruction Be Our Lot” to be in my hands. This issue continues an already going trend of the Rosenberg brothers, MacDonald and Segala creating something truly once-in-a-lifetime. This series could really teach us a thing or two.",
+                "score": 10.0,
+                "url": "https://nerdinitiative.com/2026/06/17/if-destruction-be-our-lot-2-an-unbelievable-tour-de-force/"
+              }
+            ]
           }
         }
       ]
@@ -153,54 +281,6 @@
       "source": "Comic Book Roundup",
       "items": [
         {
-          "entity": "cv-volume-4050-148476",
-          "reason": {
-            "type": "featured_pick",
-            "source": "Comic Book Roundup",
-            "label": "Critically Acclaimed",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/superman-(2023)/39",
-            "snippet": null,
-            "image": null,
-            "score": 9.7,
-            "score_max": 10.0,
-            "review_count": 5,
-            "pros": null,
-            "cons": null
-          }
-        },
-        {
-          "entity": "metron-issue-170936",
-          "reason": {
-            "type": "featured_pick",
-            "source": "Comic Book Roundup",
-            "label": "Critically Acclaimed",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/summer-of-supergirl-special-(2026)/1",
-            "snippet": null,
-            "image": null,
-            "score": 9.4,
-            "score_max": 10.0,
-            "review_count": 6,
-            "pros": null,
-            "cons": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-160511",
-          "reason": {
-            "type": "featured_pick",
-            "source": "Comic Book Roundup",
-            "label": "Critically Acclaimed",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-wonder-woman-(2024)/21",
-            "snippet": null,
-            "image": null,
-            "score": 9.2,
-            "score_max": 10.0,
-            "review_count": 6,
-            "pros": null,
-            "cons": null
-          }
-        },
-        {
           "entity": "cv-issue-4000-1171918",
           "reason": {
             "type": "featured_pick",
@@ -211,9 +291,25 @@
             "image": null,
             "score": 9.2,
             "score_max": 10.0,
-            "review_count": 11,
+            "review_count": 12,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Geek Dad",
+                "reviewer": "Ray Goldfield",
+                "excerpt": "I’m sure some of the rhetoric in this issue, particularly out of Mia’s mouth, will get a lot of people talking about certain real-world parallels, but this comic actually works really well justin the context of a superhero story. This is a world where the innocent are hunted and the guilty are more powerful than ever, and the heroes are often powerless to strike back – so villain tactics might be necessary to fight back.",
+                "score": 10.0,
+                "url": "https://geekdad.com/2026/06/review-absolute-green-arrow-2-the-suspects/"
+              },
+              {
+                "outlet": "Nerd Initiative",
+                "reviewer": "Matthew Roth",
+                "excerpt": "Absolute Green Arrow #2 takes us deeper into the mystery of who our killer is. This issue brings us to familiar faces within the Green Arrow lore and shrouds us in mystery even more than before. The blend of action and suspense is working cleverly, making this a horror story of sorts. I will have this run at the very top of my pull pile every month; I hope it gets expanded beyond its current limited run.",
+                "score": 10.0,
+                "url": "https://nerdinitiative.com/2026/06/17/absolute-green-arrow-2-the-longbow-killer/"
+              }
+            ]
           }
         },
         {
@@ -229,7 +325,23 @@
             "score_max": 10.0,
             "review_count": 5,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Nerd Initiative",
+                "reviewer": "Eda Thomas Bagwell",
+                "excerpt": "From the deep messages and fantastic storytelling to the excellent and varied art & colors, “Justice League Dream Girls” continues to astound! Maines and Axelrod continue to prove they put their souls into their writing while Wilson more than delivers on a fantastic Harlivy side story. This is a fantastic series that you won’t want to miss!",
+                "score": 10.0,
+                "url": "https://nerdinitiative.com/2026/06/17/justice-league-dream-girls-3-review-doing-pride-justice/"
+              },
+              {
+                "outlet": "Graphic Policy",
+                "reviewer": "Logan Dalton",
+                "excerpt": "The interaction between Galaxy and the 1st transgender superhero Coagula is an utterly iconic mentoring and banter moment and truly empowers Galaxy to speak up for herself and Dreamer. It’s also a lovely homage to Coagula’s co-creator, the late Rachel Pollack. It’s also so damn relatable that Galaxy is overwhelmed by all the screens around her: a true superhero vulnerability for 2026.",
+                "score": 9.1,
+                "url": "https://graphicpolicy.com/2026/06/21/mini-reviews-absolute-green-arrow-concrete/"
+              }
+            ]
           }
         },
         {
@@ -245,23 +357,55 @@
             "score_max": 10.0,
             "review_count": 8,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "AIPT",
+                "reviewer": "Collier Jennings",
+                "excerpt": "If Destruction Be Our Lot #2 continues to flesh out its weird, wild, and wonderful world of robots, by offering plenty of visuals with personality and plot twists that will have readers talking.",
+                "score": 10.0,
+                "url": "https://aiptcomics.com/2026/06/16/if-destruction-be-our-lot-2-review/"
+              },
+              {
+                "outlet": "Nerd Initiative",
+                "reviewer": "Eda Thomas Bagwell",
+                "excerpt": "I already require the next issue of “If Destruction Be Our Lot” to be in my hands. This issue continues an already going trend of the Rosenberg brothers, MacDonald and Segala creating something truly once-in-a-lifetime. This series could really teach us a thing or two.",
+                "score": 10.0,
+                "url": "https://nerdinitiative.com/2026/06/17/if-destruction-be-our-lot-2-an-unbelievable-tour-de-force/"
+              }
+            ]
           }
         },
         {
-          "entity": "cv-volume-4050-160860",
+          "entity": "cv-issue-4000-1171916",
           "reason": {
             "type": "featured_pick",
             "source": "Comic Book Roundup",
             "label": "Critically Acclaimed",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-superman-(2024)/20",
+            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-batman-(2024)/21",
             "snippet": null,
             "image": null,
-            "score": 9.0,
+            "score": 8.9,
             "score_max": 10.0,
-            "review_count": 6,
+            "review_count": 15,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Get Your Comic On",
+                "reviewer": "Neil Vagg",
+                "excerpt": "Absolute Batman #21 is another huge triumph for Scott Snyder and the team. It navigates a number of different setups between huge action set pieces, a rather grand funeral and a slightly twisted finale to setup a number of huge storylines for year three of the Absolute initiative.",
+                "score": 10.0,
+                "url": "https://getyourcomicon.co.uk/blog/2026/06/17/absolute-batman-2024-21-review/"
+              },
+              {
+                "outlet": "Geek Dad",
+                "reviewer": "Ray Goldfield",
+                "excerpt": "Ever since the original Batman run, Scott Snyder’s Joker has always been among the scariest I’ve ever read, but this is on a whole other level. The level of disturbing visuals by Nick Dragotta work absolutely perfectly to end the issue with literal shivers down your spine.",
+                "score": 10.0,
+                "url": "https://geekdad.com/2026/06/review-absolute-batman-21-the-robins-next/"
+              }
+            ]
           }
         },
         {
@@ -277,7 +421,23 @@
             "score_max": 10.0,
             "review_count": 6,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "AIPT",
+                "reviewer": "Michael Guerrero",
+                "excerpt": "Nightwing #139 strays away from the overly upbeat tone Nightwing is stereotyped into having.",
+                "score": 10.0,
+                "url": "https://aiptcomics.com/2026/06/17/nightwing-139-review/"
+              },
+              {
+                "outlet": "Kabooooom",
+                "reviewer": "Matt Morrison",
+                "excerpt": "Nightwing may not be the flashiest title on the stands today. However, this issue proves that it can still surprise even a jaded reader with something special. I can’t say anything beyond that without spoiling it, but I loved this issue!",
+                "score": 10.0,
+                "url": "https://kabooooom.com/2026/06/21/nightwing-139-review/"
+              }
+            ]
           }
         },
         {
@@ -293,7 +453,23 @@
             "score_max": 10.0,
             "review_count": 5,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Comic Watch",
+                "reviewer": "Christian Laspada",
+                "excerpt": "Superman Unlimited #14 is a fantastic continuation of the next big event for the Super family. It’s the perfect issue full of funny dialogue, beautiful art, and exciting new beginnings for Jon Kent Superman.",
+                "score": 9.8,
+                "url": "https://comic-watch.com/comic-book-reviews/superman-unlimited-14-ultraboy"
+              },
+              {
+                "outlet": "Geek Dad",
+                "reviewer": "Ray Goldfield",
+                "excerpt": "It’s easy to assume things are going to go one way, but I think this story might be a lot more nuanced like that, and this next issue should be a hell of a ride.",
+                "score": 9.0,
+                "url": "https://geekdad.com/2026/06/review-superman-unlimited-14-the-mystery-boy/"
+              }
+            ]
           }
         },
         {
@@ -309,23 +485,23 @@
             "score_max": 10.0,
             "review_count": 5,
             "pros": null,
-            "cons": null
-          }
-        },
-        {
-          "entity": "metron-issue-171359",
-          "reason": {
-            "type": "featured_pick",
-            "source": "Comic Book Roundup",
-            "label": "Critically Acclaimed",
-            "url": "https://comicbookroundup.com/comic-books/reviews/marvel-comics/ultimate-universe-finale-(2026)/1",
-            "snippet": null,
-            "image": null,
-            "score": 8.8,
-            "score_max": 10.0,
-            "review_count": 5,
-            "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Geek Dad",
+                "reviewer": "Ray Goldfield",
+                "excerpt": "This issue gets pretty dark in places, much more in line with the work Mike Grell did on the world of Skartaris in his iconic Warlord series and its follow-ups. That’s a great way to set this arc apart from the other flashback works Waid has done, which have more of a Silver Age aesthetic.",
+                "score": 9.5,
+                "url": "https://geekdad.com/2026/06/dc-this-week-roundup-worlds-of-heroes/"
+              },
+              {
+                "outlet": "Comic Watch",
+                "reviewer": "Jamison Nilsson",
+                "excerpt": "Tony Fleecs has been able to make me think of Deathstroke as Slade Wilson, rather than just the intimidating badass he is normally portrayed as. Carmine Di Giandomenico’s is as sharp and vivid as always, while Ivan Plascencia’s ability to visually track lighting in shifting scenes across dozens of panels and use it to enhance the tone is also a notable highlight of the issue’s visuals.",
+                "score": 9.3,
+                "url": "https://comic-watch.com/comic-book-reviews/deathstroke-the-terminator-4-sins-of-the-father"
+              }
+            ]
           }
         },
         {
@@ -341,7 +517,151 @@
             "score_max": 10.0,
             "review_count": 5,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Ken M.",
+                "excerpt": "Eddie attempts to be a reluctant hero as Trent is kidnapped in another phenomenal issue. Starks unloads the deep rooted feelings in-between the adult humor. Pugh & O'Halloran bring the insanity of Eddie’s world to spectacular life. There is no good reason End Of Life shouldn’t be in your collection.",
+                "score": 9.6,
+                "url": "https://www.fanlightzone.com/comics/end-of-life-5"
+              },
+              {
+                "outlet": "Geek Dad",
+                "reviewer": "Ray Goldfield",
+                "excerpt": "This issue is pretty close to perfect, but it also seems to bring an end to the whole Pluto era of the title. I’m very curious to see where it goes now, as the small-town setting was one of the big selling points.",
+                "score": 9.5,
+                "url": "https://geekdad.com/2026/06/dc-this-week-roundup-worlds-of-heroes/"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1171925",
+          "reason": {
+            "type": "featured_pick",
+            "source": "Comic Book Roundup",
+            "label": "Critically Acclaimed",
+            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/lobo-(2026)/4",
+            "snippet": null,
+            "image": null,
+            "score": 8.8,
+            "score_max": 10.0,
+            "review_count": 5,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Nerd Initiative",
+                "reviewer": "Megan Nichole",
+                "excerpt": "The creative team does it again! Lobo #4 is a fantastic comic that fits in well with the overall quality of the series. Lobo versus Supergirl was a great time all around and I can’t wait to see how it ends.",
+                "score": 10.0,
+                "url": "https://nerdinitiative.com/2026/06/17/lobo-4-complications-on-the-job/"
+              },
+              {
+                "outlet": "Geek Dad",
+                "reviewer": "Ray Goldfield",
+                "excerpt": "This comic is a blast, just like the three previous issues, and it also has a surprising tie-in to what comes next for Kara.",
+                "score": 9.0,
+                "url": "https://geekdad.com/2026/06/dc-this-week-roundup-worlds-of-heroes/"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1171917",
+          "reason": {
+            "type": "featured_pick",
+            "source": "Comic Book Roundup",
+            "label": "Critically Acclaimed",
+            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-flash-(2025)/16",
+            "snippet": null,
+            "image": null,
+            "score": 8.8,
+            "score_max": 10.0,
+            "review_count": 6,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Geek Dad",
+                "reviewer": "Ray Goldfield",
+                "excerpt": "There are some incredibly creepy moments in this issue, particularly towards the end, and with a real sense of danger that belies just how new Wally is to his powers. Grodd may not be the danger in this comic, but his father may slowly be growing into something just as dangerous as his main-line counterpart.",
+                "score": 10.0,
+                "url": "https://geekdad.com/2026/06/review-absolute-flash-16-monkey-business/"
+              },
+              {
+                "outlet": "Comic Watch",
+                "reviewer": "Jamison Nilsson",
+                "excerpt": "Issue #16 is tightly paced from start to finish, with every line of dialogue either developing the bonds between the characters or pushing the storyline to the next page. Even the last few pages don’t feel like bait for the next issue because they actually answers the reader’s questions rather than simply kicking the can down the road.",
+                "score": 9.6,
+                "url": "https://comic-watch.com/comic-book-reviews/absolute-flash-16-its-all-grodd"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1171995",
+          "reason": {
+            "type": "featured_pick",
+            "source": "Comic Book Roundup",
+            "label": "Critically Acclaimed",
+            "url": "https://comicbookroundup.com/comic-books/reviews/mad-cave-studios/land-of-never-(2026)/1",
+            "snippet": null,
+            "image": null,
+            "score": 8.7,
+            "score_max": 10.0,
+            "review_count": 5,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Richard Coryell",
+                "excerpt": "Land of Never #1 is a nice start to a very promising series. The initial premise will grab your attention, but the teased tie in will make you sit up in your seat. The artwork is fantastic and leaves nothing to the imagination as it captures the story completely. This is a must grab at the shop this week. Give this first issue a shot and consider adding it to your Pull List, or at the very least order the second issue to see where it goes.",
+                "score": 9.4,
+                "url": "https://www.fanlightzone.com/comics/land-of-never-1"
+              },
+              {
+                "outlet": "Capes & Tights",
+                "reviewer": "Justin Soderberg",
+                "excerpt": "Land of Never takes a familiar tale and twists it into something truly unsettling. Steve Orlando delivers a gripping mystery fueled by a desperate father, all while Miguel Mora illustrates atmospheric tension that jumps from the page. Land of Never is the version of an age-old classic that you never knew you needed, a blend of heart and horror. Cannot wait for what is coming next.",
+                "score": 9.0,
+                "url": "https://capesandtights.com/land-of-never-1-review-haunting-twist-classic/"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1172014",
+          "reason": {
+            "type": "featured_pick",
+            "source": "Comic Book Roundup",
+            "label": "Critically Acclaimed",
+            "url": "https://comicbookroundup.com/comic-books/reviews/idw-publishing/star-trek-the-last-starship-(2025)/8",
+            "snippet": null,
+            "image": null,
+            "score": 8.7,
+            "score_max": 10.0,
+            "review_count": 5,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "SciFiPulse",
+                "reviewer": "Ian Cullen",
+                "excerpt": "This was a solid issue that carries a real sense of danger and presents readers with a problem that only someone like James T. Kirk could likely solve. There is also a great observation made by both Kirk and Jurati about Sato, which has been a recurring theme throughout the series so far. Sato is a captain who is often held back from making the tough choices because of his own fears and self-doubt.",
+                "score": 9.7,
+                "url": "https://www.scifipulse.net/in-review-star-trek-the-last-starship-8-kirk-vs-jurati/"
+              },
+              {
+                "outlet": "The Super Powered Fancast",
+                "reviewer": "Deron Generally",
+                "excerpt": "Gonzalez delivers stunning art throughout the issue. I absolutely love the character designs and the attention to detail in every page and panel.",
+                "score": 9.0,
+                "url": "https://www.superpoweredfancast.com/star-trek-the-last-starship-8-review/"
+              }
+            ]
           }
         }
       ]
@@ -355,22 +675,6 @@
       "source": "Comic Book Roundup",
       "items": [
         {
-          "entity": "cv-volume-4050-91098",
-          "reason": {
-            "type": "trending",
-            "source": "Comic Book Roundup",
-            "label": "Popular This Week",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/detective-comics-(2016)/1110",
-            "snippet": null,
-            "image": null,
-            "score": 8.9,
-            "score_max": 10.0,
-            "review_count": 3,
-            "pros": null,
-            "cons": null
-          }
-        },
-        {
           "entity": "cv-issue-4000-1171927",
           "reason": {
             "type": "trending",
@@ -383,7 +687,23 @@
             "score_max": 10.0,
             "review_count": 6,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "AIPT",
+                "reviewer": "Michael Guerrero",
+                "excerpt": "Nightwing #139 strays away from the overly upbeat tone Nightwing is stereotyped into having.",
+                "score": 10.0,
+                "url": "https://aiptcomics.com/2026/06/17/nightwing-139-review/"
+              },
+              {
+                "outlet": "Kabooooom",
+                "reviewer": "Matt Morrison",
+                "excerpt": "Nightwing may not be the flashiest title on the stands today. However, this issue proves that it can still surprise even a jaded reader with something special. I can’t say anything beyond that without spoiling it, but I loved this issue!",
+                "score": 10.0,
+                "url": "https://kabooooom.com/2026/06/21/nightwing-139-review/"
+              }
+            ]
           }
         },
         {
@@ -399,7 +719,23 @@
             "score_max": 10.0,
             "review_count": 7,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "AIPT",
+                "reviewer": "Chris Showalter",
+                "excerpt": "Batman/Superman: World’s Finest #52’s is Saturday morning cartoon fun. Although Waid’s narrative lacks depth and demands that we ask the question, “Power to what end?” it oozes with Silver Age spectacle. Thankfully, what the narrative lacks in depth, it more than makes up for with pitch-perfect characterization, world-building, and Gutierrez’s gorgeous artwork.  And, most importantly, if you’re anything like me, you’ve been craving some Saturday Morning Cartoon action with your favorite superheroes. Now, where are my Batman and Superman with dinosaur armor!? I need to smash them together.",
+                "score": 9.0,
+                "url": "https://aiptcomics.com/2026/06/17/batman-superman-worlds-finest-52-review/"
+              },
+              {
+                "outlet": "Geek Dad",
+                "reviewer": "Ray Goldfield",
+                "excerpt": "This issue gets pretty dark in places, much more in line with the work Mike Grell did on the world of Skartaris in his iconic Warlord series and its follow-ups. That’s a great way to set this arc apart from the other flashback works Waid has done, which have more of a Silver Age aesthetic.",
+                "score": 9.0,
+                "url": "https://geekdad.com/2026/06/dc-this-week-roundup-worlds-of-heroes/"
+              }
+            ]
           }
         },
         {
@@ -415,7 +751,23 @@
             "score_max": 10.0,
             "review_count": 2,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Get Your Comic On",
+                "reviewer": "Michael Brennan",
+                "excerpt": "Something is Killing the Children #48 delivers yet another strong issue, balancing action, emotion, and world-building with real confidence. Thrilling from start to finish. A great read.",
+                "score": 10.0,
+                "url": "https://getyourcomicon.co.uk/blog/2026/06/17/something-is-killing-the-children-2019-48-review/"
+              },
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Ken M.",
+                "excerpt": "A difficult conversation between Erica and Jessica reveals a new side to the life of the Order in a powerful chapter. Tynion IV delves into Jessica’s deep pain with magnificent writing . Dell’edera and Muerto unload the heavy burdens of truth with impressive visuals. The world of Erica Slaughter is one that never leaves readers thoughts when the issue finishes for a reason.",
+                "score": 9.0,
+                "url": "https://www.fanlightzone.com/comics/something-is-killing-the-children-48"
+              }
+            ]
           }
         },
         {
@@ -427,27 +779,27 @@
             "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-batman-(2024)/21",
             "snippet": null,
             "image": null,
-            "score": 8.8,
+            "score": 8.9,
             "score_max": 10.0,
-            "review_count": 14,
+            "review_count": 15,
             "pros": null,
-            "cons": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-148476",
-          "reason": {
-            "type": "trending",
-            "source": "Comic Book Roundup",
-            "label": "Popular This Week",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/superman-(2023)/39",
-            "snippet": null,
-            "image": null,
-            "score": 9.7,
-            "score_max": 10.0,
-            "review_count": 5,
-            "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Get Your Comic On",
+                "reviewer": "Neil Vagg",
+                "excerpt": "Absolute Batman #21 is another huge triumph for Scott Snyder and the team. It navigates a number of different setups between huge action set pieces, a rather grand funeral and a slightly twisted finale to setup a number of huge storylines for year three of the Absolute initiative.",
+                "score": 10.0,
+                "url": "https://getyourcomicon.co.uk/blog/2026/06/17/absolute-batman-2024-21-review/"
+              },
+              {
+                "outlet": "Geek Dad",
+                "reviewer": "Ray Goldfield",
+                "excerpt": "Ever since the original Batman run, Scott Snyder’s Joker has always been among the scariest I’ve ever read, but this is on a whole other level. The level of disturbing visuals by Nick Dragotta work absolutely perfectly to end the issue with literal shivers down your spine.",
+                "score": 10.0,
+                "url": "https://geekdad.com/2026/06/review-absolute-batman-21-the-robins-next/"
+              }
+            ]
           }
         },
         {
@@ -463,87 +815,215 @@
             "score_max": 10.0,
             "review_count": 3,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Geek Dad",
+                "reviewer": "Ray Goldfield",
+                "excerpt": "That unending bleakness can make the issue a little hard to get through at the time, but that’s the story it’s paying tribute to and it’s easily the most thrilling and tense the Catwoman title has been in years.",
+                "score": 9.0,
+                "url": "https://geekdad.com/2026/06/dc-this-week-roundup-worlds-of-heroes/"
+              },
+              {
+                "outlet": "AIPT",
+                "reviewer": "George Loftus",
+                "excerpt": "Catwoman #88 fumbles out the gate to me as someone who really jumped on board with the All-In initiative back in 2024 but ultimately sticks the landing. I was thrown into the deep end of something so bizarre and horrible I wasn’t entirely sure I was understanding it correctly. Before long though, the neon-drenched story of deception, revenge, and love that made me a fan of this run reappears and carries you forward through the story, exploring the strange, interconnected relationships that make a huge expansive thing like the DC Universe feel as small as a neighborhood where you know everyone’s business and their name.",
+                "score": 8.0,
+                "url": "https://aiptcomics.com/2026/06/17/catwoman-88-review/"
+              }
+            ]
           }
         },
         {
-          "entity": "cv-volume-4050-160511",
+          "entity": "cv-issue-4000-1171939",
           "reason": {
             "type": "trending",
             "source": "Comic Book Roundup",
             "label": "Popular This Week",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-wonder-woman-(2024)/21",
-            "snippet": null,
-            "image": null,
-            "score": 9.2,
-            "score_max": 10.0,
-            "review_count": 6,
-            "pros": null,
-            "cons": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-160860",
-          "reason": {
-            "type": "trending",
-            "source": "Comic Book Roundup",
-            "label": "Popular This Week",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-superman-(2024)/20",
-            "snippet": null,
-            "image": null,
-            "score": 9.0,
-            "score_max": 10.0,
-            "review_count": 6,
-            "pros": null,
-            "cons": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-150172",
-          "reason": {
-            "type": "trending",
-            "source": "Comic Book Roundup",
-            "label": "Popular This Week",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/green-lantern-(2023)/36",
-            "snippet": null,
-            "image": null,
-            "score": 8.2,
-            "score_max": 10.0,
-            "review_count": 2,
-            "pros": null,
-            "cons": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-151301",
-          "reason": {
-            "type": "trending",
-            "source": "Comic Book Roundup",
-            "label": "Popular This Week",
-            "url": "https://comicbookroundup.com/comic-books/reviews/image-comics/void-rivals-(2023)/31",
+            "url": "https://comicbookroundup.com/comic-books/reviews/marvel-comics/uncanny-x-men-(2024)/30",
             "snippet": null,
             "image": null,
             "score": 8.6,
             "score_max": 10.0,
-            "review_count": 5,
+            "review_count": 7,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "But Why Tho?",
+                "reviewer": "William Tucker",
+                "excerpt": "Uncanny X-Men Issue 30 fuses love with horror. There are very few superhero comics that carry the emotional weight that Uncanny X-Men does.",
+                "score": 10.0,
+                "url": "https://butwhytho.net/2026/06/uncanny-x-men-issue-30-review/"
+              },
+              {
+                "outlet": "Nerd Initiative",
+                "reviewer": "Megan Nichole",
+                "excerpt": "If there’s one thing you can say about this comic series, it’s that there’s not one single boring issue in the run. Gail Simone gives each issue its own light to shine and brings so many different tones to every one of them. It’s something I really appreciate because it feels like every issue is memorable, and there’s something to love in every one of them. In this issue, Gail Simone is setting up for what seems to be some exciting stuff that I can’t wait to see. There’s also some great dynamics between the characters that we get to see grow, and even some being pulled away from. Gail gives the reader so much to work with, and so much to theorize on, and that’s exactly how I’ll be spending my time until the next issue drops.",
+                "score": 9.1,
+                "url": "https://nerdinitiative.com/2026/06/17/uncanny-x-men-30-the-new-visitors/"
+              }
+            ]
           }
         },
         {
-          "entity": "cv-volume-4050-153611",
+          "entity": "cv-issue-4000-1171917",
           "reason": {
             "type": "trending",
             "source": "Comic Book Roundup",
             "label": "Popular This Week",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/wonder-woman-(2023)/34",
+            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-flash-(2025)/16",
             "snippet": null,
             "image": null,
-            "score": 8.3,
+            "score": 8.8,
             "score_max": 10.0,
-            "review_count": 3,
+            "review_count": 6,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Geek Dad",
+                "reviewer": "Ray Goldfield",
+                "excerpt": "There are some incredibly creepy moments in this issue, particularly towards the end, and with a real sense of danger that belies just how new Wally is to his powers. Grodd may not be the danger in this comic, but his father may slowly be growing into something just as dangerous as his main-line counterpart.",
+                "score": 10.0,
+                "url": "https://geekdad.com/2026/06/review-absolute-flash-16-monkey-business/"
+              },
+              {
+                "outlet": "Comic Watch",
+                "reviewer": "Jamison Nilsson",
+                "excerpt": "Issue #16 is tightly paced from start to finish, with every line of dialogue either developing the bonds between the characters or pushing the storyline to the next page. Even the last few pages don’t feel like bait for the next issue because they actually answers the reader’s questions rather than simply kicking the can down the road.",
+                "score": 9.6,
+                "url": "https://comic-watch.com/comic-book-reviews/absolute-flash-16-its-all-grodd"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1171926",
+          "reason": {
+            "type": "trending",
+            "source": "Comic Book Roundup",
+            "label": "Popular This Week",
+            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/titans-(2023)/36",
+            "snippet": null,
+            "image": null,
+            "score": 8.5,
+            "score_max": 10.0,
+            "review_count": 4,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Geek Dad",
+                "reviewer": "Ray Goldfield",
+                "excerpt": "This issue resets the status quo a lot and changes genre pretty rapidly, but it’s the first issue of the run that really feels like it has its own identity as a team book, rather than just setting up the pieces for a story. Definitely looking forward to more, especially with that cliffhanger!",
+                "score": 9.0,
+                "url": "https://geekdad.com/2026/06/review-new-titans-36-welcome-to-happy-harbor/"
+              },
+              {
+                "outlet": "AIPT",
+                "reviewer": "Collier Jennings",
+                "excerpt": "New Titans #36 features a new headquarters, a new artist, and a new team dynamic, as Tate Brombal continues to shake up the Teen Titans mythos.",
+                "score": 9.0,
+                "url": "https://aiptcomics.com/2026/06/17/new-titans-36-review/"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1172007",
+          "reason": {
+            "type": "trending",
+            "source": "Comic Book Roundup",
+            "label": "Popular This Week",
+            "url": "https://comicbookroundup.com/comic-books/reviews/image-comics/redcoat-(2024)/18",
+            "snippet": null,
+            "image": null,
+            "score": 7.8,
+            "score_max": 10.0,
+            "review_count": 6,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Lyles Movie Files",
+                "reviewer": "Jeffrey Lyles",
+                "excerpt": "Anderson’s rich color choices and Leigh’s dialogue placement gives the series an extra visual boost as well. Redcoat remains one of the absolute must-reads every month and this arc is solidifying why it’s one of the best comics today.",
+                "score": 10.0,
+                "url": "https://lylesmoviefiles.com/2026/06/17/image-comics-gi-joe-23-redcoat-18/4/"
+              },
+              {
+                "outlet": "Nerd Initiative",
+                "reviewer": "Matthew Roth",
+                "excerpt": "Redcoat #18 packs an emotional punch. Simon has worked to build a life that he can be proud of and has a family. Now all of that is coming down around his feet. We’ve spent so much time with Simon that it breaks our hearts to see him in this dilemma, and I am eager to see how the team moves forward!",
+                "score": 9.3,
+                "url": "https://nerdinitiative.com/2026/06/17/redcoat-18-the-truth-will-set-you-free/"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1171929",
+          "reason": {
+            "type": "trending",
+            "source": "Comic Book Roundup",
+            "label": "Popular This Week",
+            "url": "https://comicbookroundup.com/comic-books/reviews/marvel-comics/amazing-spider-man-(2025)/31",
+            "snippet": null,
+            "image": null,
+            "score": 7.4,
+            "score_max": 10.0,
+            "review_count": 7,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Nerd Initiative",
+                "reviewer": "TravisComicHaven",
+                "excerpt": "This issue has something for everyone. If you want action, the Vulture story is for you. If you want to know more about Aunt May, you’ll get that too. This is an amazing issue that brings to the forefront the issue of infertility and its impacts on the “want to be” parents. A very emotional story that will bring some to their knees. I know it did for me… Go get this impactful issue from your local comic shop today!",
+                "score": 10.0,
+                "url": "https://nerdinitiative.com/2026/06/17/the-amazing-spider-man-31-the-talk/"
+              },
+              {
+                "outlet": "SciFiPulse",
+                "reviewer": "Ian Cullen",
+                "excerpt": "Whatever the truth turns out to be, it’ll be fascinating to see how this mystery is resolved in future issues, because this has the potential to become one of the biggest storylines involving Aunt May and Uncle Ben in years.",
+                "score": 9.6,
+                "url": "https://www.scifipulse.net/in-review-amazing-spider-man-2025-31-the-talk/"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1171987",
+          "reason": {
+            "type": "trending",
+            "source": "Comic Book Roundup",
+            "label": "Popular This Week",
+            "url": "https://comicbookroundup.com/comic-books/reviews/image-comics/gi-joe-(2024)/23",
+            "snippet": null,
+            "image": null,
+            "score": 8.6,
+            "score_max": 10.0,
+            "review_count": 6,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Lyles Movie Files",
+                "reviewer": "Jeffrey Lyles",
+                "excerpt": "GI Joe 23 delivers the usual exciting action readers have come to expect from the series. The only downside is that with squads of three members each it felt weird seeing two of them sidelined.",
+                "score": 9.5,
+                "url": "https://lylesmoviefiles.com/2026/06/17/image-comics-gi-joe-23-redcoat-18/2/"
+              },
+              {
+                "outlet": "Comic Watch",
+                "reviewer": "Anthony Bergamini",
+                "excerpt": "G.I. Joe #23 blends character-driven storytelling, unexpected alliances, and world-expanding conflicts to deliver a mature and emotionally resonant entry in the Energon Universe.",
+                "score": 9.0,
+                "url": "https://comic-watch.com/comic-book-reviews/g-i-joe-23-the-enemy-of-my-enemy"
+              }
+            ]
           }
         }
       ]
@@ -569,7 +1049,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -585,7 +1066,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -601,7 +1083,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         }
       ]
@@ -642,6 +1125,75 @@
       "source": "AIPT",
       "items": [
         {
+          "entity": "cv-volume-4050-138562",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/25/king-spawn-56-review/",
+            "snippet": "King Spawn #56 offers plenty of mystery, murder and intrigue as it continues to expand upon the new status quo of the Spawn universe.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/917a7Ic9bjL._SL1500_.jpg?fit=1280%2C956&amp;ssl=1",
+            "score": 8.5,
+            "score_max": 10.0,
+            "review_count": null,
+            "pros": [
+              "Rosenberg is using two titles to craft a single story, yet makes sure this issue stands on its own two feet.",
+              "I love the grittier, more grounded approach this title is taking.",
+              "The use of colors and letters make the art pop in certain sections, particularly when it comes to the bloodshed."
+            ],
+            "cons": [
+              "Some of Nalchik's proportions feel wonky, and sap the impact from certain pages."
+            ],
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170790",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/25/moonstar-4-review/",
+            "snippet": "Moonstar #4 shines a light on how choices affect us, for good or ill, and delivers an action packed issue that also lays the groundwork for an intense finale. I'm not ready for this series to end, but I will admit that it's been a hell of a ride.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/911xtAtKjJL._SL1500_.jpg?fit=1280%2C965&amp;ssl=1",
+            "score": 8.5,
+            "score_max": 10.0,
+            "review_count": null,
+            "pros": [
+              "Another reminder that the best superhero stories work when focusing on how choices define heroes.",
+              "Allen's script shows she understands Dani on a very deep level.",
+              "Audino's artwork is equal parts horrifying and action packed, and worth the cover price."
+            ],
+            "cons": [
+              "I feel that the Kian reveal would have hit harder if it took place an issue or two earlier."
+            ],
+            "quotes": null
+          }
+        },
+        {
+          "entity": "rss-2d460c148a53",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/06/25/hello-kitty-and-friends-hello-world-1-review/",
+            "snippet": "“Hello Kitty and Friends: Hello World’ #1 is truly a comic for everyone. If you have heard the name Hello Kitty, then you should pick up this comic. This is a treat for everyone, from kids to adults, lifelong fans or new fans. From their personality to their appearance, Mariko Tamiki and Cody Lemieux capture the world of Hello Kitty perfectly.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/Hello-Kitty-1-cover-a.jpg?fit=1200%2C800&amp;ssl=1",
+            "score": 9.5,
+            "score_max": 10.0,
+            "review_count": null,
+            "pros": [
+              "Mariko Tamiki and Cody Lemiux capture their personality and appearance perfectly",
+              "There's no detail too small for this creative team to include",
+              "Written for all ages with small moments for those who are online",
+              "Gets right into the story without too much exposition or set up for the next issue",
+              "Will leave you waiting for the next issue"
+            ],
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
           "entity": "cv-volume-4050-167320",
           "reason": {
             "type": "review_signal",
@@ -660,7 +1212,8 @@
             ],
             "cons": [
               "The ending is a bit of a deus ex machina"
-            ]
+            ],
+            "quotes": null
           }
         },
         {
@@ -682,7 +1235,8 @@
               "A wonderful new format for celebration issues",
               "That Klaus Janson backup"
             ],
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -704,7 +1258,8 @@
             "cons": [
               "The two artists are great, but their styles clash a little bit",
               "The ending is more frustrating than satisfying"
-            ]
+            ],
+            "quotes": null
           }
         },
         {
@@ -726,7 +1281,8 @@
             ],
             "cons": [
               "The pacing feels a little off in this issue, it doesn't feel as if it takes place in the same night as issue #2"
-            ]
+            ],
+            "quotes": null
           }
         },
         {
@@ -751,7 +1307,8 @@
             "cons": [
               "Although the artwork is excellent there are points where you can tell the differences between the two artists.",
               "I can't wait to see more from the b-plot involving Powers Planet."
-            ]
+            ],
+            "quotes": null
           }
         },
         {
@@ -771,73 +1328,8 @@
               "The art is the perfect blend of cute and gruesome.",
               "Climactic cliffhanger ending that sets up the highly anticipated meeting between the indoor cats and the stray dogs."
             ],
-            "cons": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-151301",
-          "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/24/void-rivals-31-review/",
-            "snippet": "I didn’t think I would get as emotional or fired up reading an issue of Void Rivals that focused squarely on Skuxxoid, but here we are. Void Rivals #31 delivered a really serious story about revolution, freedom, authoritarianism, the problems with old leadership, the fire of young progressives, and it did all that while being an entertaining brawl between identical looking characters you could som…",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/814pYCb64nL._SL1500_.jpg?fit=1280%2C905&amp;ssl=1",
-            "score": 7.5,
-            "score_max": 10.0,
-            "review_count": null,
-            "pros": [
-              "Energetic art that makes telling Skuxxoids apart surprisingly easy",
-              "Interesting meanings you can take away from the book",
-              "Nice that it didn't matter to the greater Energon Universe (y'know, yet)"
-            ],
-            "cons": [
-              "This was more interesting than the entire Quintesson War and it's only one issue"
-            ]
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1173279",
-          "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/24/hellboy-and-the-bprd-the-monster-of-nivola-1-review/",
-            "snippet": "Hellboy and the B.P.R.D.: The Monster of Nivola #1 is a gorgeous one-shot that feels extremely comfortable for a lapsed Hellboy reader like myself to jump back into after years away. With a tight script, stunning art, energetic letters, a cool setting, and a powerful message, this Hellboy oneshot is a home run in every meaningful metric a comic fan like me cares about.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/81AG2yB6L._SL1500_.jpg?fit=1280%2C946&amp;ssl=1",
-            "score": 8.5,
-            "score_max": 10.0,
-            "review_count": null,
-            "pros": [
-              "Genuinely fantastic art",
-              "Incredibly cool setting",
-              "Just a wonderful premise for a one shot"
-            ],
-            "cons": [
-              "It wasn't longer"
-            ]
-          }
-        },
-        {
-          "entity": "cv-volume-4050-167333",
-          "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/06/24/venom-259-review/",
-            "snippet": "Venom #259 succeeds because it never loses sight of its characters while preparing for something much larger. Ewing gives Dylan Brock the spotlight and uses him to anchor an issue packed with plot progression, emotional beats, and looming threats. The ensemble cast continues to feel purposeful, while Gomez's energetic artwork gives every major moment weight and spectacle. By the final page, the st…",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/VENOM2025259_Preview-1.jpeg?fit=1280%2C1089&amp;ssl=1",
-            "score": 9.0,
-            "score_max": 10.0,
-            "review_count": null,
-            "pros": [
-              "Dylan Brock receives some of his strongest characterization yet.",
-              "Al Ewing continues to weave long-term plot threads together skillfully.",
-              "Carlos Gomez and Frank D'Armata deliver striking action and memorable splash pages."
-            ],
-            "cons": [
-              "Readers focused solely on Mary Jane may want more page time for Venom."
-            ]
+            "cons": null,
+            "quotes": null
           }
         }
       ]
@@ -863,7 +1355,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -879,7 +1372,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -895,7 +1389,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -911,7 +1406,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -927,7 +1423,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -943,7 +1440,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -959,7 +1457,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -975,7 +1474,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -991,7 +1491,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1007,7 +1508,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1023,7 +1525,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1039,7 +1542,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1055,7 +1559,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1071,7 +1576,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1087,7 +1593,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1103,7 +1610,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1119,7 +1627,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1135,7 +1644,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1151,7 +1661,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1167,7 +1678,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1183,7 +1695,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1199,7 +1712,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1215,7 +1729,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1231,7 +1746,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         }
       ]
@@ -1257,7 +1773,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1273,7 +1790,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1289,7 +1807,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1305,7 +1824,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1321,7 +1841,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1337,7 +1858,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1353,7 +1875,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1369,7 +1892,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1385,7 +1909,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1401,7 +1926,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1417,7 +1943,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1433,7 +1960,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1449,7 +1977,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1465,7 +1994,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1481,7 +2011,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1497,7 +2028,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1513,7 +2045,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1529,7 +2062,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1545,7 +2079,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1561,7 +2096,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1577,7 +2113,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1593,7 +2130,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1609,7 +2147,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         },
         {
@@ -1625,7 +2164,8 @@
             "score_max": null,
             "review_count": null,
             "pros": null,
-            "cons": null
+            "cons": null,
+            "quotes": null
           }
         }
       ]
@@ -2847,6 +3387,87 @@
         "issue_pending": true
       }
     },
+    "cv-volume-4050-138562": {
+      "kind": "issue",
+      "title": "King Spawn #56",
+      "series_name": "King Spawn",
+      "issue_number": "56",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/12/e07730ff3e034062b99cb5b6e2be8736.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-138562",
+        "metron_issue": 164529,
+        "metron_series": 4248,
+        "isbn": null,
+        "upc": "70985303170305611",
+        "gcd_id": 2846358,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "King Spawn",
+        "volume_year": 2021
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170790": {
+      "kind": "issue",
+      "title": "Moonstar #4",
+      "series_name": "Moonstar",
+      "issue_number": "4",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/ff60f7f501cf4b88873e07e8cb669cff.jpg",
+      "release_date": "2026-06-24",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170790",
+        "metron_issue": 171355,
+        "metron_series": 15292,
+        "isbn": null,
+        "upc": "75960621358000411",
+        "gcd_id": 2845375,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Moonstar",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "rss-2d460c148a53": {
+      "kind": "issue",
+      "title": "Hello Kitty and Friends: Hello World #1",
+      "series_name": "Hello Kitty and Friends: Hello World",
+      "issue_number": "1",
+      "publisher": null,
+      "format": "single_issue",
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": "https://aiptcomics.com/2026/06/25/hello-kitty-and-friends-hello-world-1-review/",
+        "series_name": "Hello Kitty and Friends: Hello World",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
     "cv-volume-4050-167320": {
       "kind": "issue",
       "title": "Gotham Academy: First Year #5",
@@ -3009,87 +3630,6 @@
         "issue_pending": true
       }
     },
-    "cv-volume-4050-151301": {
-      "kind": "issue",
-      "title": "Void Rivals #31",
-      "series_name": "Void Rivals",
-      "issue_number": "31",
-      "publisher": "Skybound",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/e5e0a731d26a49bbac67b732904ca979.jpg",
-      "release_date": "2026-06-24",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-151301",
-        "metron_issue": 169265,
-        "metron_series": 5178,
-        "isbn": null,
-        "upc": "70985303768203111",
-        "gcd_id": 2845371,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Void Rivals",
-        "volume_year": 2023
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-issue-4000-1173279": {
-      "kind": "issue",
-      "title": "Hellboy and the B.P.R.D.: The Monster of Nivola #1",
-      "series_name": "Hellboy and the B.P.R.D.: The Monster of Nivola",
-      "issue_number": "1",
-      "publisher": "Dark Horse Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/16/c6797f7507e74658b1dee0a0dd4e5c9b.jpg",
-      "release_date": "2026-06-24",
-      "ids": {
-        "comicvine_issue": "4000-1173279",
-        "comicvine_volume": "4050-173279",
-        "metron_issue": 171489,
-        "metron_series": 16106,
-        "isbn": null,
-        "upc": "76156801592800111",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Hellboy and the B.P.R.D.: The Monster of Nivola",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "cv-volume-4050-167333": {
-      "kind": "issue",
-      "title": "Venom #259",
-      "series_name": "Venom",
-      "issue_number": "259",
-      "publisher": "Marvel",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/6311223f6dec46e7a3787299491dacad.jpg",
-      "release_date": "2026-06-24",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-167333",
-        "metron_issue": 171360,
-        "metron_series": 13483,
-        "isbn": null,
-        "upc": "75960621330625911",
-        "gcd_id": 2845388,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Venom",
-        "volume_year": 2025
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
     "cv-volume-4050-9723": {
       "kind": "series",
       "title": "Fables",
@@ -3225,33 +3765,6 @@
         "issue_pending": false
       }
     },
-    "metron-issue-171359": {
-      "kind": "issue",
-      "title": "Ultimate Universe: Finale #1",
-      "series_name": "Ultimate Universe: Finale",
-      "issue_number": "1",
-      "publisher": "Marvel",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/12/20a61c544d894e10875a2238f790ba80.jpg",
-      "release_date": "2026-06-24",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": null,
-        "metron_issue": 171359,
-        "metron_series": 16077,
-        "isbn": null,
-        "upc": "75960621283500111",
-        "gcd_id": 2817774,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Ultimate Universe: Finale",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": false
-      }
-    },
     "cv-issue-4000-1171995": {
       "kind": "issue",
       "title": "Land of Never #1",
@@ -3276,60 +3789,6 @@
       },
       "resolution": {
         "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "cv-volume-4050-150172": {
-      "kind": "issue",
-      "title": "Green Lantern #36",
-      "series_name": "Green Lantern",
-      "issue_number": "36",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/c2c92130131748f1a9eed12d30da4c25.jpg",
-      "release_date": "2026-06-24",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-150172",
-        "metron_issue": 170931,
-        "metron_series": 4913,
-        "isbn": null,
-        "upc": "76194138023003611",
-        "gcd_id": 2845460,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Green Lantern",
-        "volume_year": 2023
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "metron-issue-171494": {
-      "kind": "issue",
-      "title": "Mind MGMT: New & Improved #1",
-      "series_name": "Mind MGMT: New & Improved",
-      "issue_number": "1",
-      "publisher": "Oni Press",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/16/aeb8b55537c04a9994a14931b65a659d.jpg",
-      "release_date": "2026-06-24",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": null,
-        "metron_issue": 171494,
-        "metron_series": 16107,
-        "isbn": null,
-        "upc": "64985600903600111",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Mind MGMT: New & Improved",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
         "issue_pending": false
       }
     },
@@ -3387,57 +3846,84 @@
         "issue_pending": false
       }
     },
-    "cv-volume-4050-148476": {
+    "cv-issue-4000-1171938": {
       "kind": "issue",
-      "title": "Superman #39",
-      "series_name": "Superman",
-      "issue_number": "39",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/9991ef3d3242418e85e814effb9aa68c.jpg",
-      "release_date": "2026-06-24",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-148476",
-        "metron_issue": 170937,
-        "metron_series": 4158,
-        "isbn": null,
-        "upc": "76194137950003911",
-        "gcd_id": 2845368,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Superman",
-        "volume_year": 2023
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "metron-issue-170936": {
-      "kind": "issue",
-      "title": "Summer of Supergirl Special #1",
-      "series_name": "Summer of Supergirl Special",
+      "title": "Spider-Man: Long Way Home #1",
+      "series_name": "Spider-Man: Long Way Home",
       "issue_number": "1",
-      "publisher": "DC Comics",
+      "publisher": "Marvel",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/05/31/2111370cbe5e497ea5550ab7b14a856d.jpg",
-      "release_date": "2026-06-24",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/08/ecc6945297084e589d9621a59b52a9d6.jpg",
+      "release_date": "2026-06-17",
       "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": null,
-        "metron_issue": 170936,
-        "metron_series": 15985,
+        "comicvine_issue": "4000-1171938",
+        "comicvine_volume": "4050-173101",
+        "metron_issue": 171293,
+        "metron_series": 16053,
         "isbn": null,
-        "upc": "76194139692700111",
-        "gcd_id": null,
+        "upc": "75960621579900111",
+        "gcd_id": 2843009,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "Summer of Supergirl Special",
+        "series_name": "Spider-Man: Long Way Home",
         "volume_year": 2026
       },
       "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1171987": {
+      "kind": "issue",
+      "title": "G.I. Joe #23",
+      "series_name": "G.I. Joe",
+      "issue_number": "23",
+      "publisher": "Skybound",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/02/15/afd68b38c832444d81302f5830ec588b.jpg",
+      "release_date": "2026-06-17",
+      "ids": {
+        "comicvine_issue": "4000-1171987",
+        "comicvine_volume": "4050-161047",
+        "metron_issue": 162699,
+        "metron_series": 9033,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 2842797,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "G.I. Joe",
+        "volume_year": 2024
+      },
+      "resolution": {
         "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1171992": {
+      "kind": "issue",
+      "title": "If Destruction Be Our Lot #2",
+      "series_name": "If Destruction Be Our Lot",
+      "issue_number": "2",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/03/24/0aeba235c4db46a79a0c872059931d55.jpg",
+      "release_date": "2026-06-17",
+      "ids": {
+        "comicvine_issue": "4000-1171992",
+        "comicvine_volume": "4050-171776",
+        "metron_issue": 163964,
+        "metron_series": 15477,
+        "isbn": null,
+        "upc": "70985304616500211",
+        "gcd_id": 2844151,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "If Destruction Be Our Lot",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
         "issue_pending": false
       }
     },
@@ -3495,27 +3981,27 @@
         "issue_pending": false
       }
     },
-    "cv-issue-4000-1171992": {
+    "cv-issue-4000-1171916": {
       "kind": "issue",
-      "title": "If Destruction Be Our Lot #2",
-      "series_name": "If Destruction Be Our Lot",
-      "issue_number": "2",
-      "publisher": "Image Comics",
+      "title": "Absolute Batman #21",
+      "series_name": "Absolute Batman",
+      "issue_number": "21",
+      "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/03/24/0aeba235c4db46a79a0c872059931d55.jpg",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/dde05ad95654477391928abd3f8ba477.jpg",
       "release_date": "2026-06-17",
       "ids": {
-        "comicvine_issue": "4000-1171992",
-        "comicvine_volume": "4050-171776",
-        "metron_issue": 163964,
-        "metron_series": 15477,
+        "comicvine_issue": "4000-1171916",
+        "comicvine_volume": "4050-160294",
+        "metron_issue": 170823,
+        "metron_series": 8477,
         "isbn": null,
-        "upc": "70985304616500211",
-        "gcd_id": 2844151,
+        "upc": "76194138584602111",
+        "gcd_id": 2842928,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "If Destruction Be Our Lot",
-        "volume_year": 2026
+        "series_name": "Absolute Batman",
+        "volume_year": 2024
       },
       "resolution": {
         "confidence": "high",
@@ -3603,6 +4089,60 @@
         "issue_pending": false
       }
     },
+    "cv-issue-4000-1171925": {
+      "kind": "issue",
+      "title": "Lobo #4",
+      "series_name": "Lobo",
+      "issue_number": "4",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/ec745b4c791440019bf02d50443fab05.jpg",
+      "release_date": "2026-06-17",
+      "ids": {
+        "comicvine_issue": "4000-1171925",
+        "comicvine_volume": "4050-171022",
+        "metron_issue": 170832,
+        "metron_series": 15297,
+        "isbn": null,
+        "upc": "76194139718400411",
+        "gcd_id": 2842933,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Lobo",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1171917": {
+      "kind": "issue",
+      "title": "Absolute Flash #16",
+      "series_name": "Absolute Flash",
+      "issue_number": "16",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/00bf9e127ff64c5191aeade0d1cdac11.jpg",
+      "release_date": "2026-06-17",
+      "ids": {
+        "comicvine_issue": "4000-1171917",
+        "comicvine_volume": "4050-162847",
+        "metron_issue": 170824,
+        "metron_series": 10354,
+        "isbn": null,
+        "upc": "76194138792501611",
+        "gcd_id": 2843101,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Absolute Flash",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
     "cv-issue-4000-1171919": {
       "kind": "issue",
       "title": "Batman / Superman: World's Finest #52",
@@ -3630,33 +4170,6 @@
         "issue_pending": false
       }
     },
-    "cv-issue-4000-1171916": {
-      "kind": "issue",
-      "title": "Absolute Batman #21",
-      "series_name": "Absolute Batman",
-      "issue_number": "21",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/dde05ad95654477391928abd3f8ba477.jpg",
-      "release_date": "2026-06-17",
-      "ids": {
-        "comicvine_issue": "4000-1171916",
-        "comicvine_volume": "4050-160294",
-        "metron_issue": 170823,
-        "metron_series": 8477,
-        "isbn": null,
-        "upc": "76194138584602111",
-        "gcd_id": 2842928,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Absolute Batman",
-        "volume_year": 2024
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
     "cv-issue-4000-1171921": {
       "kind": "issue",
       "title": "Catwoman #88",
@@ -3678,6 +4191,114 @@
         "source_url": null,
         "series_name": "Catwoman",
         "volume_year": 2018
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1171939": {
+      "kind": "issue",
+      "title": "Uncanny X-Men #30",
+      "series_name": "Uncanny X-Men",
+      "issue_number": "30",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/08/9ecff432dd7f482abb43a4d7308b7bc7.jpg",
+      "release_date": "2026-06-17",
+      "ids": {
+        "comicvine_issue": "4000-1171939",
+        "comicvine_volume": "4050-159189",
+        "metron_issue": 171294,
+        "metron_series": 8106,
+        "isbn": null,
+        "upc": "75960620917003011",
+        "gcd_id": 2843000,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Uncanny X-Men",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1171926": {
+      "kind": "issue",
+      "title": "New Titans #36",
+      "series_name": "New Titans",
+      "issue_number": "36",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/new-titans-36.jpg",
+      "release_date": "2026-06-17",
+      "ids": {
+        "comicvine_issue": "4000-1171926",
+        "comicvine_volume": "4050-171032",
+        "metron_issue": 170833,
+        "metron_series": 15298,
+        "isbn": null,
+        "upc": "76194138022303611",
+        "gcd_id": 2843104,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "New Titans",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1172007": {
+      "kind": "issue",
+      "title": "Redcoat #18",
+      "series_name": "Redcoat",
+      "issue_number": "18",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/02/15/ee3e4b638091452e958a25207f48abcc.jpg",
+      "release_date": "2026-06-17",
+      "ids": {
+        "comicvine_issue": "4000-1172007",
+        "comicvine_volume": "4050-157526",
+        "metron_issue": 162711,
+        "metron_series": 7269,
+        "isbn": null,
+        "upc": "70985303967901811",
+        "gcd_id": 2844154,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Redcoat",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1171929": {
+      "kind": "issue",
+      "title": "The Amazing Spider-Man #31",
+      "series_name": "The Amazing Spider-Man",
+      "issue_number": "31",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/08/04deea0482d9426ab3c25898825dc643.jpg",
+      "release_date": "2026-06-17",
+      "ids": {
+        "comicvine_issue": "4000-1171929",
+        "comicvine_volume": "4050-163325",
+        "metron_issue": 171284,
+        "metron_series": 10958,
+        "isbn": null,
+        "upc": "75960621001503111",
+        "gcd_id": 2843013,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "The Amazing Spider-Man",
+        "volume_year": 2025
       },
       "resolution": {
         "confidence": "high",

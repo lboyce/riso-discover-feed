@@ -2,6 +2,96 @@
   "groups": {
     "aipt-reviews": [
       {
+        "url": "https://aiptcomics.com/2026/07/01/x-men-united-5-review/",
+        "series": "X-Men United",
+        "issue": "5",
+        "published": "2026-07-01",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/91bXHuLBT6L._SL1500_.jpg?fit=1280%2C1024&amp;ssl=1",
+        "summary": "Issue #5 accidentally uncovers a dynamic between its characters that proves to be the best way forward for this title.",
+        "first_seen": "2026-07-01"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/01/star-wars-rogue-one-saw-gerrera-1-review/",
+        "series": "Star Wars: Rogue One – Saw Gerrera",
+        "issue": "1",
+        "published": "2026-07-01",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81AZgCG6euL._SL1500_.jpg?fit=1280%2C830&amp;ssl=1",
+        "summary": "A solid character study of one of the galaxy's most controversial characters.",
+        "first_seen": "2026-07-01"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/01/babylon-cove-2-mixes-cheesy-romance-and-lovecraftian-horror/",
+        "series": "Babylon Cove",
+        "issue": "2",
+        "published": "2026-07-01",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81GLAU5ngEL._SL1500_.jpg?fit=1280%2C976&amp;ssl=1",
+        "summary": "What do you get when you combine a Hallmark film with 'Re-Animator'?",
+        "first_seen": "2026-07-01"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/01/challenges-of-doom-mr-fantastic-1-review/",
+        "series": "Challenges of Doom: Mr. Fantastic",
+        "issue": "1",
+        "published": "2026-07-01",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/810aaJiFv9L._SL1500_.jpg?fit=1280%2C1031&amp;ssl=1",
+        "summary": "A new take on the events that shaped Doctor Doom into the villainous figure he is today.",
+        "first_seen": "2026-07-01"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/01/spawn-377-review/",
+        "series": "Spawn",
+        "issue": "377",
+        "published": "2026-07-01",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/spawn-357-copy.jpg?fit=1749%2C1678&amp;ssl=1",
+        "summary": "Rosenberg and Segovia continue to pluck at the mystery of the new status quo in the Spawn Universe.",
+        "first_seen": "2026-07-01"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/01/batman-11-review/",
+        "series": "Batman",
+        "issue": "11",
+        "published": "2026-07-01",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81KqEKHpJAL._SL1500_.jpg?fit=1280%2C911&amp;ssl=1",
+        "summary": "Now would be just about the right time to catch up on the crazy train that is Gotham City.",
+        "first_seen": "2026-07-01"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/01/dc-x-sonic-the-hedgehog-metal-legion-3-review/",
+        "series": "DC x Sonic the Hedgehog: Metal Legion",
+        "issue": "3",
+        "published": "2026-07-01",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/DC-x-Sonic-the-Hedgehog-Metal-Legion-3-1-e1782916516563.webp?fit=1248%2C890&amp;ssl=1",
+        "summary": "Ian Flynn makes two wildly different universes feel surprisingly natural together.",
+        "first_seen": "2026-07-01"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/01/poison-ivy-46-review/",
+        "series": "Poison Ivy",
+        "issue": "46",
+        "published": "2026-07-01",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/Poison-Ivy-46-COVER-e1782916077147.webp?fit=1248%2C835&amp;ssl=1",
+        "summary": "Janet and Juhi take the spotlight in an issue that feels like the last final moments of calm before the chaos.",
+        "first_seen": "2026-07-01"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/01/seven-wives-2-review/",
+        "series": "Seven Wives",
+        "issue": "2",
+        "published": "2026-07-01",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/Seven_Wives_02-01-1.jpg?fit=1249%2C970&amp;ssl=1",
+        "summary": "Shocking revelations, compelling character work, and a twist that'll have you counting the days until the finale.",
+        "first_seen": "2026-07-01"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/01/adventure-time-quadruple-feature-1-review/",
+        "series": "Adventure Time Quadruple Feature",
+        "issue": "1",
+        "published": "2026-07-01",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/8115z-GL2KL._SL1500_.jpg?fit=975%2C804&amp;ssl=1",
+        "summary": "Finn and the gang go to the movies!",
+        "first_seen": "2026-07-01"
+      },
+      {
         "url": "https://aiptcomics.com/2026/06/25/king-spawn-56-review/",
         "series": "King Spawn",
         "issue": "56",

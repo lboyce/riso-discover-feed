@@ -2,6 +2,87 @@
   "groups": {
     "aipt-reviews": [
       {
+        "url": "https://aiptcomics.com/2026/07/08/transformers-34-review/",
+        "series": "Transformers",
+        "issue": "34",
+        "published": "2026-07-08",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/transformers-34.jpg?fit=1500%2C1000&amp;ssl=1",
+        "summary": "Action, intrigue, evil scientists, even BIGGER robots, oh my!",
+        "first_seen": "2026-07-08"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/08/its-symbie-1-review/",
+        "series": "It’s Symbie",
+        "issue": "1",
+        "published": "2026-07-08",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/91qf9N6NCiL._SL1500_.jpg?fit=1280%2C915&amp;ssl=1",
+        "summary": "Marvel’s latest addition to their cute, kid-friendly lineup.",
+        "first_seen": "2026-07-08"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/08/green-lantern-corps-18-review/",
+        "series": "Green Lantern Corps",
+        "issue": "18",
+        "published": "2026-07-08",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/GLC-18-Fi-e1783521524398.jpg?fit=1248%2C744&amp;ssl=1",
+        "summary": "Can Guy Gardner and Jessica Cruz rally the troops before it's too late?",
+        "first_seen": "2026-07-08"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/08/die-loaded-7-review/",
+        "series": "DIE: Loaded",
+        "issue": "7",
+        "published": "2026-07-08",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/8143VcyUBqL._SL1500_.jpg?fit=1280%2C901&amp;ssl=1",
+        "summary": "An intriguing issue that delves into games and the way they are perceived.",
+        "first_seen": "2026-07-08"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/08/black-cat-12-review/",
+        "series": "Black Cat",
+        "issue": "12",
+        "published": "2026-07-08",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81vzSL1JwkL._SL1500_.jpg?fit=1280%2C957&amp;ssl=1",
+        "summary": "Balances humor, introspection, and action into a surprisingly breezy read.",
+        "first_seen": "2026-07-08"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/08/x-men-97-season-2-2-review/",
+        "series": "X-Men ’97: Season 2",
+        "issue": "2",
+        "published": "2026-07-08",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/91x3QDdA0xL._SL1500_.jpg?fit=1280%2C830&amp;ssl=1",
+        "summary": "Builds on the events of the show it's based on and gives X-Force a much needed spotlight.",
+        "first_seen": "2026-07-08"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/08/daredevil-4-review-2/",
+        "series": "Daredevil",
+        "issue": "4",
+        "published": "2026-07-08",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81l-IOkiw-L._SL1500_.jpg?fit=1280%2C890&amp;ssl=1",
+        "summary": "Murdock's greatest power isn't his fighting skills or his hyper-senses, but his unbreakable will.",
+        "first_seen": "2026-07-08"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/08/supergirl-15-review/",
+        "series": "Supergirl",
+        "issue": "15",
+        "published": "2026-07-08",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/Supergirl-15-2025-Cover-Header.jpg?fit=1200%2C800&amp;ssl=1",
+        "summary": "After a violent showdown with Black Flame, Supergirl finds her place on Earth.",
+        "first_seen": "2026-07-08"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/08/uncanny-x-men-31-review/",
+        "series": "Uncanny X-Men",
+        "issue": "31",
+        "published": "2026-07-08",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/UNCX2024031_Preview-1.jpeg?fit=1280%2C1023&amp;ssl=1",
+        "summary": "Alien horrors, a growing Wolverine conspiracy, and one unforgettable cliffhanger.",
+        "first_seen": "2026-07-08"
+      },
+      {
         "url": "https://aiptcomics.com/2026/07/01/x-men-united-5-review/",
         "series": "X-Men United",
         "issue": "5",

@@ -2,6 +2,69 @@
   "groups": {
     "aipt-reviews": [
       {
+        "url": "https://aiptcomics.com/2026/07/15/batman-superman-worlds-finest-53-review/",
+        "series": "Batman/Superman: World’s Finest",
+        "issue": "53",
+        "published": "2026-07-15",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/91wWaMSi6vL._SL1500_.jpg?fit=1280%2C888&amp;ssl=1",
+        "summary": "A dino-mite conclusion to 'Warlords'.",
+        "first_seen": "2026-07-15"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/15/fantastic-four-14-review-2/",
+        "series": "Fantastic Four",
+        "issue": "14",
+        "published": "2026-07-15",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/91PEMOFpCmL._SL1500_.jpg?fit=1280%2C864&amp;ssl=1",
+        "summary": "The fate of the world is in the hands of Jo and Nicki Grimm-Masters, and they'll save it all before dinner!",
+        "first_seen": "2026-07-15"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/15/if-destruction-be-our-lot-3-review/",
+        "series": "If Destruction Be Our Lot",
+        "issue": "3",
+        "published": "2026-07-15",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81e4T3pje2L._SL1500_.jpg?fit=1280%2C775&amp;ssl=1",
+        "summary": "Issue #3 uses its big reveal to further flesh out its world and to pose lingering questions about identity in the process.",
+        "first_seen": "2026-07-15"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/15/dorc-6-review/",
+        "series": "D’Orc",
+        "issue": "6",
+        "published": "2026-07-15",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81p0GTwCRWL._SL1500_.jpg?fit=1280%2C991&amp;ssl=1",
+        "summary": "A new story arc with higher stakes begins with the same irreverent tone that's drawn in so many readers.",
+        "first_seen": "2026-07-15"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/15/nightwing-140-review/",
+        "series": "Nightwing",
+        "issue": "140",
+        "published": "2026-07-15",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81i7JBqOvL._SL1500_.jpg?fit=1280%2C984&amp;ssl=1",
+        "summary": "I don't think I have the words to describe how intense this issue is.",
+        "first_seen": "2026-07-15"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/15/avengers-armageddon-2-review/",
+        "series": "Avengers: Armageddon",
+        "issue": "2",
+        "published": "2026-07-15",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/814zHEgDNLL._SL1500_.jpg?fit=1280%2C993&amp;ssl=1",
+        "summary": "An immense clash of titans with an equally severe aftermath.",
+        "first_seen": "2026-07-15"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/15/the-infernal-hulk-9-review/",
+        "series": "The Infernal Hulk",
+        "issue": "9",
+        "published": "2026-07-15",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/infernal-hulk-9.jpg?fit=1280%2C1089&amp;ssl=1",
+        "summary": "This issue keeps the momentum alive with supernatural spectacle.",
+        "first_seen": "2026-07-15"
+      },
+      {
         "url": "https://aiptcomics.com/2026/07/08/transformers-34-review/",
         "series": "Transformers",
         "issue": "34",

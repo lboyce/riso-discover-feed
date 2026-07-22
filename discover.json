@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-15T15:34:43Z",
+  "generated_at": "2026-07-22T15:43:55Z",
   "feed_window": {
-    "start": "2026-07-13",
-    "end": "2026-07-19"
+    "start": "2026-07-20",
+    "end": "2026-07-26"
   },
   "sections": [
     {
@@ -15,7 +15,7 @@
       "source": "RISO",
       "items": [
         {
-          "entity": "cv-issue-4000-1177826",
+          "entity": "cv-issue-4000-1177814",
           "reason": {
             "type": "featured_pick",
             "source": "RISO",
@@ -23,82 +23,25 @@
             "url": null,
             "snippet": null,
             "image": null,
-            "score": 8.6,
-            "score_max": 10.0,
-            "review_count": 6,
-            "pros": null,
-            "cons": null,
-            "quotes": [
-              {
-                "outlet": "COMICON",
-                "reviewer": "Olly MacNamee",
-                "excerpt": "Space bandits Thena Khole and Cody Blue return in a new crossover series for the summer, Star-Crossed. Having stolen from a tyrannical monarchy, the girls just want to party. But any tyrant who’s been wronged is never going to let it go. And so the girls have a bounty on their heads they naively think they can escape. Best of luck, girls. From Mark Millar and Corrado Mastantuono.",
-                "score": 10.0,
-                "url": "https://comicon.com/2026/07/07/is-fate-really-written-in-the-stars-star-crossed-1-advance-review/"
-              },
-              {
-                "outlet": "Nerd Initiative",
-                "reviewer": "Eda Thomas Bagwell",
-                "excerpt": "Mark Millar delivers once again in this interstellar sci-fi outing any fan of the genre will love! Whether you’ve been following the Millarverse or not, this is one that any reader can easily get sucked into. Helped by the exceptional work of Corrado and Nisa Mastantuono, “Star-Crossed” is on its way to being one of the great modern sci-fi romps.",
-                "score": 10.0,
-                "url": "https://nerdinitiative.com/2026/07/08/star-crossed-1-review-a-cosmic-crossover-for-the-ages/"
-              }
-            ]
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1171923",
-          "reason": {
-            "type": "featured_pick",
-            "source": "RISO",
-            "label": "RISO Recommends",
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": 8.8,
+            "score": 9.5,
             "score_max": 10.0,
             "review_count": 5,
             "pros": null,
             "cons": null,
             "quotes": [
               {
-                "outlet": "Fanlight Zone",
-                "reviewer": "Ken M.",
-                "excerpt": "Eddie attempts to be a reluctant hero as Trent is kidnapped in another phenomenal issue. Starks unloads the deep rooted feelings in-between the adult humor. Pugh & O'Halloran bring the insanity of Eddie’s world to spectacular life. There is no good reason End Of Life shouldn’t be in your collection.",
-                "score": 9.6,
-                "url": "https://www.fanlightzone.com/comics/end-of-life-5"
+                "outlet": "Capes & Tights",
+                "reviewer": "Justin Soderberg",
+                "excerpt": "Operation: Iron Coffin comes out of the gate swinging with a unique premise that delivers far more than ever expected. Kenny Porter and Tyrell Cannon give us a Dracula that isn’t just here for the carnage, although we get plenty of that, but for a compelling redemption arc wrapped in a fast-paced, blood-soaked WWII setting. IDW Dark may have some heavy hitting titles in its first year as an imprint at IDW Publishing, but Operation: Iron Coffin stands out as one of the best.",
+                "score": 10.0,
+                "url": "https://capesandtights.com/operation-iron-coffin-1-review-dracula-nazi/"
               },
               {
-                "outlet": "Geek Dad",
-                "reviewer": "Ray Goldfield",
-                "excerpt": "This issue is pretty close to perfect, but it also seems to bring an end to the whole Pluto era of the title. I’m very curious to see where it goes now, as the small-town setting was one of the big selling points.",
-                "score": 9.5,
-                "url": "https://geekdad.com/2026/06/dc-this-week-roundup-worlds-of-heroes/"
-              }
-            ]
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1179900",
-          "reason": {
-            "type": "featured_pick",
-            "source": "RISO",
-            "label": "RISO Recommends",
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": 8.5,
-            "score_max": 10.0,
-            "review_count": 1,
-            "pros": null,
-            "cons": null,
-            "quotes": [
-              {
-                "outlet": "AIPT",
-                "reviewer": "Collier Jennings",
-                "excerpt": "X-Men #33 closes out its latest story arc with a moral dilemma that pushes Beast's Science Team to the limit, and delivers some stunning visuals in the process.",
-                "score": 8.5,
-                "url": "https://aiptcomics.com/2026/07/15/x-men-33-review-2/"
+                "outlet": "Get Your Comic On",
+                "reviewer": "Neil Vagg",
+                "excerpt": "Operation Coffin #1 is a stylish debut for Porter and Cannon’s new take on Dracula. A truly unique premise, backed by engaging lore and a curious mission have already laid the groundwork for a wild ride ahead.",
+                "score": 10.0,
+                "url": "https://getyourcomicon.co.uk/blog/2026/05/20/operation-coffin-2026-1-review/"
               }
             ]
           }
@@ -136,7 +79,7 @@
           }
         },
         {
-          "entity": "cv-issue-4000-1172014",
+          "entity": "cv-issue-4000-1179881",
           "reason": {
             "type": "featured_pick",
             "source": "RISO",
@@ -151,18 +94,82 @@
             "cons": null,
             "quotes": [
               {
-                "outlet": "SciFiPulse",
-                "reviewer": "Ian Cullen",
-                "excerpt": "This was a solid issue that carries a real sense of danger and presents readers with a problem that only someone like James T. Kirk could likely solve. There is also a great observation made by both Kirk and Jurati about Sato, which has been a recurring theme throughout the series so far. Sato is a captain who is often held back from making the tough choices because of his own fears and self-doubt.",
-                "score": 9.7,
-                "url": "https://www.scifipulse.net/in-review-star-trek-the-last-starship-8-kirk-vs-jurati/"
+                "outlet": "Capes & Tights",
+                "reviewer": "Justin Soderberg",
+                "excerpt": "Kingdom of Earth builds an unsettling world while introducing us to some horrific monsters and a protagonist worth rooting for. David Dastmalchian, Leah Kilpatrick, and Soo Lee craft a grim and brutal apocalyptic world that leaves us eager for what happens next. Kingdom of Earth is a brutal, monster-filed story balancing relentless darkness with a glimpse of hope.",
+                "score": 9.0,
+                "url": "https://capesandtights.com/kingdom-of-earth-1-review/"
               },
               {
                 "outlet": "The Super Powered Fancast",
                 "reviewer": "Deron Generally",
-                "excerpt": "Gonzalez delivers stunning art throughout the issue. I absolutely love the character designs and the attention to detail in every page and panel.",
+                "excerpt": "Dastmalchian and Kilpatrick craft a dark, engaging and thrilling story in this first issue. One of the things that draws me into a story is world building and this first issue creates an interesting and unique world that I want to see explored. I like the mystery of the world itself and how the factions deal with the limitations of their power. There are some interesting characters littered throughout this first issue and I am on board with both the premise and the world of this series.",
                 "score": 9.0,
-                "url": "https://www.superpoweredfancast.com/star-trek-the-last-starship-8-review/"
+                "url": "https://www.superpoweredfancast.com/kingdom-of-earth-1-review/"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1172012",
+          "reason": {
+            "type": "featured_pick",
+            "source": "RISO",
+            "label": "RISO Recommends",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": 9.5,
+            "score_max": 10.0,
+            "review_count": 2,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Get Your Comic On",
+                "reviewer": "Michael Brennan",
+                "excerpt": "Something is Killing the Children #48 delivers yet another strong issue, balancing action, emotion, and world-building with real confidence. Thrilling from start to finish. A great read.",
+                "score": 10.0,
+                "url": "https://getyourcomicon.co.uk/blog/2026/06/17/something-is-killing-the-children-2019-48-review/"
+              },
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Ken M.",
+                "excerpt": "A difficult conversation between Erica and Jessica reveals a new side to the life of the Order in a powerful chapter. Tynion IV delves into Jessica’s deep pain with magnificent writing . Dell’edera and Muerto unload the heavy burdens of truth with impressive visuals. The world of Erica Slaughter is one that never leaves readers thoughts when the issue finishes for a reason.",
+                "score": 9.0,
+                "url": "https://www.fanlightzone.com/comics/something-is-killing-the-children-48"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1171923",
+          "reason": {
+            "type": "featured_pick",
+            "source": "RISO",
+            "label": "RISO Recommends",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": 8.8,
+            "score_max": 10.0,
+            "review_count": 5,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Ken M.",
+                "excerpt": "Eddie attempts to be a reluctant hero as Trent is kidnapped in another phenomenal issue. Starks unloads the deep rooted feelings in-between the adult humor. Pugh & O'Halloran bring the insanity of Eddie’s world to spectacular life. There is no good reason End Of Life shouldn’t be in your collection.",
+                "score": 9.6,
+                "url": "https://www.fanlightzone.com/comics/end-of-life-5"
+              },
+              {
+                "outlet": "Geek Dad",
+                "reviewer": "Ray Goldfield",
+                "excerpt": "This issue is pretty close to perfect, but it also seems to bring an end to the whole Pluto era of the title. I’m very curious to see where it goes now, as the small-town setting was one of the big selling points.",
+                "score": 9.5,
+                "url": "https://geekdad.com/2026/06/dc-this-week-roundup-worlds-of-heroes/"
               }
             ]
           }
@@ -200,7 +207,7 @@
           }
         },
         {
-          "entity": "cv-issue-4000-1171992",
+          "entity": "cv-issue-4000-1177850",
           "reason": {
             "type": "featured_pick",
             "source": "RISO",
@@ -208,31 +215,31 @@
             "url": null,
             "snippet": null,
             "image": null,
-            "score": 9.0,
+            "score": 8.4,
             "score_max": 10.0,
-            "review_count": 8,
+            "review_count": 6,
             "pros": null,
             "cons": null,
             "quotes": [
               {
                 "outlet": "AIPT",
-                "reviewer": "Collier Jennings",
-                "excerpt": "If Destruction Be Our Lot #2 continues to flesh out its weird, wild, and wonderful world of robots, by offering plenty of visuals with personality and plot twists that will have readers talking.",
-                "score": 10.0,
-                "url": "https://aiptcomics.com/2026/06/16/if-destruction-be-our-lot-2-review/"
+                "reviewer": "David Brooke",
+                "excerpt": "Witness Point #1 succeeds because it understands that a great crime story needs more than a clever premise. Nathan Fillon and Heath Corson build a small town full of personalities, grudges, secrets, and simmering tension, while artist Soo Lee gives every character enough individuality to make them feel like a suspect, a victim, or both. The witness protection angle provides an irresistible foundation, but the issue never relies solely on its elevator pitch. Instead, it carefully constructs a mystery populated by colorful characters, sharp dialogue, and just enough chaos, including a tiger attack, to keep readers on their toes. If the series can maintain this level of plotting and characterization, Witness Point has all the ingredients to become one of the year's standout crime comics.",
+                "score": 9.0,
+                "url": "https://aiptcomics.com/2026/07/07/witness-point-1-review/"
               },
               {
                 "outlet": "Nerd Initiative",
-                "reviewer": "Eda Thomas Bagwell",
-                "excerpt": "I already require the next issue of “If Destruction Be Our Lot” to be in my hands. This issue continues an already going trend of the Rosenberg brothers, MacDonald and Segala creating something truly once-in-a-lifetime. This series could really teach us a thing or two.",
-                "score": 10.0,
-                "url": "https://nerdinitiative.com/2026/06/17/if-destruction-be-our-lot-2-an-unbelievable-tour-de-force/"
+                "reviewer": "Lauren The Hoppy Geek",
+                "excerpt": "I’ve always been a fan of mob stories, both fiction and non-fiction. So when we kick right off with a mob hit, I was sucked in. However, despite the title of the book, the path the story took was one I didn’t see coming. This is not your Tony Soprano, Vito Corleone, or Henry Hill type of story (well, maybe Henry Hill at the end of Goodfellas). This is unique and different. It’s filled with mystery, a few smiles, and a desire to know what the hell is going on.",
+                "score": 9.0,
+                "url": "https://nerdinitiative.com/2026/07/08/witness-point-1-mobsters-clowns-true-crime-podcasters-oh-my/"
               }
             ]
           }
         },
         {
-          "entity": "cv-issue-4000-1172012",
+          "entity": "cv-issue-4000-1177826",
           "reason": {
             "type": "featured_pick",
             "source": "RISO",
@@ -240,25 +247,25 @@
             "url": null,
             "snippet": null,
             "image": null,
-            "score": 9.5,
+            "score": 8.6,
             "score_max": 10.0,
-            "review_count": 2,
+            "review_count": 6,
             "pros": null,
             "cons": null,
             "quotes": [
               {
-                "outlet": "Get Your Comic On",
-                "reviewer": "Michael Brennan",
-                "excerpt": "Something is Killing the Children #48 delivers yet another strong issue, balancing action, emotion, and world-building with real confidence. Thrilling from start to finish. A great read.",
+                "outlet": "COMICON",
+                "reviewer": "Olly MacNamee",
+                "excerpt": "Space bandits Thena Khole and Cody Blue return in a new crossover series for the summer, Star-Crossed. Having stolen from a tyrannical monarchy, the girls just want to party. But any tyrant who’s been wronged is never going to let it go. And so the girls have a bounty on their heads they naively think they can escape. Best of luck, girls. From Mark Millar and Corrado Mastantuono.",
                 "score": 10.0,
-                "url": "https://getyourcomicon.co.uk/blog/2026/06/17/something-is-killing-the-children-2019-48-review/"
+                "url": "https://comicon.com/2026/07/07/is-fate-really-written-in-the-stars-star-crossed-1-advance-review/"
               },
               {
-                "outlet": "Fanlight Zone",
-                "reviewer": "Ken M.",
-                "excerpt": "A difficult conversation between Erica and Jessica reveals a new side to the life of the Order in a powerful chapter. Tynion IV delves into Jessica’s deep pain with magnificent writing . Dell’edera and Muerto unload the heavy burdens of truth with impressive visuals. The world of Erica Slaughter is one that never leaves readers thoughts when the issue finishes for a reason.",
-                "score": 9.0,
-                "url": "https://www.fanlightzone.com/comics/something-is-killing-the-children-48"
+                "outlet": "Nerd Initiative",
+                "reviewer": "Eda Thomas Bagwell",
+                "excerpt": "Mark Millar delivers once again in this interstellar sci-fi outing any fan of the genre will love! Whether you’ve been following the Millarverse or not, this is one that any reader can easily get sucked into. Helped by the exceptional work of Corrado and Nisa Mastantuono, “Star-Crossed” is on its way to being one of the great modern sci-fi romps.",
+                "score": 10.0,
+                "url": "https://nerdinitiative.com/2026/07/08/star-crossed-1-review-a-cosmic-crossover-for-the-ages/"
               }
             ]
           }
@@ -429,6 +436,38 @@
                 "excerpt": "I already require the next issue of “If Destruction Be Our Lot” to be in my hands. This issue continues an already going trend of the Rosenberg brothers, MacDonald and Segala creating something truly once-in-a-lifetime. This series could really teach us a thing or two.",
                 "score": 10.0,
                 "url": "https://nerdinitiative.com/2026/06/17/if-destruction-be-our-lot-2-an-unbelievable-tour-de-force/"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181818",
+          "reason": {
+            "type": "featured_pick",
+            "source": "Comic Book Roundup",
+            "label": "Critically Acclaimed",
+            "url": "https://comicbookroundup.com/comic-books/reviews/image-comics/terminal-(2026)/1",
+            "snippet": null,
+            "image": null,
+            "score": 8.9,
+            "score_max": 10.0,
+            "review_count": 5,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "AIPT",
+                "reviewer": "David Brooke",
+                "excerpt": "Terminal #1 confidently launches a new superhero universe by leaning into mystery instead of exposition. Kirkman and Casey steadily pull readers deeper into a world that feels familiar enough to invite comparison while carving out its own identity through unexpected twists and unsettling revelations. Andy Kubert's artwork is spectacular from start to finish, balancing grounded emotion with explosive action and a few moments of genuine horror. The issue asks readers to trust the creative team before all the pieces fall into place, but the payoff at the end is more than enough reason to come back for the next chapter. Terminal is a blockbuster debut with secrets worth chasing.",
+                "score": 9.5,
+                "url": "https://aiptcomics.com/2026/07/21/terminal-1-review/"
+              },
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Ken M.",
+                "excerpt": "Marilyn Howe’s search for her sister opens her eyes to a dangerous new world in this exciting debut. Kirkman and Carey challenge the readers on the balance of good and evil. Kubert and McCaig impress with incredible visuals that elevate the complex story. This brutal & intense mystery is about to become your new favorite series!",
+                "score": 9.5,
+                "url": "https://www.fanlightzone.com/comics/terminal-1"
               }
             ]
           }
@@ -624,38 +663,6 @@
               }
             ]
           }
-        },
-        {
-          "entity": "cv-issue-4000-1171917",
-          "reason": {
-            "type": "featured_pick",
-            "source": "Comic Book Roundup",
-            "label": "Critically Acclaimed",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-flash-(2025)/16",
-            "snippet": null,
-            "image": null,
-            "score": 8.8,
-            "score_max": 10.0,
-            "review_count": 6,
-            "pros": null,
-            "cons": null,
-            "quotes": [
-              {
-                "outlet": "Geek Dad",
-                "reviewer": "Ray Goldfield",
-                "excerpt": "There are some incredibly creepy moments in this issue, particularly towards the end, and with a real sense of danger that belies just how new Wally is to his powers. Grodd may not be the danger in this comic, but his father may slowly be growing into something just as dangerous as his main-line counterpart.",
-                "score": 10.0,
-                "url": "https://geekdad.com/2026/06/review-absolute-flash-16-monkey-business/"
-              },
-              {
-                "outlet": "Comic Watch",
-                "reviewer": "Jamison Nilsson",
-                "excerpt": "Issue #16 is tightly paced from start to finish, with every line of dialogue either developing the bonds between the characters or pushing the storyline to the next page. Even the last few pages don’t feel like bait for the next issue because they actually answers the reader’s questions rather than simply kicking the can down the road.",
-                "score": 9.6,
-                "url": "https://comic-watch.com/comic-book-reviews/absolute-flash-16-its-all-grodd"
-              }
-            ]
-          }
         }
       ]
     },
@@ -668,6 +675,191 @@
       "source": "Comic Book Roundup",
       "items": [
         {
+          "entity": "cv-issue-4000-1181754",
+          "reason": {
+            "type": "trending",
+            "source": "Comic Book Roundup",
+            "label": "Popular This Week",
+            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/detective-comics-(2016)/1111",
+            "snippet": null,
+            "image": null,
+            "score": 9.1,
+            "score_max": 10.0,
+            "review_count": 2,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Ken M.",
+                "excerpt": "A tragic past reveal sparks an explosive search for present day answers as Batman is on the hunt! Taylor pens a striking tale of loss and heart in this latest chapter. Janín exposes the a hero’s last moments with stunning art. This series never falters on delivering high marks.",
+                "score": 9.2,
+                "url": "https://www.fanlightzone.com/comics/detective-comics-1111"
+              },
+              {
+                "outlet": "AIPT",
+                "reviewer": "Jonathan Waugh",
+                "excerpt": "Detective Comics #1111 ramps up the action and mystery in the latest issue, while also showcasing the great potential of having Batman team up with additional heroes.",
+                "score": 9.0,
+                "url": "https://aiptcomics.com/2026/07/22/detective-comics-1111-review/"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181814",
+          "reason": {
+            "type": "trending",
+            "source": "Comic Book Roundup",
+            "label": "Popular This Week",
+            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/superman-(2023)/40",
+            "snippet": null,
+            "image": null,
+            "score": 9.4,
+            "score_max": 10.0,
+            "review_count": 2,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "The Comic Book Spot",
+                "reviewer": "Jeremy Bonnette",
+                "excerpt": "Superman #40 wraps up one big event, leads us into another, and hints at the future for Superboy Prime. With Clark Kent set to return soon, Prime won’t be front and center, but I think he’s shown that he can be a more than average substitute for the Man of Steel.",
+                "score": 9.6,
+                "url": "https://thecomicbookspot.com/superman-40-comic-book-review/"
+              },
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Ken M.",
+                "excerpt": "Williamson, Mora and Sanchez roll the dice in walking a fine line of genius and insanity with CK’s heroic methods. Another display of high level storytelling for a very polarizing character.",
+                "score": 9.3,
+                "url": "https://www.fanlightzone.com/comics/superman-40"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181771",
+          "reason": {
+            "type": "trending",
+            "source": "Comic Book Roundup",
+            "label": "Popular This Week",
+            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/green-lantern-(2023)/37",
+            "snippet": null,
+            "image": null,
+            "score": 8.4,
+            "score_max": 10.0,
+            "review_count": 7,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Ken M.",
+                "excerpt": "Kyle vs. the internet … round one….FIGHT! Adams puts Rayner in a most comical situation as a downer of being a celebrity comes to his front door. The art shines in its’ expressions of the often humorous moments before the show stoppign finale page. Hollywood is never a boring time.",
+                "score": 8.4,
+                "url": "https://www.fanlightzone.com/comics/green-lantern-37"
+              },
+              {
+                "outlet": "AIPT",
+                "reviewer": "Christopher Franey",
+                "excerpt": "Green Lantern #37 leans into character development over spectacle, giving Kyle Rayner another enjoyable chapter as he adjusts to life in Los Angeles. Jeremy Adams continues to build Kyle's supporting cast and relationships while planting intriguing seeds for larger stories ahead. Although the main villain doesn't leave much of an impact, the issue's charm and final-page surprise help keep the momentum rolling.",
+                "score": 7.5,
+                "url": "https://aiptcomics.com/2026/07/22/green-lantern-37-review/"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181822",
+          "reason": {
+            "type": "trending",
+            "source": "Comic Book Roundup",
+            "label": "Popular This Week",
+            "url": "https://comicbookroundup.com/comic-books/reviews/marvel-comics/uncanny-x-men-(2024)/32",
+            "snippet": null,
+            "image": null,
+            "score": 9.1,
+            "score_max": 10.0,
+            "review_count": 3,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Nerd Initiative",
+                "reviewer": "Megan Nichole",
+                "excerpt": "The Uncanny X-Men #32 brings this out-of-this-world arc to an end and we’re left on a very interesting note of uncertainty, sadness, and love. Gail Simone makes you feel every emotion and leaves you wanting more.",
+                "score": 10.0,
+                "url": "https://nerdinitiative.com/2026/07/22/the-uncanny-x-men-32-bring-the-fight-to-them/"
+              },
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Ken M.",
+                "excerpt": "When the Nur try wiping out the Brood, they forgot what party they crashed! Simone’s writing balances the heartfelt drama with outright fun themes. The art centers in on the chaotic scene with great success. This has been such a refreshing change of pace story that reminds fans to push the creative boundaries on the stat quo X-tales.",
+                "score": 8.8,
+                "url": "https://www.fanlightzone.com/comics/uncanny-x-men-32"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181780",
+          "reason": {
+            "type": "trending",
+            "source": "Comic Book Roundup",
+            "label": "Popular This Week",
+            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/justice-league-unlimited-(2024)/21",
+            "snippet": null,
+            "image": null,
+            "score": 8.6,
+            "score_max": 10.0,
+            "review_count": 1,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Ken M.",
+                "excerpt": "The League brings the fight but is it enough to stop the Queen? Waid juggles many plots with ease to weave an exciting issue. The art delivers on phenomenal art at every page. Buckle in for the non-stop thrills!",
+                "score": 8.6,
+                "url": "https://www.fanlightzone.com/comics/justice-league-unlimited-21"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181763",
+          "reason": {
+            "type": "trending",
+            "source": "Comic Book Roundup",
+            "label": "Popular This Week",
+            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/flash-(2023)/35",
+            "snippet": null,
+            "image": null,
+            "score": 8.8,
+            "score_max": 10.0,
+            "review_count": 2,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "AIPT",
+                "reviewer": "David Brooke",
+                "excerpt": "The Flash #35 is another winning chapter that reminds readers why Wally West remains one of DC's most endearing heroes. Ryan North balances inventive superhero concepts with genuine heart, while Gavin Guidry's artwork radiates personality from start to finish. The central idea of preventing disasters before they happen opens up exciting possibilities, and the creative team wisely leaves enough uncertainty to keep you wondering where it all leads. Even before the larger questions arrive, this issue succeeds by making heroism feel joyful, hopeful, and endlessly fun.",
+                "score": 9.0,
+                "url": "https://aiptcomics.com/2026/07/22/the-flash-35-review/"
+              },
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Ken M.",
+                "excerpt": "Wally West’s obsession with the future leads to more hijinks as events speed along. North leans heavily into the scientific portion of plans with the writing. Guidry and Lucas craft solid looks at this new scheme via the art. An interesting take leading into more fast problems down the road. Don’t miss out.",
+                "score": 8.5,
+                "url": "https://www.fanlightzone.com/comics/the-flash-35"
+              }
+            ]
+          }
+        },
+        {
           "entity": "cv-issue-4000-1179900",
           "reason": {
             "type": "trending",
@@ -678,7 +870,7 @@
             "image": null,
             "score": 8.5,
             "score_max": 10.0,
-            "review_count": 1,
+            "review_count": 3,
             "pros": null,
             "cons": null,
             "quotes": [
@@ -851,198 +1043,6 @@
               }
             ]
           }
-        },
-        {
-          "entity": "cv-issue-4000-1171919",
-          "reason": {
-            "type": "trending",
-            "source": "Comic Book Roundup",
-            "label": "Popular This Week",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/batman-superman-worlds-finest-(2022)/52",
-            "snippet": null,
-            "image": null,
-            "score": 8.2,
-            "score_max": 10.0,
-            "review_count": 7,
-            "pros": null,
-            "cons": null,
-            "quotes": [
-              {
-                "outlet": "AIPT",
-                "reviewer": "Chris Showalter",
-                "excerpt": "Batman/Superman: World’s Finest #52’s is Saturday morning cartoon fun. Although Waid’s narrative lacks depth and demands that we ask the question, “Power to what end?” it oozes with Silver Age spectacle. Thankfully, what the narrative lacks in depth, it more than makes up for with pitch-perfect characterization, world-building, and Gutierrez’s gorgeous artwork.  And, most importantly, if you’re anything like me, you’ve been craving some Saturday Morning Cartoon action with your favorite superheroes. Now, where are my Batman and Superman with dinosaur armor!? I need to smash them together.",
-                "score": 9.0,
-                "url": "https://aiptcomics.com/2026/06/17/batman-superman-worlds-finest-52-review/"
-              },
-              {
-                "outlet": "Geek Dad",
-                "reviewer": "Ray Goldfield",
-                "excerpt": "This issue gets pretty dark in places, much more in line with the work Mike Grell did on the world of Skartaris in his iconic Warlord series and its follow-ups. That’s a great way to set this arc apart from the other flashback works Waid has done, which have more of a Silver Age aesthetic.",
-                "score": 9.0,
-                "url": "https://geekdad.com/2026/06/dc-this-week-roundup-worlds-of-heroes/"
-              }
-            ]
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1172012",
-          "reason": {
-            "type": "trending",
-            "source": "Comic Book Roundup",
-            "label": "Popular This Week",
-            "url": "https://comicbookroundup.com/comic-books/reviews/boom-studios/something-is-killing-the-children-(2019)/48",
-            "snippet": null,
-            "image": null,
-            "score": 9.5,
-            "score_max": 10.0,
-            "review_count": 2,
-            "pros": null,
-            "cons": null,
-            "quotes": [
-              {
-                "outlet": "Get Your Comic On",
-                "reviewer": "Michael Brennan",
-                "excerpt": "Something is Killing the Children #48 delivers yet another strong issue, balancing action, emotion, and world-building with real confidence. Thrilling from start to finish. A great read.",
-                "score": 10.0,
-                "url": "https://getyourcomicon.co.uk/blog/2026/06/17/something-is-killing-the-children-2019-48-review/"
-              },
-              {
-                "outlet": "Fanlight Zone",
-                "reviewer": "Ken M.",
-                "excerpt": "A difficult conversation between Erica and Jessica reveals a new side to the life of the Order in a powerful chapter. Tynion IV delves into Jessica’s deep pain with magnificent writing . Dell’edera and Muerto unload the heavy burdens of truth with impressive visuals. The world of Erica Slaughter is one that never leaves readers thoughts when the issue finishes for a reason.",
-                "score": 9.0,
-                "url": "https://www.fanlightzone.com/comics/something-is-killing-the-children-48"
-              }
-            ]
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1171916",
-          "reason": {
-            "type": "trending",
-            "source": "Comic Book Roundup",
-            "label": "Popular This Week",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-batman-(2024)/21",
-            "snippet": null,
-            "image": null,
-            "score": 8.9,
-            "score_max": 10.0,
-            "review_count": 15,
-            "pros": null,
-            "cons": null,
-            "quotes": [
-              {
-                "outlet": "Get Your Comic On",
-                "reviewer": "Neil Vagg",
-                "excerpt": "Absolute Batman #21 is another huge triumph for Scott Snyder and the team. It navigates a number of different setups between huge action set pieces, a rather grand funeral and a slightly twisted finale to setup a number of huge storylines for year three of the Absolute initiative.",
-                "score": 10.0,
-                "url": "https://getyourcomicon.co.uk/blog/2026/06/17/absolute-batman-2024-21-review/"
-              },
-              {
-                "outlet": "Geek Dad",
-                "reviewer": "Ray Goldfield",
-                "excerpt": "Ever since the original Batman run, Scott Snyder’s Joker has always been among the scariest I’ve ever read, but this is on a whole other level. The level of disturbing visuals by Nick Dragotta work absolutely perfectly to end the issue with literal shivers down your spine.",
-                "score": 10.0,
-                "url": "https://geekdad.com/2026/06/review-absolute-batman-21-the-robins-next/"
-              }
-            ]
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1171921",
-          "reason": {
-            "type": "trending",
-            "source": "Comic Book Roundup",
-            "label": "Popular This Week",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/catwoman-(2018)/88",
-            "snippet": null,
-            "image": null,
-            "score": 8.3,
-            "score_max": 10.0,
-            "review_count": 3,
-            "pros": null,
-            "cons": null,
-            "quotes": [
-              {
-                "outlet": "Geek Dad",
-                "reviewer": "Ray Goldfield",
-                "excerpt": "That unending bleakness can make the issue a little hard to get through at the time, but that’s the story it’s paying tribute to and it’s easily the most thrilling and tense the Catwoman title has been in years.",
-                "score": 9.0,
-                "url": "https://geekdad.com/2026/06/dc-this-week-roundup-worlds-of-heroes/"
-              },
-              {
-                "outlet": "AIPT",
-                "reviewer": "George Loftus",
-                "excerpt": "Catwoman #88 fumbles out the gate to me as someone who really jumped on board with the All-In initiative back in 2024 but ultimately sticks the landing. I was thrown into the deep end of something so bizarre and horrible I wasn’t entirely sure I was understanding it correctly. Before long though, the neon-drenched story of deception, revenge, and love that made me a fan of this run reappears and carries you forward through the story, exploring the strange, interconnected relationships that make a huge expansive thing like the DC Universe feel as small as a neighborhood where you know everyone’s business and their name.",
-                "score": 8.0,
-                "url": "https://aiptcomics.com/2026/06/17/catwoman-88-review/"
-              }
-            ]
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1171939",
-          "reason": {
-            "type": "trending",
-            "source": "Comic Book Roundup",
-            "label": "Popular This Week",
-            "url": "https://comicbookroundup.com/comic-books/reviews/marvel-comics/uncanny-x-men-(2024)/30",
-            "snippet": null,
-            "image": null,
-            "score": 8.6,
-            "score_max": 10.0,
-            "review_count": 7,
-            "pros": null,
-            "cons": null,
-            "quotes": [
-              {
-                "outlet": "But Why Tho?",
-                "reviewer": "William Tucker",
-                "excerpt": "Uncanny X-Men Issue 30 fuses love with horror. There are very few superhero comics that carry the emotional weight that Uncanny X-Men does.",
-                "score": 10.0,
-                "url": "https://butwhytho.net/2026/06/uncanny-x-men-issue-30-review/"
-              },
-              {
-                "outlet": "Nerd Initiative",
-                "reviewer": "Megan Nichole",
-                "excerpt": "If there’s one thing you can say about this comic series, it’s that there’s not one single boring issue in the run. Gail Simone gives each issue its own light to shine and brings so many different tones to every one of them. It’s something I really appreciate because it feels like every issue is memorable, and there’s something to love in every one of them. In this issue, Gail Simone is setting up for what seems to be some exciting stuff that I can’t wait to see. There’s also some great dynamics between the characters that we get to see grow, and even some being pulled away from. Gail gives the reader so much to work with, and so much to theorize on, and that’s exactly how I’ll be spending my time until the next issue drops.",
-                "score": 9.1,
-                "url": "https://nerdinitiative.com/2026/06/17/uncanny-x-men-30-the-new-visitors/"
-              }
-            ]
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1171917",
-          "reason": {
-            "type": "trending",
-            "source": "Comic Book Roundup",
-            "label": "Popular This Week",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dc-comics/absolute-flash-(2025)/16",
-            "snippet": null,
-            "image": null,
-            "score": 8.8,
-            "score_max": 10.0,
-            "review_count": 6,
-            "pros": null,
-            "cons": null,
-            "quotes": [
-              {
-                "outlet": "Geek Dad",
-                "reviewer": "Ray Goldfield",
-                "excerpt": "There are some incredibly creepy moments in this issue, particularly towards the end, and with a real sense of danger that belies just how new Wally is to his powers. Grodd may not be the danger in this comic, but his father may slowly be growing into something just as dangerous as his main-line counterpart.",
-                "score": 10.0,
-                "url": "https://geekdad.com/2026/06/review-absolute-flash-16-monkey-business/"
-              },
-              {
-                "outlet": "Comic Watch",
-                "reviewer": "Jamison Nilsson",
-                "excerpt": "Issue #16 is tightly paced from start to finish, with every line of dialogue either developing the bonds between the characters or pushing the storyline to the next page. Even the last few pages don’t feel like bait for the next issue because they actually answers the reader’s questions rather than simply kicking the can down the road.",
-                "score": 9.6,
-                "url": "https://comic-watch.com/comic-book-reviews/absolute-flash-16-its-all-grodd"
-              }
-            ]
-          }
         }
       ]
     },
@@ -1054,23 +1054,6 @@
       "source_tier": "distribution",
       "source": "RISO",
       "items": [
-        {
-          "entity": "cv-volume-4050-4691",
-          "reason": {
-            "type": "classic",
-            "source": "RISO",
-            "label": "Featured Classic",
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
         {
           "entity": "cv-volume-4050-17993",
           "reason": {
@@ -1090,6 +1073,23 @@
         },
         {
           "entity": "cv-volume-4050-18166",
+          "reason": {
+            "type": "classic",
+            "source": "RISO",
+            "label": "Featured Classic",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "metron-series-8527",
           "reason": {
             "type": "classic",
             "source": "RISO",
@@ -1142,6 +1142,190 @@
       "source_tier": "distribution",
       "source": "AIPT",
       "items": [
+        {
+          "entity": "cv-volume-4050-91078",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/07/22/action-comics-1100-review/",
+            "snippet": "Action Comics #1100 serves as both a celebration of Superman's history and a look at his next steps, thanks to some of the best creators in comics.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81Am1Djg0JL._SL1500_.jpg?fit=1280%2C914&amp;ssl=1",
+            "score": 8.5,
+            "score_max": 10.0,
+            "review_count": null,
+            "pros": [
+              "Waid and Patridge balance Clark Kent's teenage woes with a threat that spans all of time and space.",
+              "Ryan Sook reinterprets key moments in Superman history while also building on the main story.",
+              "Backup stories not only pick up on the end of DC K.O., but touch on all of the members of the Superman family."
+            ],
+            "cons": [
+              "The last story is more or less set-up for the upcoming storyline."
+            ],
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181822",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/07/22/uncanny-x-men-32-review/",
+            "snippet": "Uncanny X-Men #32 closes out \"Mars Needs Mutants\" with heart, high stakes, and meaningful growth for the Outliers. Gail Simone ensures the team's newest members earn their place through courage and leadership, while the emotional final pages set an exciting course for what's next. The climactic battle doesn't always capitalize on its biggest moments, though, with several action beats rushing past…",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/uncanny-32.jpg?fit=1280%2C1061&amp;ssl=1",
+            "score": 8.5,
+            "score_max": 10.0,
+            "review_count": null,
+            "pros": [
+              "The Outliers each get opportunities to shine and evolve.",
+              "Gail Simone balances multiple characters without losing momentum."
+            ],
+            "cons": [
+              "The alien conflict wraps up a bit too abruptly.",
+              "Last four pages are devoted to setting up the Outliers going forward."
+            ],
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181799",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/07/22/spider-man-long-way-home-2-review/",
+            "snippet": "Spider-Man: Long Way Home #2 continues to impress thanks to Adam Kubert's commanding artwork and Jonathan Hickman's cinematic approach visually, but the story moves at a deliberate pace. The issue invests heavily in atmosphere, framing, and character positioning, particularly with Punisher and Bruce Banner, though Spider-Man himself remains surprisingly absent for long stretches. There are intrigu…",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/long-way-home-2.jpg?fit=1280%2C1214&amp;ssl=1",
+            "score": 7.0,
+            "score_max": 10.0,
+            "review_count": null,
+            "pros": [
+              "Adam Kubert delivers striking layouts and cinematic page compositions.",
+              "Bruce Banner comes across as genuinely unsettling."
+            ],
+            "cons": [
+              "Spider-Man receives very little page time.",
+              "The pacing feels overly decompressed.",
+              "The issue ends just as the story begins to accelerate."
+            ],
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181769",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/07/22/godzilla-conquers-the-multiverse-1-review/",
+            "snippet": "Godzilla Conquers the Multiverse #1 embraces pure comic book excess and never apologizes for it. Gerry Duggan fills every page with imaginative team-ups, giant monsters, and laugh-out-loud moments, while Javier Garrón proves he's the perfect artist for a story this ambitious. The action is inventive, the jokes consistently land, and the monster-filled multiverse offers constant surprises. Even wit…",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/godzilla-conquest.jpg?fit=1280%2C1081&amp;ssl=1",
+            "score": 9.5,
+            "score_max": 10.0,
+            "review_count": null,
+            "pros": [
+              "Javier Garrón and David Curiel deliver spectacular, energetic visuals",
+              "The Avengers of Doom concept is endlessly fun",
+              "Clever humor keeps the escalating stakes from becoming too serious"
+            ],
+            "cons": [
+              "Knull plays a relatively small role until the closing pages"
+            ],
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-163325",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/07/22/amazing-spider-man-33-review/",
+            "snippet": "Amazing Spider-Man #33 keeps Joe Kelly's central mystery simmering while delivering plenty of superhero action and character-driven drama. Ed McGuinness once again proves he was made to draw Spider-Man, elevating even familiar action beats with energetic layouts and expressive performances. While the issue spends more time moving pieces into place than delivering major reveals, the growing unease…",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/asm-33.jpg?fit=1280%2C1045&amp;ssl=1",
+            "score": 8.5,
+            "score_max": 10.0,
+            "review_count": null,
+            "pros": [
+              "Ed McGuinness delivers dynamic, expressive Spider-Man artwork throughout.",
+              "Cormac Crane's continues to seem quite fishy.",
+              "The Kintsugi subplot continues to provide emotional depth."
+            ],
+            "cons": [
+              "Some supporting plots receive limited page space, leaving them feeling underdeveloped."
+            ],
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181785",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/07/22/moonstar-5-review/",
+            "snippet": "Moonstar #5 not only averts the apocalypse, but closes the book on yet another one of Ashley Allen's character studies surrounding the X-Men. It's a must read for X-Men fans of all shapes and sizes, and proof that you don't have to be an A-List character to get A-List stories.",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81HWGTOc5kL._SL1500_.jpg?fit=1280%2C970&amp;ssl=1",
+            "score": 9.0,
+            "score_max": 10.0,
+            "review_count": null,
+            "pros": [
+              "Allen completes yet another stellar character study for one of the X-Men's most underrated members.",
+              "Dani gets an upgrade in more ways than one.",
+              "Audino balances between apocalyptic action and quieter moments with ease.",
+              "Hesli's color work will hook readers from the first page."
+            ],
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181765",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/07/22/gambit-wanted-1-review/",
+            "snippet": "Gambit: Wanted #1 opens a door into the Ragin' Cajun's past, as Chris Claremont and Robert Gill deliver the comic book equivalent of a solid opening hand. Now the question remains: will they pull off a royal flush?",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/91861WV8TTL._SL1500_.jpg?fit=1280%2C1001&amp;ssl=1",
+            "score": 8.5,
+            "score_max": 10.0,
+            "review_count": null,
+            "pros": [
+              "Chris Claremont returns to pen a lost story of Gambit's past, and delivers some great character work as always.",
+              "Robert Gill's artwork is action-packed and captures how Gambit moves.",
+              "Bryan Valenza utilizes plenty of vibrant colors - most notably purple, when it comes to Gambit's powers, clothes & inner monologue.",
+              "The showdown with Bullseye works far better than expected."
+            ],
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181771",
+          "reason": {
+            "type": "review_signal",
+            "source": "AIPT",
+            "label": "AIPT review",
+            "url": "https://aiptcomics.com/2026/07/22/green-lantern-37-review/",
+            "snippet": "Green Lantern #37 leans into character development over spectacle, giving Kyle Rayner another enjoyable chapter as he adjusts to life in Los Angeles. Jeremy Adams continues to build Kyle's supporting cast and relationships while planting intriguing seeds for larger stories ahead. Although the main villain doesn't leave much of an impact, the issue's charm and final-page surprise help keep the mome…",
+            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/GL-37-Fi-e1784555533733.jpg?fit=1247%2C877&amp;ssl=1",
+            "score": 7.5,
+            "score_max": 10.0,
+            "review_count": null,
+            "pros": [
+              "Xermánico delivers expressive, energetic artwork with a fun horror-inspired opening.",
+              "Slice-of-life storytelling gives Kyle a refreshing status quo and strong character work for him, Jade, and Odyssey.",
+              "Hal and Jayna's subplot continues to build intrigue, culminating in an excellent final-page reveal that heightens excitement for future issues."
+            ],
+            "cons": [
+              "Troll feels underdeveloped as a threat and villain.",
+              "The action lacks the stakes of previous issues, as it reads more like the first half of a larger story than a complete chapter."
+            ],
+            "quotes": null
+          }
+        },
         {
           "entity": "rss-487d025d1691",
           "reason": {
@@ -1229,184 +1413,6 @@
             "cons": null,
             "quotes": null
           }
-        },
-        {
-          "entity": "cv-volume-4050-92569",
-          "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/07/15/nightwing-140-review/",
-            "snippet": "Nightwing #140 is an intense story about how the correlation between the injustice we see occur around and the potential impact on our mental health.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81i7JBqOvL._SL1500_.jpg?fit=1280%2C984&amp;ssl=1",
-            "score": 10.0,
-            "score_max": 10.0,
-            "review_count": null,
-            "pros": [
-              "The story's social topics are well structured and don't feel one-dimensional.",
-              "This issue feels artistically timeless.",
-              "The final moments have Nightwing dive further down a path he may not be able to turn back from."
-            ],
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-172746",
-          "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/07/15/avengers-armageddon-2-review/",
-            "snippet": "Avengers: Armageddon #2 hits the ground running, delivering an immense clash of titans with an equally severe aftermath. Things are heating up, and Armageddon is showing it has the juice to be a top-tier Marvel event.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/814zHEgDNLL._SL1500_.jpg?fit=1280%2C993&amp;ssl=1",
-            "score": 9.5,
-            "score_max": 10.0,
-            "review_count": null,
-            "pros": [
-              "Delio and Alzipar are delivering blockbuster level visuals, particularly when Colton takes on the Red Hulk.",
-              "Zdarsky doesn't shy away from how bringing superpowers onto the global stage could lead to chaos.",
-              "A few major reveals that make me excited for the rest of the series.",
-              "A reminder that the best events often feature the kind of story that involves the entire Marvel Universe."
-            ],
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1179750",
-          "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/07/15/the-infernal-hulk-9-review/",
-            "snippet": "Infernal Hulk #9 serves as a bridge toward the series' next major confrontation, but Phillip Kennedy Johnson ensures the journey is never dull. Bruce Banner and Doctor Voodoo make for an engaging pairing, while Adam Gorham continues to excel at grotesque monster designs and horror-infused action. Although much of the issue is devoted to positioning the players for what's next, the supernatural atm…",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/infernal-hulk-9.jpg?fit=1280%2C1089&amp;ssl=1",
-            "score": 8.5,
-            "score_max": 10.0,
-            "review_count": null,
-            "pros": [
-              "Bruce Banner and Doctor Voodoo share an entertaining dynamic.",
-              "Adam Gorham delivers inventive monster designs and gruesome horror imagery.",
-              "The magical and monster elements deepen the series' unique take on Hulk mythology."
-            ],
-            "cons": [
-              "Much of the story is dedicated to setup rather than major confrontations."
-            ],
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1177830",
-          "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/07/08/transformers-34-review/",
-            "snippet": "Action, intrigue, evil scientists, even BIGGER robots, oh my!",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/transformers-34.jpg?fit=1500%2C1000&amp;ssl=1",
-            "score": 8.0,
-            "score_max": 10.0,
-            "review_count": null,
-            "pros": [
-              "Makes a good effort to move it's chosen plotlines along naturally and satisfyingly",
-              "The art takes a massive step up from good to great for a fantastic fight scene",
-              "Bringing in aspects of the franchise long forgotten and under-ultilized"
-            ],
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "metron-issue-171813",
-          "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/07/08/its-symbie-1-review/",
-            "snippet": "'It’s Symbie' #1 is Marvel’s latest addition to their cute, kid-friendly lineup. Similar to the 'It’s Jeff' series, it follows a collection of stories surrounding Symbie causing havoc and chaos wherever he goes.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/91qf9N6NCiL._SL1500_.jpg?fit=1280%2C915&amp;ssl=1",
-            "score": 8.0,
-            "score_max": 10.0,
-            "review_count": null,
-            "pros": [
-              "Jacob Chabot writes and draws a cute and chaotic story",
-              "A lot of Spider-Man adjacent characters show up and interact with Symbie",
-              "It's easy to follow and perfect for kids who might know Symbie his appearances in Spidey and His Amazing Friends"
-            ],
-            "cons": [
-              "Some pages have a bit of empty space since the Symbie series was adapted from the Infinity Comics",
-              "The Symbie series seems like they're trying to recreate the success of Jeff the Landshark instead of leaning into Symbie's playful and dramatic personality"
-            ],
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-162400",
-          "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/07/08/green-lantern-corps-18-review/",
-            "snippet": "Green Lantern Corps #18 raises the stakes of the Aya-Hunters storyline by spotlighting Jessica Cruz's struggles as a leader while continuing to build toward the inevitable showdown on Oa. Morgan Hampton gives Jessica Cruz one of her strongest spotlight issues in recent memory while continuing to develop Aya and the Emotional Spectrum mythology. Though it feels like a bridge chapter, the issue deli…",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/GLC-18-Fi-e1783521524398.jpg?fit=1248%2C744&amp;ssl=1",
-            "score": 8.0,
-            "score_max": 10.0,
-            "review_count": null,
-            "pros": [
-              "Excellent spotlight on Jessica Cruz's leadership and inner struggles tested against a strong moral conflict with Guy Gardner.",
-              "Aya's development remains intriguing.",
-              "Fun and creative action moments, especially the Emotional Lantern mech, as the art team continues to deliver impressive visuals despite the large cast."
-            ],
-            "cons": [
-              "The overall plot advances only incrementally, and the conclusion leaves readers wanting immediate resolution."
-            ],
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1177780",
-          "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/07/08/die-loaded-7-review/",
-            "snippet": "DIE: Loaded is a pleasure to read, a game whose every turn demands the reader turn to the next page. It’s a great comic.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/8143VcyUBqL._SL1500_.jpg?fit=1280%2C901&amp;ssl=1",
-            "score": 9.5,
-            "score_max": 10.0,
-            "review_count": null,
-            "pros": [
-              "Stephanie Hans turns the familiar on its head by exploring the ways Earth fascinates DIE's inhabitants.",
-              "Hans' creatures, be they the twisted Fallen or the gods that Sophie treats with, are superb designs, and she captures the ways that they move beautifully.",
-              "Gillen's bringing one of Loaded's long-humming pieces of background work (the different ways that the old and new parties approach DIE) into the foreground. It'…"
-            ],
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-166313",
-          "reason": {
-            "type": "review_signal",
-            "source": "AIPT",
-            "label": "AIPT review",
-            "url": "https://aiptcomics.com/2026/07/08/black-cat-12-review/",
-            "snippet": "Black Cat #12 manages to balance humor, introspection, and action into a surprisingly breezy read.",
-            "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81vzSL1JwkL._SL1500_.jpg?fit=1280%2C957&amp;ssl=1",
-            "score": 8.0,
-            "score_max": 10.0,
-            "review_count": null,
-            "pros": [
-              "Some introspective moments about the nature of luck.",
-              "Willow doesn't shy away from how weird, wild and interesting the Marvel Universe is.",
-              "Genolet's artwork is a study in contrasts."
-            ],
-            "cons": [
-              "The final pages cut into the deeper moments the book was going for."
-            ],
-            "quotes": null
-          }
         }
       ]
     },
@@ -1420,475 +1426,6 @@
       "items": [
         {
           "entity": "cv-volume-4050-19752",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-162847",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-172003",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-163334",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-171252",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-171579",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-169560",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1179867",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "metron-issue-163944",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-172746",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "metron-issue-172203",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-141907",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-171015",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1179748",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-165540",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-112028",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-170110",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "metron-issue-171595",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-169122",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-161700",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-171017",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-130740",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-170661",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-170470",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming-releases",
-      "type": "upcoming",
-      "title": "Upcoming Releases",
-      "subtitle": null,
-      "source_tier": "distribution",
-      "source": "Metron",
-      "items": [
-        {
-          "entity": "metron-issue-172471",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-19752",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-163145",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-160860",
           "reason": {
             "type": "new_release",
             "source": "Metron",
@@ -1956,7 +1493,493 @@
           }
         },
         {
+          "entity": "cv-volume-4050-163325",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-168402",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-172747",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170259",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170248",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-issue-4000-495792",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-168595",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181750",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171581",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181753",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181754",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171772",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181757",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181758",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171423",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171507",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-160897",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-168594",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181763",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1181764",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming-releases",
+      "type": "upcoming",
+      "title": "Upcoming Releases",
+      "subtitle": null,
+      "source_tier": "distribution",
+      "source": "Metron",
+      "items": [
+        {
+          "entity": "metron-issue-172471",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-19752",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-160294",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-172741",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-163145",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-160860",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-91078",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
           "entity": "cv-volume-4050-166618",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-163334",
           "reason": {
             "type": "new_release",
             "source": "Metron",
@@ -2058,7 +2081,7 @@
           }
         },
         {
-          "entity": "cv-volume-4050-163325",
+          "entity": "cv-volume-4050-172742",
           "reason": {
             "type": "new_release",
             "source": "Metron",
@@ -2076,6 +2099,40 @@
         },
         {
           "entity": "cv-volume-4050-168402",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-169560",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-170108",
           "reason": {
             "type": "new_release",
             "source": "Metron",
@@ -2126,7 +2183,24 @@
           }
         },
         {
-          "entity": "cv-volume-4050-172747",
+          "entity": "metron-issue-172204",
+          "reason": {
+            "type": "new_release",
+            "source": "Metron",
+            "label": null,
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-171903",
           "reason": {
             "type": "new_release",
             "source": "Metron",
@@ -2175,74 +2249,6 @@
             "cons": null,
             "quotes": null
           }
-        },
-        {
-          "entity": "metron-issue-172109",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "metron-issue-171611",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-170259",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
-          "entity": "cv-volume-4050-171767",
-          "reason": {
-            "type": "new_release",
-            "source": "Metron",
-            "label": null,
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
         }
       ]
     }
@@ -2250,700 +2256,25 @@
   "entities": {
     "cv-volume-4050-19752": {
       "kind": "issue",
-      "title": "2000 AD #2491",
+      "title": "2000 AD #2492",
       "series_name": "2000 AD",
-      "issue_number": "2491",
+      "issue_number": "2492",
       "publisher": "Rebellion",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/05/7f70c02332fc480c9fe6eb8cdbec2255.jpg",
-      "release_date": "2026-07-15",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/05/6b96219cd1a8426abc4ea75ec2e751c9.jpg",
+      "release_date": "2026-07-22",
       "ids": {
         "comicvine_issue": null,
         "comicvine_volume": "4050-19752",
-        "metron_issue": 172202,
+        "metron_issue": 172229,
         "metron_series": 15677,
         "isbn": null,
-        "upc": "8600156142092491",
+        "upc": "8600156142092492",
         "gcd_id": null,
         "wikidata_id": null,
         "source_url": null,
         "series_name": "2000 AD",
         "volume_year": 2001
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-volume-4050-162847": {
-      "kind": "issue",
-      "title": "Absolute Flash #17",
-      "series_name": "Absolute Flash",
-      "issue_number": "17",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/03/cf3b6743c56c41b9840e75e89fef543f.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-162847",
-        "metron_issue": 172108,
-        "metron_series": 10354,
-        "isbn": null,
-        "upc": "76194138792501711",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Absolute Flash",
-        "volume_year": 2025
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-volume-4050-172003": {
-      "kind": "issue",
-      "title": "Absolute Green Arrow #3",
-      "series_name": "Absolute Green Arrow",
-      "issue_number": "3",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/19/a98e8fb4e3d7413f8d78717bcfa6596f.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-172003",
-        "metron_issue": 171591,
-        "metron_series": 15701,
-        "isbn": null,
-        "upc": "76194139422000311",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Absolute Green Arrow",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-volume-4050-163334": {
-      "kind": "issue",
-      "title": "Adventure Time #15",
-      "series_name": "Adventure Time",
-      "issue_number": "15",
-      "publisher": "Oni Press",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/01/36637ff850e04968a965e4c00a147861.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-163334",
-        "metron_issue": 170959,
-        "metron_series": 11302,
-        "isbn": null,
-        "upc": "64985600832915011",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Adventure Time",
-        "volume_year": 2025
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-volume-4050-171252": {
-      "kind": "issue",
-      "title": "Alien: King Killer #4",
-      "series_name": "Alien: King Killer",
-      "issue_number": "4",
-      "publisher": "Marvel",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/03/de08831d14cc4e8eb424d1997d4f2f31.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-171252",
-        "metron_issue": 172096,
-        "metron_series": 15414,
-        "isbn": null,
-        "upc": "75960621518800411",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Alien: King Killer",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-volume-4050-171579": {
-      "kind": "issue",
-      "title": "Amazing Spider-Man: Spider-Versity #4",
-      "series_name": "Amazing Spider-Man: Spider-Versity",
-      "issue_number": "4",
-      "publisher": "Marvel",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/03/3e1cb88179f94374ba5d6ad20574bdfc.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-171579",
-        "metron_issue": 172097,
-        "metron_series": 15537,
-        "isbn": null,
-        "upc": "75960621577500411",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Amazing Spider-Man: Spider-Versity",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-volume-4050-169560": {
-      "kind": "issue",
-      "title": "Arcadia #6",
-      "series_name": "Arcadia",
-      "issue_number": "6",
-      "publisher": "Ignition Press",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/20/deaf427960fb43b1ab888edd9c17b73b.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-169560",
-        "metron_issue": 171672,
-        "metron_series": 16146,
-        "isbn": null,
-        "upc": "81019628005206011",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Arcadia",
-        "volume_year": 2025
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-issue-4000-1179867": {
-      "kind": "issue",
-      "title": "Assorted Crisis Events #9",
-      "series_name": "Assorted Crisis Events",
-      "issue_number": "9",
-      "publisher": "Image Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/02/06/2e4b15daace34b96b8bf489a00af6d95.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": "4000-1179867",
-        "comicvine_volume": "4050-162682",
-        "metron_issue": 162274,
-        "metron_series": 10451,
-        "isbn": null,
-        "upc": "70985304268600911",
-        "gcd_id": 2851434,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Assorted Crisis Events",
-        "volume_year": 2025
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "metron-issue-163944": {
-      "kind": "issue",
-      "title": "Avatar: The Last Airbender – The Kyoshi Warriors #3",
-      "series_name": "Avatar: The Last Airbender – The Kyoshi Warriors",
-      "issue_number": "3",
-      "publisher": "Dark Horse Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/03/24/ee9e76f2a14f41029feb63247afefda1.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": null,
-        "metron_issue": 163944,
-        "metron_series": 15472,
-        "isbn": null,
-        "upc": "76156801509600311",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Avatar: The Last Airbender – The Kyoshi Warriors",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": false
-      }
-    },
-    "cv-volume-4050-172746": {
-      "kind": "issue",
-      "title": "Avengers: Armageddon #2",
-      "series_name": "Avengers: Armageddon",
-      "issue_number": "2",
-      "publisher": "Marvel",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/03/14fc2137466943558e53f0ef0a00b8f3.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-172746",
-        "metron_issue": 172098,
-        "metron_series": 15972,
-        "isbn": null,
-        "upc": "75960621563800211",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Avengers: Armageddon",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "metron-issue-172203": {
-      "kind": "issue",
-      "title": "Badrock #1",
-      "series_name": "Badrock",
-      "issue_number": "1",
-      "publisher": "Image Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/05/e7cd946b58f64709ab91e229ec7db6e2.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": null,
-        "metron_issue": 172203,
-        "metron_series": 16233,
-        "isbn": null,
-        "upc": "70985304712400111",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Badrock",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": false
-      }
-    },
-    "cv-volume-4050-141907": {
-      "kind": "issue",
-      "title": "Batman / Superman: World's Finest #53",
-      "series_name": "Batman / Superman: World's Finest",
-      "issue_number": "53",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/19/d48dd0fa44c04c27b1fa34c6bb90d8ec.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-141907",
-        "metron_issue": 171592,
-        "metron_series": 3173,
-        "isbn": null,
-        "upc": "76194137521205311",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Batman / Superman: World's Finest",
-        "volume_year": 2022
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-volume-4050-171015": {
-      "kind": "issue",
-      "title": "Batwoman #5",
-      "series_name": "Batwoman",
-      "issue_number": "5",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/19/2aefce55db6f4465bc89b891ca04c271.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-171015",
-        "metron_issue": 171593,
-        "metron_series": 15295,
-        "isbn": null,
-        "upc": "76194139217200511",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Batwoman",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-issue-4000-1179748": {
-      "kind": "issue",
-      "title": "Captain America #13",
-      "series_name": "Captain America",
-      "issue_number": "13",
-      "publisher": "Marvel",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/03/454c98ef5ffe432f88468ede4e8126fe.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": "4000-1179748",
-        "comicvine_volume": "4050-165232",
-        "metron_issue": 172099,
-        "metron_series": 12309,
-        "isbn": null,
-        "upc": "75960621146301311",
-        "gcd_id": 2850378,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Captain America",
-        "volume_year": 2025
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "cv-volume-4050-165540": {
-      "kind": "issue",
-      "title": "Catacomb of Torment #13",
-      "series_name": "Catacomb of Torment",
-      "issue_number": "13",
-      "publisher": "Oni Press",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/01/bbd1d044228b4b848f5df02483ca9ca3.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-165540",
-        "metron_issue": 170961,
-        "metron_series": 12334,
-        "isbn": null,
-        "upc": "64985600846601311",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Catacomb of Torment",
-        "volume_year": 2025
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-volume-4050-112028": {
-      "kind": "issue",
-      "title": "Catwoman #89",
-      "series_name": "Catwoman",
-      "issue_number": "89",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/19/f060662be9874520a5f56f42d79db024.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-112028",
-        "metron_issue": 171594,
-        "metron_series": 6,
-        "isbn": null,
-        "upc": "76194135682208911",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Catwoman",
-        "volume_year": 2018
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-volume-4050-170110": {
-      "kind": "issue",
-      "title": "Cyberpunk 2077: Chrome #4",
-      "series_name": "Cyberpunk 2077: Chrome",
-      "issue_number": "4",
-      "publisher": "Dark Horse Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/04/11/e3e032c565fe4b15a41aee29928da508.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-170110",
-        "metron_issue": 164476,
-        "metron_series": 14132,
-        "isbn": null,
-        "upc": "76156801484600411",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Cyberpunk 2077: Chrome",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "metron-issue-171595": {
-      "kind": "issue",
-      "title": "Dark Knights of Steel II #1",
-      "series_name": "Dark Knights of Steel II",
-      "issue_number": "1",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/19/468243c40afd43d7b96d31158e3d017d.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": null,
-        "metron_issue": 171595,
-        "metron_series": 16128,
-        "isbn": null,
-        "upc": "76194138408500111",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Dark Knights of Steel II",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": false
-      }
-    },
-    "cv-volume-4050-169122": {
-      "kind": "issue",
-      "title": "The Darkness #6",
-      "series_name": "The Darkness",
-      "issue_number": "6",
-      "publisher": "Image Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/05/b79888a0b417468c8056a1dcbb57119d.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-169122",
-        "metron_issue": 172206,
-        "metron_series": 13692,
-        "isbn": null,
-        "upc": "70985304537300611",
-        "gcd_id": 2851435,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "The Darkness",
-        "volume_year": 2025
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-volume-4050-161700": {
-      "kind": "issue",
-      "title": "Deadly Tales of the Gunslinger #16",
-      "series_name": "Deadly Tales of the Gunslinger",
-      "issue_number": "16",
-      "publisher": "Image Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2025/12/22/263b7371829f4633ab57827387a20a97.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-161700",
-        "metron_issue": 158864,
-        "metron_series": 9686,
-        "isbn": null,
-        "upc": "70985304169601611",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Deadly Tales of the Gunslinger",
-        "volume_year": 2024
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-volume-4050-171017": {
-      "kind": "issue",
-      "title": "Deathstroke: The Terminator #5",
-      "series_name": "Deathstroke: The Terminator",
-      "issue_number": "5",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/19/fe7b541ab02d483cba14f67524fca496.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-171017",
-        "metron_issue": 171596,
-        "metron_series": 15296,
-        "isbn": null,
-        "upc": "76194139721400511",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Deathstroke: The Terminator",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-volume-4050-130740": {
-      "kind": "issue",
-      "title": "The Department of Truth #38",
-      "series_name": "The Department of Truth",
-      "issue_number": "38",
-      "publisher": "Image Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/03/17/21691b061ca940da9002e1451723a77c.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-130740",
-        "metron_issue": 163754,
-        "metron_series": 1556,
-        "isbn": null,
-        "upc": "70985303032403811",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "The Department of Truth",
-        "volume_year": 2020
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-volume-4050-170661": {
-      "kind": "issue",
-      "title": "Disney Villains: Ursula #5",
-      "series_name": "Disney Villains: Ursula",
-      "issue_number": "5",
-      "publisher": "Dynamite Entertainment",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/04/11/390e3e612f7445e4863fb68ae0c4518e.jpg",
-      "release_date": "2026-07-08",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-170661",
-        "metron_issue": 164483,
-        "metron_series": 14506,
-        "isbn": null,
-        "upc": "72513036284105011",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Disney Villains: Ursula",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-volume-4050-170470": {
-      "kind": "issue",
-      "title": "D'Orc #6",
-      "series_name": "D'Orc",
-      "issue_number": "6",
-      "publisher": "Image Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/05/23/e53e99bd8661413e85f150986d27fc01.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-170470",
-        "metron_issue": 170553,
-        "metron_series": 14495,
-        "isbn": null,
-        "upc": "70985304572400611",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "D'Orc",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "metron-issue-172471": {
-      "kind": "issue",
-      "title": "100 Bullets: The US of Anger #2",
-      "series_name": "100 Bullets: The US of Anger",
-      "issue_number": "2",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/11/a3b541942183401491e50b2441d0a674.jpg",
-      "release_date": "2026-08-05",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": null,
-        "metron_issue": 172471,
-        "metron_series": 16016,
-        "isbn": null,
-        "upc": "76194139148900211",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "100 Bullets: The US of Anger",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": false
-      }
-    },
-    "cv-volume-4050-163145": {
-      "kind": "issue",
-      "title": "Absolute Green Lantern #17",
-      "series_name": "Absolute Green Lantern",
-      "issue_number": "17",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/11/5ae67df7cc994351b035460f4fd2f03d.jpg",
-      "release_date": "2026-08-05",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-163145",
-        "metron_issue": 172472,
-        "metron_series": 10959,
-        "isbn": null,
-        "upc": "76194138648501711",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Absolute Green Lantern",
-        "volume_year": 2025
       },
       "resolution": {
         "confidence": "partial",
@@ -3031,6 +2362,654 @@
         "issue_pending": true
       }
     },
+    "cv-volume-4050-163325": {
+      "kind": "issue",
+      "title": "The Amazing Spider-Man #33",
+      "series_name": "The Amazing Spider-Man",
+      "issue_number": "33",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/12/13e75a2be3ef429bae4d50f035248a9c.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-163325",
+        "metron_issue": 172488,
+        "metron_series": 10958,
+        "isbn": null,
+        "upc": "75960621001503311",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "The Amazing Spider-Man",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-168402": {
+      "kind": "issue",
+      "title": "American Caper #9",
+      "series_name": "American Caper",
+      "issue_number": "9",
+      "publisher": "Dark Horse Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/04/12/7a12b0855f864d12bb13aa197ee8b65d.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-168402",
+        "metron_issue": 164518,
+        "metron_series": 13273,
+        "isbn": null,
+        "upc": "76156801474700911",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "American Caper",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-172747": {
+      "kind": "issue",
+      "title": "Bad Thoughts #2",
+      "series_name": "Bad Thoughts",
+      "issue_number": "2",
+      "publisher": "Ignition Press",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/07/ecb65d14652140c2a3d54be9b2b1586f.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-172747",
+        "metron_issue": 171194,
+        "metron_series": 16028,
+        "isbn": null,
+        "upc": "81019628026702011",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Bad Thoughts",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170259": {
+      "kind": "issue",
+      "title": "The Beauty #7",
+      "series_name": "The Beauty",
+      "issue_number": "7",
+      "publisher": "Ignition Press",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/14/b0631fc34a114621967bb096991e8f57.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170259",
+        "metron_issue": 171400,
+        "metron_series": 16090,
+        "isbn": null,
+        "upc": "81019628007607011",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "The Beauty",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-170248": {
+      "kind": "issue",
+      "title": "Bloodland #5",
+      "series_name": "Bloodland",
+      "issue_number": "5",
+      "publisher": "Ignition Press",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/07/401d0678864c4473ab90ded1195f0ed9.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-170248",
+        "metron_issue": 171171,
+        "metron_series": 16024,
+        "isbn": null,
+        "upc": "81019628008305011",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Bloodland",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-issue-4000-495792": {
+      "kind": "issue",
+      "title": "Book of Death: Fall of Bloodshot #1",
+      "series_name": "Book of Death: Fall of Bloodshot",
+      "issue_number": "1",
+      "publisher": "Valiant",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/13/4698675-01a.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": "4000-495792",
+        "comicvine_volume": "4050-83441",
+        "metron_issue": 171384,
+        "metron_series": 16085,
+        "isbn": null,
+        "upc": "85899200332100111",
+        "gcd_id": 1443538,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Book of Death: Fall of Bloodshot",
+        "volume_year": 2015
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-168595": {
+      "kind": "issue",
+      "title": "Capes #9",
+      "series_name": "Capes",
+      "issue_number": "9",
+      "publisher": "Skybound",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/2a31db852d34458ebb5ef9c766107a58.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-168595",
+        "metron_issue": 169219,
+        "metron_series": 13281,
+        "isbn": null,
+        "upc": "70985304498700911",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Capes",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-issue-4000-1181750": {
+      "kind": "issue",
+      "title": "Captain Marvel: Dark Past #4",
+      "series_name": "Captain Marvel: Dark Past",
+      "issue_number": "4",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/12/9bb7020353144b2ab8b81cfff551d65b.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": "4000-1181750",
+        "comicvine_volume": "4050-171253",
+        "metron_issue": 172489,
+        "metron_series": 15415,
+        "isbn": null,
+        "upc": "75960621492100411",
+        "gcd_id": 2853011,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Captain Marvel: Dark Past",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-171581": {
+      "kind": "issue",
+      "title": "Corpse Knight #4",
+      "series_name": "Corpse Knight",
+      "issue_number": "4",
+      "publisher": "Skybound",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/71071ba98c5e43f5ae36ad819d4413de.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171581",
+        "metron_issue": 169221,
+        "metron_series": 15437,
+        "isbn": null,
+        "upc": "70985304630100411",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Corpse Knight",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-issue-4000-1181753": {
+      "kind": "issue",
+      "title": "Dark Knights of Steel: Heir to the Sea #1",
+      "series_name": "Dark Knights of Steel: Heir to the Sea",
+      "issue_number": "1",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/26/6e9e14f4013644d0892357be8742b2e6.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": "4000-1181753",
+        "comicvine_volume": "4050-175051",
+        "metron_issue": 171827,
+        "metron_series": 16166,
+        "isbn": null,
+        "upc": "76194139315500111",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Dark Knights of Steel: Heir to the Sea",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1181754": {
+      "kind": "issue",
+      "title": "Detective Comics #1111",
+      "series_name": "Detective Comics",
+      "issue_number": "1111",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/26/907d477d50f740f3897fbe46ecbfa4f8.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": "4000-1181754",
+        "comicvine_volume": "4050-91098",
+        "metron_issue": 171828,
+        "metron_series": 1510,
+        "isbn": null,
+        "upc": "76194134373011111",
+        "gcd_id": 2852938,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Detective Comics",
+        "volume_year": 2016
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-171772": {
+      "kind": "issue",
+      "title": "Dog Tag #3",
+      "series_name": "Dog Tag",
+      "issue_number": "3",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/01/fd95a973df164b38bde76fa4d8800592.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171772",
+        "metron_issue": 170980,
+        "metron_series": 15474,
+        "isbn": null,
+        "upc": "60196140533200311",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Dog Tag",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-issue-4000-1181757": {
+      "kind": "issue",
+      "title": "Dread the Hall H 2026 #1",
+      "series_name": "Dread the Hall H 2026",
+      "issue_number": "1",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/05/2b3ab5cebcfe4cf6abdc2c0cdd06f7e6.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": "4000-1181757",
+        "comicvine_volume": "4050-175053",
+        "metron_issue": 172230,
+        "metron_series": 16241,
+        "isbn": null,
+        "upc": "70985304787200111",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Dread the Hall H 2026",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1181758": {
+      "kind": "issue",
+      "title": "Dungeons & Dragons: Total Party Killers #1",
+      "series_name": "Dungeons & Dragons: Total Party Killers",
+      "issue_number": "1",
+      "publisher": "Dark Horse Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/05/431fd6dd1e8847eebae2db2dde89a088.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": "4000-1181758",
+        "comicvine_volume": "4050-175054",
+        "metron_issue": 172231,
+        "metron_series": 16242,
+        "isbn": null,
+        "upc": "76156801598000111",
+        "gcd_id": 2854002,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Dungeons & Dragons: Total Party Killers",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-171423": {
+      "kind": "issue",
+      "title": "Estuary: A Ghost Story #4",
+      "series_name": "Estuary: A Ghost Story",
+      "issue_number": "4",
+      "publisher": "Oni Press",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/7924ae55d1c44588886cc8c8cbfa29a7.jpg",
+      "release_date": "2026-07-01",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171423",
+        "metron_issue": 169271,
+        "metron_series": 15312,
+        "isbn": null,
+        "upc": "64985600926500411",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Estuary: A Ghost Story",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-171507": {
+      "kind": "issue",
+      "title": "Everyone Loves a Jewel Thief #3",
+      "series_name": "Everyone Loves a Jewel Thief",
+      "issue_number": "3",
+      "publisher": "Ignition Press",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/07/c1c1edfefcb44725a8e537a1144bb330.jpg",
+      "release_date": "2026-07-01",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171507",
+        "metron_issue": 171154,
+        "metron_series": 16021,
+        "isbn": null,
+        "upc": "81019628028103011",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Everyone Loves a Jewel Thief",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-160897": {
+      "kind": "issue",
+      "title": "Exit City #8",
+      "series_name": "Exit City",
+      "issue_number": "8",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/05/852c28152e3146deb26c2f402b0a14f7.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-160897",
+        "metron_issue": 172235,
+        "metron_series": 9025,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Exit City",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-168594": {
+      "kind": "issue",
+      "title": "Final Boss #8",
+      "series_name": "Final Boss",
+      "issue_number": "8",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/bc078e2e6fd0416ea2383b79e87ae7df.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-168594",
+        "metron_issue": 169231,
+        "metron_series": 13283,
+        "isbn": null,
+        "upc": "70985304494900811",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Final Boss",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-issue-4000-1181763": {
+      "kind": "issue",
+      "title": "The Flash #35",
+      "series_name": "The Flash",
+      "issue_number": "35",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/26/7dc632e8f8704e9a9e12eb4dce33cc65.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": "4000-1181763",
+        "comicvine_volume": "4050-153720",
+        "metron_issue": 171829,
+        "metron_series": 5587,
+        "isbn": null,
+        "upc": "76194138164003511",
+        "gcd_id": 2852971,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "The Flash",
+        "volume_year": 2023
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1181764": {
+      "kind": "issue",
+      "title": "Flash Gordon: Quarterly #8",
+      "series_name": "Flash Gordon: Quarterly",
+      "issue_number": "8",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/05/303323185dbc4838a4e814d756e2a0a1.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": "4000-1181764",
+        "comicvine_volume": "4050-159627",
+        "metron_issue": 172236,
+        "metron_series": 8370,
+        "isbn": null,
+        "upc": "60194704594100811",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Flash Gordon: Quarterly",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "metron-issue-172471": {
+      "kind": "issue",
+      "title": "100 Bullets: The US of Anger #2",
+      "series_name": "100 Bullets: The US of Anger",
+      "issue_number": "2",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/11/a3b541942183401491e50b2441d0a674.jpg",
+      "release_date": "2026-08-05",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": 172471,
+        "metron_series": 16016,
+        "isbn": null,
+        "upc": "76194139148900211",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "100 Bullets: The US of Anger",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-160294": {
+      "kind": "issue",
+      "title": "Absolute Batman #23",
+      "series_name": "Absolute Batman",
+      "issue_number": "23",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/17/abs-batman-23.jpg",
+      "release_date": "2026-08-12",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-160294",
+        "metron_issue": 172614,
+        "metron_series": 8477,
+        "isbn": null,
+        "upc": "76194138584602311",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Absolute Batman",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-172741": {
+      "kind": "issue",
+      "title": "Absolute Catwoman #3",
+      "series_name": "Absolute Catwoman",
+      "issue_number": "3",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/17/7773771e8e1d4dce9c032e161247796d.jpg",
+      "release_date": "2026-08-12",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-172741",
+        "metron_issue": 172615,
+        "metron_series": 15845,
+        "isbn": null,
+        "upc": "76194139423700311",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Absolute Catwoman",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-163145": {
+      "kind": "issue",
+      "title": "Absolute Green Lantern #17",
+      "series_name": "Absolute Green Lantern",
+      "issue_number": "17",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/11/5ae67df7cc994351b035460f4fd2f03d.jpg",
+      "release_date": "2026-08-05",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-163145",
+        "metron_issue": 172472,
+        "metron_series": 10959,
+        "isbn": null,
+        "upc": "76194138648501711",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Absolute Green Lantern",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
     "cv-volume-4050-166618": {
       "kind": "issue",
       "title": "Adventures of Superman: The Book of El #11",
@@ -3051,6 +3030,33 @@
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Adventures of Superman: The Book of El",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": true
+      }
+    },
+    "cv-volume-4050-163334": {
+      "kind": "issue",
+      "title": "Adventure Time #16",
+      "series_name": "Adventure Time",
+      "issue_number": "16",
+      "publisher": "Oni Press",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/01/c314837fb4144110af861e6c7b1784d0.jpg",
+      "release_date": "2026-08-19",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-163334",
+        "metron_issue": 170960,
+        "metron_series": 11302,
+        "isbn": null,
+        "upc": "64985600832916011",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Adventure Time",
         "volume_year": 2025
       },
       "resolution": {
@@ -3193,53 +3199,53 @@
         "issue_pending": true
       }
     },
-    "cv-volume-4050-163325": {
+    "cv-volume-4050-172742": {
       "kind": "issue",
-      "title": "The Amazing Spider-Man #33",
-      "series_name": "The Amazing Spider-Man",
-      "issue_number": "33",
-      "publisher": "Marvel",
+      "title": "Altered States: Warlords #3",
+      "series_name": "Altered States: Warlords",
+      "issue_number": "3",
+      "publisher": "Dynamite Entertainment",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/12/13e75a2be3ef429bae4d50f035248a9c.jpg",
-      "release_date": "2026-07-22",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/23/7281139190154b12a52bdc7249f78bba.jpg",
+      "release_date": "2026-08-19",
       "ids": {
         "comicvine_issue": null,
-        "comicvine_volume": "4050-163325",
-        "metron_issue": 172488,
-        "metron_series": 10958,
+        "comicvine_volume": "4050-172742",
+        "metron_issue": 170546,
+        "metron_series": 15884,
         "isbn": null,
-        "upc": "75960621001503311",
+        "upc": "72513036535403011",
         "gcd_id": null,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "The Amazing Spider-Man",
-        "volume_year": 2025
+        "series_name": "Altered States: Warlords",
+        "volume_year": 2026
       },
       "resolution": {
         "confidence": "partial",
         "issue_pending": true
       }
     },
-    "cv-volume-4050-168402": {
+    "cv-volume-4050-169560": {
       "kind": "issue",
-      "title": "American Caper #9",
-      "series_name": "American Caper",
-      "issue_number": "9",
-      "publisher": "Dark Horse Comics",
+      "title": "Arcadia #7",
+      "series_name": "Arcadia",
+      "issue_number": "7",
+      "publisher": "Ignition Press",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/04/12/7a12b0855f864d12bb13aa197ee8b65d.jpg",
-      "release_date": "2026-07-22",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/20/666c7ad629f340eaa9382dbc4feb0f97.jpg",
+      "release_date": "2026-08-19",
       "ids": {
         "comicvine_issue": null,
-        "comicvine_volume": "4050-168402",
-        "metron_issue": 164518,
-        "metron_series": 13273,
+        "comicvine_volume": "4050-169560",
+        "metron_issue": 171673,
+        "metron_series": 16146,
         "isbn": null,
-        "upc": "76156801474700911",
+        "upc": "81019628005207011",
         "gcd_id": null,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "American Caper",
+        "series_name": "Arcadia",
         "volume_year": 2025
       },
       "resolution": {
@@ -3301,26 +3307,53 @@
         "issue_pending": true
       }
     },
-    "cv-volume-4050-172747": {
+    "metron-issue-172204": {
       "kind": "issue",
-      "title": "Bad Thoughts #2",
-      "series_name": "Bad Thoughts",
+      "title": "Badrock #2",
+      "series_name": "Badrock",
       "issue_number": "2",
-      "publisher": "Ignition Press",
+      "publisher": "Image Comics",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/07/ecb65d14652140c2a3d54be9b2b1586f.jpg",
-      "release_date": "2026-07-22",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/05/c7896e3922e64487b7cca208a909b4e7.jpg",
+      "release_date": "2026-08-19",
       "ids": {
         "comicvine_issue": null,
-        "comicvine_volume": "4050-172747",
-        "metron_issue": 171194,
-        "metron_series": 16028,
+        "comicvine_volume": null,
+        "metron_issue": 172204,
+        "metron_series": 16233,
         "isbn": null,
-        "upc": "81019628026702011",
+        "upc": "70985304712400211",
         "gcd_id": null,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "Bad Thoughts",
+        "series_name": "Badrock",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-171903": {
+      "kind": "issue",
+      "title": "Barbara Gordon: Breakout #4",
+      "series_name": "Barbara Gordon: Breakout",
+      "issue_number": "4",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/17/c3f55535dcab48a78d17b8bef461d05e.jpg",
+      "release_date": "2026-08-12",
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-171903",
+        "metron_issue": 172617,
+        "metron_series": 15616,
+        "isbn": null,
+        "upc": "76194139424400411",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Barbara Gordon: Breakout",
         "volume_year": 2026
       },
       "resolution": {
@@ -3382,112 +3415,166 @@
         "issue_pending": true
       }
     },
-    "metron-issue-172109": {
+    "cv-issue-4000-1181822": {
       "kind": "issue",
-      "title": "Batman / Superman: World's Finest 2026 Annual #1",
-      "series_name": "Batman / Superman: World's Finest 2026 Annual",
-      "issue_number": "1",
-      "publisher": "DC Comics",
+      "title": "Uncanny X-Men #32",
+      "series_name": "Uncanny X-Men",
+      "issue_number": "32",
+      "publisher": "Marvel",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/03/032d0d17cd2844a88ac9ab590cff5338.jpg",
-      "release_date": "2026-07-29",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": null,
-        "metron_issue": 172109,
-        "metron_series": 16216,
-        "isbn": null,
-        "upc": "76194139690300111",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Batman / Superman: World's Finest 2026 Annual",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": false
-      }
-    },
-    "metron-issue-171611": {
-      "kind": "issue",
-      "title": "Beast of Borikén #2",
-      "series_name": "Beast of Borikén",
-      "issue_number": "2",
-      "publisher": "Dark Horse Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/19/3403d20d40524a19b9968265c5d909e9.jpg",
-      "release_date": "2026-08-12",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": null,
-        "metron_issue": 171611,
-        "metron_series": 16132,
-        "isbn": null,
-        "upc": "76156801560700211",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Beast of Borikén",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": false
-      }
-    },
-    "cv-volume-4050-170259": {
-      "kind": "issue",
-      "title": "The Beauty #7",
-      "series_name": "The Beauty",
-      "issue_number": "7",
-      "publisher": "Ignition Press",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/14/b0631fc34a114621967bb096991e8f57.jpg",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/12/056fc1cdf8d84acf9c444d3197b39a7a.jpg",
       "release_date": "2026-07-22",
       "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-170259",
-        "metron_issue": 171400,
-        "metron_series": 16090,
+        "comicvine_issue": "4000-1181822",
+        "comicvine_volume": "4050-159189",
+        "metron_issue": 172496,
+        "metron_series": 8106,
         "isbn": null,
-        "upc": "81019628007607011",
-        "gcd_id": null,
+        "upc": "75960620917003211",
+        "gcd_id": 2852968,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "The Beauty",
-        "volume_year": 2025
+        "series_name": "Uncanny X-Men",
+        "volume_year": 2024
       },
       "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
+        "confidence": "high",
+        "issue_pending": false
       }
     },
-    "cv-volume-4050-171767": {
+    "cv-issue-4000-1181799": {
       "kind": "issue",
-      "title": "Ben 10 #4",
-      "series_name": "Ben 10",
-      "issue_number": "4",
-      "publisher": "Dynamite Entertainment",
+      "title": "Spider-Man: Long Way Home #2",
+      "series_name": "Spider-Man: Long Way Home",
+      "issue_number": "2",
+      "publisher": "Marvel",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/05/23/8a3c29e982d74cb9b4af3cedd88afcc6.jpg",
-      "release_date": "2026-08-05",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/12/5be0303c2aeb4e3bbecbd3516b22cdf7.jpg",
+      "release_date": "2026-07-22",
       "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-171767",
-        "metron_issue": 170549,
-        "metron_series": 15473,
+        "comicvine_issue": "4000-1181799",
+        "comicvine_volume": "4050-173101",
+        "metron_issue": 172495,
+        "metron_series": 16053,
         "isbn": null,
-        "upc": "72513036343504011",
-        "gcd_id": null,
+        "upc": "75960621579900211",
+        "gcd_id": 2852974,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "Ben 10",
+        "series_name": "Spider-Man: Long Way Home",
         "volume_year": 2026
       },
       "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1181769": {
+      "kind": "issue",
+      "title": "Godzilla Conquers the Multiverse #1",
+      "series_name": "Godzilla Conquers the Multiverse",
+      "issue_number": "1",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/12/b7460f94f9bb473da80ba1ac4da41e11.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": "4000-1181769",
+        "comicvine_volume": "4050-175059",
+        "metron_issue": 172491,
+        "metron_series": 16282,
+        "isbn": null,
+        "upc": "75960621495200111",
+        "gcd_id": 2853014,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Godzilla Conquers the Multiverse",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1181785": {
+      "kind": "issue",
+      "title": "Moonstar #5",
+      "series_name": "Moonstar",
+      "issue_number": "5",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/12/26d6c85af03145e9bce85a1781e2493b.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": "4000-1181785",
+        "comicvine_volume": "4050-170790",
+        "metron_issue": 172494,
+        "metron_series": 15292,
+        "isbn": null,
+        "upc": "75960621358000511",
+        "gcd_id": 2853010,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Moonstar",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1181765": {
+      "kind": "issue",
+      "title": "Gambit: Wanted #1",
+      "series_name": "Gambit: Wanted",
+      "issue_number": "1",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/12/4d400387013a4f8aa159b30f297deda5.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": "4000-1181765",
+        "comicvine_volume": "4050-175055",
+        "metron_issue": 172490,
+        "metron_series": 16281,
+        "isbn": null,
+        "upc": "75960621622200111",
+        "gcd_id": 2853012,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Gambit: Wanted",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1181771": {
+      "kind": "issue",
+      "title": "Green Lantern #37",
+      "series_name": "Green Lantern",
+      "issue_number": "37",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/26/4a61a20a8c3440c982d971626eb6df11.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": "4000-1181771",
+        "comicvine_volume": "4050-150172",
+        "metron_issue": 171830,
+        "metron_series": 4913,
+        "isbn": null,
+        "upc": "76194138023003711",
+        "gcd_id": 2852999,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Green Lantern",
+        "volume_year": 2023
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
       }
     },
     "rss-487d025d1691": {
@@ -3571,220 +3658,31 @@
         "issue_pending": true
       }
     },
-    "cv-volume-4050-92569": {
+    "cv-volume-4050-170470": {
       "kind": "issue",
-      "title": "Nightwing #140",
-      "series_name": "Nightwing",
-      "issue_number": "140",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/19/f6deda9296584a0f808e661f65d3eb21.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-92569",
-        "metron_issue": 171600,
-        "metron_series": 981,
-        "isbn": null,
-        "upc": "76194134174314011",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Nightwing",
-        "volume_year": 2016
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-issue-4000-1179750": {
-      "kind": "issue",
-      "title": "The Infernal Hulk #9",
-      "series_name": "The Infernal Hulk",
-      "issue_number": "9",
-      "publisher": "Marvel",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/03/0448c85c1d074823a12262f8bc31987b.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": "4000-1179750",
-        "comicvine_volume": "4050-168725",
-        "metron_issue": 172101,
-        "metron_series": 13913,
-        "isbn": null,
-        "upc": "75960621361000911",
-        "gcd_id": 2850478,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "The Infernal Hulk",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "cv-issue-4000-1177830": {
-      "kind": "issue",
-      "title": "Transformers #34",
-      "series_name": "Transformers",
-      "issue_number": "34",
-      "publisher": "Skybound",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/28/a9e05ad1c233465a85f6b0208289c597.jpg",
-      "release_date": "2026-07-08",
-      "ids": {
-        "comicvine_issue": "4000-1177830",
-        "comicvine_volume": "4050-153968",
-        "metron_issue": 171922,
-        "metron_series": 5801,
-        "isbn": null,
-        "upc": "70985303861003411",
-        "gcd_id": 2849160,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Transformers",
-        "volume_year": 2023
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "metron-issue-171813": {
-      "kind": "issue",
-      "title": "It's Symbie #1",
-      "series_name": "It's Symbie",
-      "issue_number": "1",
-      "publisher": "Marvel",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/23/e02bfa64ba9349dab46650d0ec953411.jpg",
-      "release_date": "2026-07-08",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": null,
-        "metron_issue": 171813,
-        "metron_series": 16162,
-        "isbn": null,
-        "upc": "75960621672700111",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "It's Symbie",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": false
-      }
-    },
-    "cv-volume-4050-162400": {
-      "kind": "issue",
-      "title": "Green Lantern Corps #18",
-      "series_name": "Green Lantern Corps",
-      "issue_number": "18",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/14/937e8d90bfaa48679608e16f1ce4352b.jpg",
-      "release_date": "2026-07-08",
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-162400",
-        "metron_issue": 171421,
-        "metron_series": 9867,
-        "isbn": null,
-        "upc": "76194138905901811",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Green Lantern Corps",
-        "volume_year": 2025
-      },
-      "resolution": {
-        "confidence": "partial",
-        "issue_pending": true
-      }
-    },
-    "cv-issue-4000-1177780": {
-      "kind": "issue",
-      "title": "DIE: Loaded #7",
-      "series_name": "DIE: Loaded",
-      "issue_number": "7",
+      "title": "D'Orc #6",
+      "series_name": "D'Orc",
+      "issue_number": "6",
       "publisher": "Image Comics",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/04/16d4ff3583f945d19db460b05f7c1fea.jpg",
-      "release_date": "2026-07-08",
-      "ids": {
-        "comicvine_issue": "4000-1177780",
-        "comicvine_volume": "4050-168405",
-        "metron_issue": 172193,
-        "metron_series": 13276,
-        "isbn": null,
-        "upc": "70985304496300711",
-        "gcd_id": 2849713,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "DIE: Loaded",
-        "volume_year": 2025
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "cv-volume-4050-166313": {
-      "kind": "issue",
-      "title": "Black Cat #12",
-      "series_name": "Black Cat",
-      "issue_number": "12",
-      "publisher": "Marvel",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/23/72d25139d8db42f6bf7a8e82de8e662d.jpg",
-      "release_date": "2026-07-08",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/23/e53e99bd8661413e85f150986d27fc01.jpg",
+      "release_date": "2026-07-15",
       "ids": {
         "comicvine_issue": null,
-        "comicvine_volume": "4050-166313",
-        "metron_issue": 171809,
-        "metron_series": 12746,
+        "comicvine_volume": "4050-170470",
+        "metron_issue": 170553,
+        "metron_series": 14495,
         "isbn": null,
-        "upc": "75960621252101211",
+        "upc": "70985304572400611",
         "gcd_id": null,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "Black Cat",
-        "volume_year": 2025
+        "series_name": "D'Orc",
+        "volume_year": 2026
       },
       "resolution": {
         "confidence": "partial",
         "issue_pending": true
-      }
-    },
-    "cv-volume-4050-4691": {
-      "kind": "series",
-      "title": "Bone",
-      "series_name": "Bone",
-      "issue_number": null,
-      "publisher": "Cartoon Books",
-      "format": null,
-      "cover_url": "https://static.metron.cloud/media/issue/2019/01/21/bone-1.jpg",
-      "release_date": null,
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-4691",
-        "metron_issue": null,
-        "metron_series": 119,
-        "isbn": null,
-        "upc": null,
-        "gcd_id": 4347,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Bone",
-        "volume_year": 1991
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
       }
     },
     "cv-volume-4050-17993": {
@@ -3841,81 +3739,54 @@
         "issue_pending": false
       }
     },
-    "cv-issue-4000-1177826": {
+    "metron-series-8527": {
+      "kind": "series",
+      "title": "Sweet Tooth",
+      "series_name": "Sweet Tooth",
+      "issue_number": null,
+      "publisher": "DC Comics",
+      "format": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2024/09/30/Sweet_Tooth_Vol_1_1.webp",
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": 8527,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 39148,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Sweet Tooth",
+        "volume_year": 2009
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1177814": {
       "kind": "issue",
-      "title": "Star-Crossed #1",
-      "series_name": "Star-Crossed",
+      "title": "Operation: Iron Coffin #1",
+      "series_name": "Operation: Iron Coffin",
       "issue_number": "1",
-      "publisher": "Dark Horse Comics",
+      "publisher": "IDW Publishing",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/28/cb7fea036e794d6f8f086c16dc2e024f.jpg",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/28/5bad32e60be947b28d3a3e68c6f768bf.jpg",
       "release_date": "2026-07-08",
       "ids": {
-        "comicvine_issue": "4000-1177826",
-        "comicvine_volume": "4050-174213",
-        "metron_issue": 171919,
-        "metron_series": 16187,
+        "comicvine_issue": "4000-1177814",
+        "comicvine_volume": "4050-174210",
+        "metron_issue": 171907,
+        "metron_series": 16184,
         "isbn": null,
-        "upc": "76156801222400111",
-        "gcd_id": 2849783,
+        "upc": "82771403546900111",
+        "gcd_id": 2849800,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "Star-Crossed",
+        "series_name": "Operation: Iron Coffin",
         "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "cv-issue-4000-1171923": {
-      "kind": "issue",
-      "title": "End of Life #5",
-      "series_name": "End of Life",
-      "issue_number": "5",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/a5e12db38832478b87d90c82cbe2acd6.jpg",
-      "release_date": "2026-06-17",
-      "ids": {
-        "comicvine_issue": "4000-1171923",
-        "comicvine_volume": "4050-170590",
-        "metron_issue": 170830,
-        "metron_series": 14910,
-        "isbn": null,
-        "upc": "76194138553200511",
-        "gcd_id": 2843107,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "End of Life",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "cv-issue-4000-1179900": {
-      "kind": "issue",
-      "title": "X-Men #33",
-      "series_name": "X-Men",
-      "issue_number": "33",
-      "publisher": "Marvel",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/03/3a1acc9171c44e56b5975f0a9b2250dc.jpg",
-      "release_date": "2026-07-15",
-      "ids": {
-        "comicvine_issue": "4000-1179900",
-        "comicvine_volume": "4050-158814",
-        "metron_issue": 172104,
-        "metron_series": 7914,
-        "isbn": null,
-        "upc": "75960620920003311",
-        "gcd_id": 2850493,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "X-Men",
-        "volume_year": 2024
       },
       "resolution": {
         "confidence": "high",
@@ -3949,80 +3820,26 @@
         "issue_pending": false
       }
     },
-    "cv-issue-4000-1172014": {
+    "cv-issue-4000-1179881": {
       "kind": "issue",
-      "title": "Star Trek: The Last Starship #8",
-      "series_name": "Star Trek: The Last Starship",
-      "issue_number": "8",
-      "publisher": "IDW Publishing",
+      "title": "Kingdom of Earth #1",
+      "series_name": "Kingdom of Earth",
+      "issue_number": "1",
+      "publisher": "Dark Horse Comics",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/01/545197cecb91482a9de0f20b7bbf349f.jpg",
-      "release_date": "2026-06-17",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/05/ddad7f5488864e99a644875e4be190fd.jpg",
+      "release_date": "2026-07-15",
       "ids": {
-        "comicvine_issue": "4000-1172014",
-        "comicvine_volume": "4050-167195",
-        "metron_issue": 171072,
-        "metron_series": 13216,
+        "comicvine_issue": "4000-1179881",
+        "comicvine_volume": "4050-174642",
+        "metron_issue": 172209,
+        "metron_series": 16234,
         "isbn": null,
-        "upc": "82771403458500811",
-        "gcd_id": 2844235,
+        "upc": "76156801566900111",
+        "gcd_id": 2851635,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "Star Trek: The Last Starship",
-        "volume_year": 2025
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "cv-issue-4000-1175673": {
-      "kind": "issue",
-      "title": "The City Beneath Her Feet #3",
-      "series_name": "The City Beneath Her Feet",
-      "issue_number": "3",
-      "publisher": "DSTLRY",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2025/11/10/627df76645df46f7a75405188b1785a4.jpg",
-      "release_date": "2026-07-01",
-      "ids": {
-        "comicvine_issue": "4000-1175673",
-        "comicvine_volume": "4050-161626",
-        "metron_issue": 157036,
-        "metron_series": 9610,
-        "isbn": null,
-        "upc": "61499847361800311",
-        "gcd_id": null,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "The City Beneath Her Feet",
-        "volume_year": 2024
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "cv-issue-4000-1171992": {
-      "kind": "issue",
-      "title": "If Destruction Be Our Lot #2",
-      "series_name": "If Destruction Be Our Lot",
-      "issue_number": "2",
-      "publisher": "Image Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/03/24/0aeba235c4db46a79a0c872059931d55.jpg",
-      "release_date": "2026-06-17",
-      "ids": {
-        "comicvine_issue": "4000-1171992",
-        "comicvine_volume": "4050-171776",
-        "metron_issue": 163964,
-        "metron_series": 15477,
-        "isbn": null,
-        "upc": "70985304616500211",
-        "gcd_id": 2844151,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "If Destruction Be Our Lot",
+        "series_name": "Kingdom of Earth",
         "volume_year": 2026
       },
       "resolution": {
@@ -4057,26 +3874,107 @@
         "issue_pending": false
       }
     },
-    "cv-issue-4000-1177814": {
+    "cv-issue-4000-1171923": {
       "kind": "issue",
-      "title": "Operation: Iron Coffin #1",
-      "series_name": "Operation: Iron Coffin",
-      "issue_number": "1",
-      "publisher": "IDW Publishing",
+      "title": "End of Life #5",
+      "series_name": "End of Life",
+      "issue_number": "5",
+      "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/28/5bad32e60be947b28d3a3e68c6f768bf.jpg",
-      "release_date": "2026-07-08",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/a5e12db38832478b87d90c82cbe2acd6.jpg",
+      "release_date": "2026-06-17",
       "ids": {
-        "comicvine_issue": "4000-1177814",
-        "comicvine_volume": "4050-174210",
-        "metron_issue": 171907,
-        "metron_series": 16184,
+        "comicvine_issue": "4000-1171923",
+        "comicvine_volume": "4050-170590",
+        "metron_issue": 170830,
+        "metron_series": 14910,
         "isbn": null,
-        "upc": "82771403546900111",
-        "gcd_id": 2849800,
+        "upc": "76194138553200511",
+        "gcd_id": 2843107,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "Operation: Iron Coffin",
+        "series_name": "End of Life",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1175673": {
+      "kind": "issue",
+      "title": "The City Beneath Her Feet #3",
+      "series_name": "The City Beneath Her Feet",
+      "issue_number": "3",
+      "publisher": "DSTLRY",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2025/11/10/627df76645df46f7a75405188b1785a4.jpg",
+      "release_date": "2026-07-01",
+      "ids": {
+        "comicvine_issue": "4000-1175673",
+        "comicvine_volume": "4050-161626",
+        "metron_issue": 157036,
+        "metron_series": 9610,
+        "isbn": null,
+        "upc": "61499847361800311",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "The City Beneath Her Feet",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1177850": {
+      "kind": "issue",
+      "title": "Witness Point #1",
+      "series_name": "Witness Point",
+      "issue_number": "1",
+      "publisher": "Dark Horse Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/28/1be0ab03ed1d4b64ac75ce1ca5bbd5d2.jpg",
+      "release_date": "2026-07-08",
+      "ids": {
+        "comicvine_issue": "4000-1177850",
+        "comicvine_volume": "4050-174216",
+        "metron_issue": 171931,
+        "metron_series": 16189,
+        "isbn": null,
+        "upc": "76156801596600111",
+        "gcd_id": 2849782,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Witness Point",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1177826": {
+      "kind": "issue",
+      "title": "Star-Crossed #1",
+      "series_name": "Star-Crossed",
+      "issue_number": "1",
+      "publisher": "Dark Horse Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/28/cb7fea036e794d6f8f086c16dc2e024f.jpg",
+      "release_date": "2026-07-08",
+      "ids": {
+        "comicvine_issue": "4000-1177826",
+        "comicvine_volume": "4050-174213",
+        "metron_issue": 171919,
+        "metron_series": 16187,
+        "isbn": null,
+        "upc": "76156801222400111",
+        "gcd_id": 2849783,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Star-Crossed",
         "volume_year": 2026
       },
       "resolution": {
@@ -4158,6 +4056,60 @@
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Justice League: Dream Girls – A DC Pride Event",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1171992": {
+      "kind": "issue",
+      "title": "If Destruction Be Our Lot #2",
+      "series_name": "If Destruction Be Our Lot",
+      "issue_number": "2",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/03/24/0aeba235c4db46a79a0c872059931d55.jpg",
+      "release_date": "2026-06-17",
+      "ids": {
+        "comicvine_issue": "4000-1171992",
+        "comicvine_volume": "4050-171776",
+        "metron_issue": 163964,
+        "metron_series": 15477,
+        "isbn": null,
+        "upc": "70985304616500211",
+        "gcd_id": 2844151,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "If Destruction Be Our Lot",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1181818": {
+      "kind": "issue",
+      "title": "Terminal #1",
+      "series_name": "Terminal",
+      "issue_number": "1",
+      "publisher": "Skybound",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/05/b1b3a52f9b2c48f28246ef77d8e01ffd.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": "4000-1181818",
+        "comicvine_volume": "4050-175072",
+        "metron_issue": 172244,
+        "metron_series": 16248,
+        "isbn": null,
+        "upc": "70985304760500111",
+        "gcd_id": 2853854,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Terminal",
         "volume_year": 2026
       },
       "resolution": {
@@ -4300,26 +4252,53 @@
         "issue_pending": false
       }
     },
-    "cv-issue-4000-1171917": {
+    "cv-issue-4000-1181814": {
       "kind": "issue",
-      "title": "Absolute Flash #16",
-      "series_name": "Absolute Flash",
-      "issue_number": "16",
+      "title": "Superman #40",
+      "series_name": "Superman",
+      "issue_number": "40",
       "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/00bf9e127ff64c5191aeade0d1cdac11.jpg",
-      "release_date": "2026-06-17",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/26/20e50b01a98b409084283929ac906f8b.jpg",
+      "release_date": "2026-07-22",
       "ids": {
-        "comicvine_issue": "4000-1171917",
-        "comicvine_volume": "4050-162847",
-        "metron_issue": 170824,
-        "metron_series": 10354,
+        "comicvine_issue": "4000-1181814",
+        "comicvine_volume": "4050-148476",
+        "metron_issue": 171834,
+        "metron_series": 4158,
         "isbn": null,
-        "upc": "76194138792501611",
-        "gcd_id": 2843101,
+        "upc": "76194137950004011",
+        "gcd_id": 2852947,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "Absolute Flash",
+        "series_name": "Superman",
+        "volume_year": 2023
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1181780": {
+      "kind": "issue",
+      "title": "Justice League Unlimited #21",
+      "series_name": "Justice League Unlimited",
+      "issue_number": "21",
+      "publisher": "DC Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/26/0f4b9fdefdb54d9d8d4afeda589b3e8c.jpg",
+      "release_date": "2026-07-22",
+      "ids": {
+        "comicvine_issue": "4000-1181780",
+        "comicvine_volume": "4050-161311",
+        "metron_issue": 171832,
+        "metron_series": 9044,
+        "isbn": null,
+        "upc": "76194138573002111",
+        "gcd_id": 2852945,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Justice League Unlimited",
         "volume_year": 2025
       },
       "resolution": {
@@ -4327,81 +4306,108 @@
         "issue_pending": false
       }
     },
-    "cv-issue-4000-1171919": {
+    "cv-issue-4000-1179900": {
       "kind": "issue",
-      "title": "Batman / Superman: World's Finest #52",
-      "series_name": "Batman / Superman: World's Finest",
-      "issue_number": "52",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/572127fbf7ee497183386657fd2a521c.jpg",
-      "release_date": "2026-06-17",
-      "ids": {
-        "comicvine_issue": "4000-1171919",
-        "comicvine_volume": "4050-141907",
-        "metron_issue": 170826,
-        "metron_series": 3173,
-        "isbn": null,
-        "upc": "76194137521205241",
-        "gcd_id": 2842998,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Batman / Superman: World's Finest",
-        "volume_year": 2022
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "cv-issue-4000-1171921": {
-      "kind": "issue",
-      "title": "Catwoman #88",
-      "series_name": "Catwoman",
-      "issue_number": "88",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/05/28/436203f1322647aa812421d06ad75ed1.jpg",
-      "release_date": "2026-06-17",
-      "ids": {
-        "comicvine_issue": "4000-1171921",
-        "comicvine_volume": "4050-112028",
-        "metron_issue": 170828,
-        "metron_series": 6,
-        "isbn": null,
-        "upc": "76194135682208811",
-        "gcd_id": 2842932,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Catwoman",
-        "volume_year": 2018
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "cv-issue-4000-1171939": {
-      "kind": "issue",
-      "title": "Uncanny X-Men #30",
-      "series_name": "Uncanny X-Men",
-      "issue_number": "30",
+      "title": "X-Men #33",
+      "series_name": "X-Men",
+      "issue_number": "33",
       "publisher": "Marvel",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/06/08/9ecff432dd7f482abb43a4d7308b7bc7.jpg",
-      "release_date": "2026-06-17",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/03/3a1acc9171c44e56b5975f0a9b2250dc.jpg",
+      "release_date": "2026-07-15",
       "ids": {
-        "comicvine_issue": "4000-1171939",
-        "comicvine_volume": "4050-159189",
-        "metron_issue": 171294,
-        "metron_series": 8106,
+        "comicvine_issue": "4000-1179900",
+        "comicvine_volume": "4050-158814",
+        "metron_issue": 172104,
+        "metron_series": 7914,
         "isbn": null,
-        "upc": "75960620917003011",
-        "gcd_id": 2843000,
+        "upc": "75960620920003311",
+        "gcd_id": 2850493,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "Uncanny X-Men",
+        "series_name": "X-Men",
         "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1179748": {
+      "kind": "issue",
+      "title": "Captain America #13",
+      "series_name": "Captain America",
+      "issue_number": "13",
+      "publisher": "Marvel",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/03/454c98ef5ffe432f88468ede4e8126fe.jpg",
+      "release_date": "2026-07-15",
+      "ids": {
+        "comicvine_issue": "4000-1179748",
+        "comicvine_volume": "4050-165232",
+        "metron_issue": 172099,
+        "metron_series": 12309,
+        "isbn": null,
+        "upc": "75960621146301311",
+        "gcd_id": 2850378,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Captain America",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1179867": {
+      "kind": "issue",
+      "title": "Assorted Crisis Events #9",
+      "series_name": "Assorted Crisis Events",
+      "issue_number": "9",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/02/06/2e4b15daace34b96b8bf489a00af6d95.jpg",
+      "release_date": "2026-07-15",
+      "ids": {
+        "comicvine_issue": "4000-1179867",
+        "comicvine_volume": "4050-162682",
+        "metron_issue": 162274,
+        "metron_series": 10451,
+        "isbn": null,
+        "upc": "70985304268600911",
+        "gcd_id": 2851434,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Assorted Crisis Events",
+        "volume_year": 2025
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1177830": {
+      "kind": "issue",
+      "title": "Transformers #34",
+      "series_name": "Transformers",
+      "issue_number": "34",
+      "publisher": "Skybound",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/06/28/a9e05ad1c233465a85f6b0208289c597.jpg",
+      "release_date": "2026-07-08",
+      "ids": {
+        "comicvine_issue": "4000-1177830",
+        "comicvine_volume": "4050-153968",
+        "metron_issue": 171922,
+        "metron_series": 5801,
+        "isbn": null,
+        "upc": "70985303861003411",
+        "gcd_id": 2849160,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Transformers",
+        "volume_year": 2023
       },
       "resolution": {
         "confidence": "high",

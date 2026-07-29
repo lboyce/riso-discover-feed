@@ -2,6 +2,87 @@
   "groups": {
     "aipt-reviews": [
       {
+        "url": "https://aiptcomics.com/2026/07/29/vampire-survivors-1-review/",
+        "series": "Vampire Survivors",
+        "issue": "1",
+        "published": "2026-07-29",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/vampire-survivors.jpg?fit=1280%2C1119&amp;ssl=1",
+        "summary": "Fast, frantic, and packed with monster-slaying spectacle.",
+        "first_seen": "2026-07-29"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/29/dcs-hawk-girl-summer-1-review/",
+        "series": "DC’s Hawk-Girl Summer",
+        "issue": "1",
+        "published": "2026-07-29",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/91M9IJTroaL._SL1500_.jpg?fit=1280%2C913&amp;ssl=1",
+        "summary": "Hawk-Girl Summer is precisely that: a spicy read filled with sunshine, scandals, and superheroes.",
+        "first_seen": "2026-07-29"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/29/the-patron-1-review/",
+        "series": "The Patron",
+        "issue": "1",
+        "published": "2026-07-29",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/The-Patron-cover-a.jpg?fit=1200%2C800&amp;ssl=1",
+        "summary": "This issue takes on the trope of an artist dying before their prime in a horrifying way.",
+        "first_seen": "2026-07-29"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/29/feral-25-review/",
+        "series": "Feral",
+        "issue": "25",
+        "published": "2026-07-29",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/Feral-25-COVER-scaled.jpg?fit=2560%2C1942&amp;ssl=1",
+        "summary": "An effective conclusion to the 'Feral'/'Stray Dogs' crossover.",
+        "first_seen": "2026-07-29"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/29/bishop-2-review/",
+        "series": "Bishop",
+        "issue": "2",
+        "published": "2026-07-29",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81mdJQGgNFL._SL1500_.jpg?fit=1280%2C963&amp;ssl=1",
+        "summary": "The story just hasn't found a gear that excites me for the next issue.",
+        "first_seen": "2026-07-29"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/29/x-men-outback-2-review/",
+        "series": "X-Men: Outback",
+        "issue": "2",
+        "published": "2026-07-29",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/91YMMheryaL._SL1500_.jpg?fit=1280%2C1011&amp;ssl=1",
+        "summary": "This is one of the best X-books on the shelves.",
+        "first_seen": "2026-07-29"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/29/queen-in-black-1-review/",
+        "series": "Queen in Black",
+        "issue": "1",
+        "published": "2026-07-29",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/QUEENINBLACK2026001_Cover-scaled-copy.jpg?fit=1349%2C1083&amp;ssl=1",
+        "summary": "An explosive first chapter that delivers everything a major Marvel event should.",
+        "first_seen": "2026-07-29"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/29/queen-in-black-defenders-of-light-and-dark-1-review/",
+        "series": "Queen in Black: Defenders of Light and Dark",
+        "issue": "1",
+        "published": "2026-07-29",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/queen-in-black-dark-and-light.jpg?fit=1280%2C1086&amp;ssl=1",
+        "summary": "A fast-paced cosmic showdown assembles two inventive hero squads, delivering big action and a compelling setup for one of the event's most intriguing subplots.",
+        "first_seen": "2026-07-29"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/07/29/spectacular-spider-man-brand-new-day-3-review/",
+        "series": "Spectacular Spider-Man: Brand New Day",
+        "issue": "3",
+        "published": "2026-07-29",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/91QzNJW7KCL._SL1500_.jpg?fit=1280%2C925&amp;ssl=1",
+        "summary": "Plenty of action and surprise twists are delivered as Spidey's battle against the corrupted Punisher continues.",
+        "first_seen": "2026-07-29"
+      },
+      {
         "url": "https://aiptcomics.com/2026/07/22/action-comics-1100-review/",
         "series": "Action Comics",
         "issue": "1100",

@@ -2,13 +2,113 @@
   "groups": {
     "highest-rated": [
       {
+        "url": "/comic-books/reviews/dark-horse-comics/the-smart-division-(2026)/1",
+        "series": "The Smart Division",
+        "issue": "1",
+        "publisher": "Dark Horse Comics",
+        "year": 2026,
+        "score": 9.5,
+        "review_count": 6,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/image-comics/chachu-(2026)/1",
+        "series": "Chachu",
+        "issue": "1",
+        "publisher": "Image Comics",
+        "year": 2026,
+        "score": 9.4,
+        "review_count": 5,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/absolute-superman-(2024)/22",
+        "series": "Absolute Superman",
+        "issue": "22",
+        "publisher": "DC Comics",
+        "year": 2024,
+        "score": 9.3,
+        "review_count": 6,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/dark-horse-comics/only-the-savage-are-left-(2026)/2",
+        "series": "Only the Savage Are Left",
+        "issue": "2",
+        "publisher": "Dark Horse Comics",
+        "year": 2026,
+        "score": 9.2,
+        "review_count": 5,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/image-comics/geiger-(2024)/24",
+        "series": "Geiger",
+        "issue": "24",
+        "publisher": "Image Comics",
+        "year": 2024,
+        "score": 8.8,
+        "review_count": 7,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/justice-league-knight-vision-special-(2026)/1",
+        "series": "Justice League: Knight Vision Special",
+        "issue": "1",
+        "publisher": "DC Comics",
+        "year": 2026,
+        "score": 8.8,
+        "review_count": 5,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/boom-studios/power-rangers-green-(2026)/1",
+        "series": "Power Rangers: Green",
+        "issue": "1",
+        "publisher": "BOOM! Studios",
+        "year": 2026,
+        "score": 8.2,
+        "review_count": 5,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/batman-(2025)/12",
+        "series": "Batman",
+        "issue": "12",
+        "publisher": "DC Comics",
+        "year": 2025,
+        "score": 8.0,
+        "review_count": 5,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/amazing-spider-man-(2025)/34",
+        "series": "Amazing Spider-Man",
+        "issue": "34",
+        "publisher": "Marvel",
+        "year": 2025,
+        "score": 7.9,
+        "review_count": 5,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/predator-vs-planet-of-the-apes-(2026)/1",
+        "series": "Predator Vs. Planet Of The Apes",
+        "issue": "1",
+        "publisher": "Marvel",
+        "year": 2026,
+        "score": 7.7,
+        "review_count": 6,
+        "first_seen": "2026-08-05"
+      },
+      {
         "url": "/comic-books/reviews/idw-publishing/the-horror-of-godzilla-(2026)/1",
         "series": "The Horror of Godzilla",
         "issue": "1",
         "publisher": "IDW Publishing",
         "year": 2026,
-        "score": 9.7,
-        "review_count": 6,
+        "score": 9.3,
+        "review_count": 8,
         "first_seen": "2026-07-29"
       },
       {
@@ -934,13 +1034,183 @@
     ],
     "most-pulled": [
       {
+        "url": "/comic-books/reviews/image-comics/monstress-(2015)/63",
+        "series": "Monstress",
+        "issue": "63",
+        "publisher": "Image Comics",
+        "year": 2015,
+        "score": 8.0,
+        "review_count": 1,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/absolute-superman-(2024)/22",
+        "series": "Absolute Superman",
+        "issue": "22",
+        "publisher": "DC Comics",
+        "year": 2024,
+        "score": 9.3,
+        "review_count": 6,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/uncanny-x-men-(2024)/33",
+        "series": "Uncanny X-Men",
+        "issue": "33",
+        "publisher": "Marvel",
+        "year": 2024,
+        "score": 8.9,
+        "review_count": 2,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/batman-(2025)/12",
+        "series": "Batman",
+        "issue": "12",
+        "publisher": "DC Comics",
+        "year": 2025,
+        "score": 8.0,
+        "review_count": 5,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/absolute-green-lantern-(2025)/17",
+        "series": "Absolute Green Lantern",
+        "issue": "17",
+        "publisher": "DC Comics",
+        "year": 2025,
+        "score": 8.2,
+        "review_count": 1,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/captain-america-(2025)/14",
+        "series": "Captain America",
+        "issue": "14",
+        "publisher": "Marvel",
+        "year": 2025,
+        "score": 8.8,
+        "review_count": 3,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/amazing-spider-man-(2025)/34",
+        "series": "Amazing Spider-Man",
+        "issue": "34",
+        "publisher": "Marvel",
+        "year": 2025,
+        "score": 7.9,
+        "review_count": 5,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/jsa-(2024)/22",
+        "series": "JSA",
+        "issue": "22",
+        "publisher": "DC Comics",
+        "year": 2024,
+        "score": 9.0,
+        "review_count": 1,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/fantastic-four-(2025)/15",
+        "series": "Fantastic Four",
+        "issue": "15",
+        "publisher": "Marvel",
+        "year": 2025,
+        "score": 9.4,
+        "review_count": 2,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/adventures-of-superman-book-of-el-(2025)/11",
+        "series": "Adventures of Superman: Book of El",
+        "issue": "11",
+        "publisher": "DC Comics",
+        "year": 2025,
+        "score": 9.3,
+        "review_count": 1,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/iron-man-(2026)/8",
+        "series": "Iron Man",
+        "issue": "8",
+        "publisher": "Marvel",
+        "year": 2026,
+        "score": 9.0,
+        "review_count": 3,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/deadman-(2026)/3",
+        "series": "Deadman",
+        "issue": "3",
+        "publisher": "DC Comics",
+        "year": 2026,
+        "score": 8.5,
+        "review_count": 3,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/marc-spector-moon-knight-(2026)/7",
+        "series": "Marc Spector: Moon Knight",
+        "issue": "7",
+        "publisher": "Marvel",
+        "year": 2026,
+        "score": 9.7,
+        "review_count": 1,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/image-comics/lost-fantasy-(2025)/11",
+        "series": "Lost Fantasy",
+        "issue": "11",
+        "publisher": "Image Comics",
+        "year": 2025,
+        "score": 9.4,
+        "review_count": 1,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/image-comics/white-sky-(2026)/5",
+        "series": "White Sky",
+        "issue": "5",
+        "publisher": "Image Comics",
+        "year": 2026,
+        "score": 8.2,
+        "review_count": 3,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/mad-cave-studios/is-ted-ok-(2026)/6",
+        "series": "Is Ted OK?",
+        "issue": "6",
+        "publisher": "Mad Cave Studios",
+        "year": 2026,
+        "score": 9.8,
+        "review_count": 4,
+        "first_seen": "2026-08-05"
+      },
+      {
+        "url": "/comic-books/reviews/image-comics/ghost-pepper-(2025)/13",
+        "series": "Ghost Pepper",
+        "issue": "13",
+        "publisher": "Image Comics",
+        "year": 2025,
+        "score": 6.0,
+        "review_count": 1,
+        "first_seen": "2026-08-05"
+      },
+      {
         "url": "/comic-books/reviews/marvel-comics/x-men-(2024)/34",
         "series": "X-Men",
         "issue": "34",
         "publisher": "Marvel",
         "year": 2024,
-        "score": 7.0,
-        "review_count": 3,
+        "score": 6.7,
+        "review_count": 4,
         "first_seen": "2026-07-29"
       },
       {
@@ -949,8 +1219,8 @@
         "issue": "24",
         "publisher": "Image Comics",
         "year": 2024,
-        "score": 8.7,
-        "review_count": 3,
+        "score": 9.2,
+        "review_count": 5,
         "first_seen": "2026-07-29"
       },
       {
@@ -979,8 +1249,8 @@
         "issue": "33",
         "publisher": "Titan Books",
         "year": 2023,
-        "score": 10.0,
-        "review_count": 1,
+        "score": 9.7,
+        "review_count": 3,
         "first_seen": "2026-07-29"
       },
       {
@@ -989,8 +1259,8 @@
         "issue": "25",
         "publisher": "Image Comics",
         "year": 2024,
-        "score": 9.2,
-        "review_count": 2,
+        "score": 9.4,
+        "review_count": 3,
         "first_seen": "2026-07-29"
       },
       {

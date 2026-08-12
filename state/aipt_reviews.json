@@ -2,6 +2,87 @@
   "groups": {
     "aipt-reviews": [
       {
+        "url": "https://aiptcomics.com/2026/08/12/die-loaded-8-review/",
+        "series": "DIE: Loaded",
+        "issue": "8",
+        "published": "2026-08-12",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/Die-Loaded-8-Lead-Image-e1786542502748.jpg?fit=1200%2C843&amp;ssl=1",
+        "summary": "Hans and Gillen expand their new party’s story into the greater world of DIE with skill and style.",
+        "first_seen": "2026-08-12"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/12/jeff-the-land-shark-superstar-2-review/",
+        "series": "Jeff the Land Shark: Superstar",
+        "issue": "2",
+        "published": "2026-08-12",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/91SXiWFPpQL._SL1500_.jpg?fit=1280%2C980&amp;ssl=1",
+        "summary": "The expected Jeff cuteness with some unexpected commentary on real life.",
+        "first_seen": "2026-08-12"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/12/transformers-35-review-2/",
+        "series": "Transformers",
+        "issue": "35",
+        "published": "2026-08-12",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/transformers-35.jpg?fit=1500%2C1000&amp;ssl=1",
+        "summary": "A scattershot of subplots that are all enjoyable, but struggle to stand out amongst themselves in such a confined number of pages.",
+        "first_seen": "2026-08-12"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/12/star-trek-1-review-2/",
+        "series": "Star Trek",
+        "issue": "1",
+        "published": "2026-08-12",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/star-trek1-copy.jpg?fit=1332%2C1143&amp;ssl=1",
+        "summary": "An ambitious new voyage filled with franchise history and compelling character drama.",
+        "first_seen": "2026-08-12"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/12/crowbound-1-review/",
+        "series": "Crowbound",
+        "issue": "1",
+        "published": "2026-08-12",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/Crowbound11-1-scaled.jpg?fit=2560%2C1906&amp;ssl=1",
+        "summary": "A mother's desperate search for her daughter turns into the beginning of something much darker.",
+        "first_seen": "2026-08-12"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/12/the-punisher-7-review-2/",
+        "series": "The Punisher",
+        "issue": "7",
+        "published": "2026-08-12",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/81Or1JoDL._SL1500_.jpg?fit=1280%2C906&amp;ssl=1",
+        "summary": "Frank's past comes back to haunt him.",
+        "first_seen": "2026-08-12"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/12/x-men-united-6-review/",
+        "series": "X-Men United",
+        "issue": "6",
+        "published": "2026-08-12",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/91F9154guSL._SL1500_.jpg?fit=1280%2C1027&amp;ssl=1",
+        "summary": "X-Men United #6 is undone by a lack of narrative focus.",
+        "first_seen": "2026-08-12"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/12/miles-morales-spider-man-1-review-2/",
+        "series": "Miles Morales: Spider-Man",
+        "issue": "1",
+        "published": "2026-08-12",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/91UAfNwFjXL._SL1500_.jpg?fit=1280%2C936&amp;ssl=1",
+        "summary": "It's worth picking up, especially if you love Miles as a character.",
+        "first_seen": "2026-08-12"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/12/star-wars-the-fall-of-kylo-ren-1-review/",
+        "series": "Star Wars: The Fall of Kylo Ren",
+        "issue": "1",
+        "published": "2026-08-12",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/81j2kzc9dqL._SL1500_.jpg?fit=1280%2C968&amp;ssl=1",
+        "summary": "It proves challenging to create a dramatic impact when we know the fates of the characters involved.",
+        "first_seen": "2026-08-12"
+      },
+      {
         "url": "https://aiptcomics.com/2026/08/05/the-smart-division-1-review/",
         "series": "The Smart Division",
         "issue": "1",

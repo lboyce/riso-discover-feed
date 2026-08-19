@@ -2,6 +2,87 @@
   "groups": {
     "aipt-reviews": [
       {
+        "url": "https://aiptcomics.com/2026/08/19/batwoman-6-review-2/",
+        "series": "Batwoman",
+        "issue": "6",
+        "published": "2026-08-19",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/Batwoman-6-COVER-e1787146105650.webp?fit=1248%2C858&amp;ssl=1",
+        "summary": "An intriguing issue that explores Beth’s psychology a little bit deeper.",
+        "first_seen": "2026-08-19"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/19/bishop-3-review/",
+        "series": "Bishop",
+        "issue": "3",
+        "published": "2026-08-19",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/81Me12J2blL._SL1500_.jpg?fit=1280%2C900&amp;ssl=1",
+        "summary": "The result is a fun, albeit hollow read.",
+        "first_seen": "2026-08-19"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/19/avengers-armageddon-3-review/",
+        "series": "Avengers: Armageddon",
+        "issue": "3",
+        "published": "2026-08-19",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/81nXncGtaDL._SL1500_.jpg?fit=1280%2C866&amp;ssl=1",
+        "summary": "Earth's Mightiest Heroes learn that the Earth might not see them as heroes.",
+        "first_seen": "2026-08-19"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/19/daredevil-5-review-4/",
+        "series": "Daredevil",
+        "issue": "5",
+        "published": "2026-08-19",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/91OEgQR5FtL._SL1500_.jpg?fit=1280%2C993&amp;ssl=1",
+        "summary": "A strong ending to this story arc thanks to a focus on character and action.",
+        "first_seen": "2026-08-19"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/19/punisher-vs-spider-man-2-review/",
+        "series": "Punisher vs. Spider-Man",
+        "issue": "2",
+        "published": "2026-08-19",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/punisher-vs-spider-man-2.jpg?fit=1280%2C1123&amp;ssl=1",
+        "summary": "This unlikely partnership stays compelling with sharp character work and great action.",
+        "first_seen": "2026-08-19"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/19/spider-man-hulk-fire-and-brimstone-1-review/",
+        "series": "Spider-Man / Hulk: Fire and Brimstone",
+        "issue": "1",
+        "published": "2026-08-19",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/91NTBcwihL._SL1500_-e1786972493841.jpg?fit=1280%2C820&amp;ssl=1",
+        "summary": "Packed with puns, explosive action, and a surprisingly serious thematic undercurrent.",
+        "first_seen": "2026-08-19"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/19/inglorious-x-force-8-review/",
+        "series": "Inglorious X-Force",
+        "issue": "8",
+        "published": "2026-08-19",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/91CmRRT3ZL._SL1500_.jpg?fit=1280%2C1003&amp;ssl=1",
+        "summary": "Issue #8 feels like it may be writing a check that the series can't cash.",
+        "first_seen": "2026-08-19"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/19/thor-800-review/",
+        "series": "Thor",
+        "issue": "800",
+        "published": "2026-08-19",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/thor-800.jpg?fit=1280%2C1061&amp;ssl=1",
+        "summary": "Celebrates 800 issues with mythic trials, striking artwork, and a powerful reminder of why Thor always rises again.",
+        "first_seen": "2026-08-19"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/08/19/queen-in-black-3-review/",
+        "series": "Queen in Black",
+        "issue": "3",
+        "published": "2026-08-19",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/08/queen-in-black-3-e1787072564244.jpg?fit=1280%2C845&amp;ssl=1",
+        "summary": "Another massive battle is unleashed while Dylan's morality and survival instincts are put on a collision course.",
+        "first_seen": "2026-08-19"
+      },
+      {
         "url": "https://aiptcomics.com/2026/08/12/die-loaded-8-review/",
         "series": "DIE: Loaded",
         "issue": "8",

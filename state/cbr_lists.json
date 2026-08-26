@@ -2,6 +2,106 @@
   "groups": {
     "highest-rated": [
       {
+        "url": "/comic-books/reviews/image-comics/g.i.-joe-(2024)/25",
+        "series": "G.I. Joe",
+        "issue": "25",
+        "publisher": "Image Comics",
+        "year": 2024,
+        "score": 9.8,
+        "review_count": 6,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/image-comics/if-destruction-be-our-lot-(2026)/4",
+        "series": "If Destruction Be Our Lot",
+        "issue": "4",
+        "publisher": "Image Comics",
+        "year": 2026,
+        "score": 9.1,
+        "review_count": 5,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/vertigo/end-of-life-(2026)/7",
+        "series": "End of Life",
+        "issue": "7",
+        "publisher": "Vertigo",
+        "year": 2026,
+        "score": 8.9,
+        "review_count": 5,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/the-mortal-thor-(2025)/14",
+        "series": "The Mortal Thor",
+        "issue": "14",
+        "publisher": "Marvel",
+        "year": 2025,
+        "score": 8.8,
+        "review_count": 5,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/spider-man-hulk-fire-and-brimstone-(2026)/1",
+        "series": "Spider-Man / Hulk: Fire And Brimstone",
+        "issue": "1",
+        "publisher": "Marvel",
+        "year": 2026,
+        "score": 8.3,
+        "review_count": 6,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/absolute-green-arrow-(2026)/4",
+        "series": "Absolute Green Arrow",
+        "issue": "4",
+        "publisher": "DC Comics",
+        "year": 2026,
+        "score": 8.3,
+        "review_count": 9,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/titans-(2023)/38",
+        "series": "New Titans",
+        "issue": "38",
+        "publisher": "DC Comics",
+        "year": 2023,
+        "score": 8.2,
+        "review_count": 7,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/avengers-armageddon-(2026)/3",
+        "series": "Avengers: Armageddon",
+        "issue": "3",
+        "publisher": "Marvel",
+        "year": 2026,
+        "score": 7.8,
+        "review_count": 8,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/daredevil-(2026)/5",
+        "series": "Daredevil",
+        "issue": "5",
+        "publisher": "Marvel",
+        "year": 2026,
+        "score": 7.7,
+        "review_count": 8,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/inglorious-x-force-(2026)/8",
+        "series": "Inglorious X-Force",
+        "issue": "8",
+        "publisher": "Marvel",
+        "year": 2026,
+        "score": 7.2,
+        "review_count": 5,
+        "first_seen": "2026-08-26"
+      },
+      {
         "url": "/comic-books/reviews/dark-horse-comics/beast-of-boriken-(2026)/2",
         "series": "Beast of Boriken",
         "issue": "2",
@@ -27,8 +127,8 @@
         "issue": "1",
         "publisher": "Image Comics",
         "year": 2026,
-        "score": 8.9,
-        "review_count": 5,
+        "score": 8.6,
+        "review_count": 7,
         "first_seen": "2026-08-19"
       },
       {
@@ -1254,13 +1354,163 @@
     ],
     "most-pulled": [
       {
+        "url": "/comic-books/reviews/dc-comics/detective-comics-(2016)/1112",
+        "series": "Detective Comics",
+        "issue": "1112",
+        "publisher": "DC Comics",
+        "year": 2016,
+        "score": 9.2,
+        "review_count": 2,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/batman-superman-worlds-finest-(2022)/54",
+        "series": "Batman / Superman: World's Finest",
+        "issue": "54",
+        "publisher": "DC Comics",
+        "year": 2022,
+        "score": 8.6,
+        "review_count": 4,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/superman-(2023)/41",
+        "series": "Superman",
+        "issue": "41",
+        "publisher": "DC Comics",
+        "year": 2023,
+        "score": 8.5,
+        "review_count": 2,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/catwoman-(2018)/90",
+        "series": "Catwoman",
+        "issue": "90",
+        "publisher": "DC Comics",
+        "year": 2018,
+        "score": 6.0,
+        "review_count": 1,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/absolute-wonder-woman-(2024)/23",
+        "series": "Absolute Wonder Woman",
+        "issue": "23",
+        "publisher": "DC Comics",
+        "year": 2024,
+        "score": 9.8,
+        "review_count": 3,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/green-lantern-(2023)/38",
+        "series": "Green Lantern",
+        "issue": "38",
+        "publisher": "DC Comics",
+        "year": 2023,
+        "score": 8.3,
+        "review_count": 4,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/image-comics/void-rivals-(2023)/33",
+        "series": "Void Rivals",
+        "issue": "33",
+        "publisher": "Image Comics",
+        "year": 2023,
+        "score": 8.6,
+        "review_count": 2,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/poison-ivy-(2022)/47",
+        "series": "Poison Ivy",
+        "issue": "47",
+        "publisher": "DC Comics",
+        "year": 2022,
+        "score": 8.8,
+        "review_count": 2,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/image-comics/spawn/378",
+        "series": "Spawn",
+        "issue": "378",
+        "publisher": "Image Comics",
+        "year": null,
+        "score": 7.5,
+        "review_count": 1,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/x-men-(2024)/36",
+        "series": "X-Men",
+        "issue": "36",
+        "publisher": "Marvel",
+        "year": 2024,
+        "score": 8.2,
+        "review_count": 2,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/justice-league-unlimited-(2024)/22",
+        "series": "Justice League Unlimited",
+        "issue": "22",
+        "publisher": "DC Comics",
+        "year": 2024,
+        "score": 8.6,
+        "review_count": 2,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/harley-quinn-(2021)/65",
+        "series": "Harley Quinn",
+        "issue": "65",
+        "publisher": "DC Comics",
+        "year": 2021,
+        "score": 6.0,
+        "review_count": 1,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/marvel-comics/amazing-spider-man-(2025)/35",
+        "series": "Amazing Spider-Man",
+        "issue": "35",
+        "publisher": "Marvel",
+        "year": 2025,
+        "score": 8.4,
+        "review_count": 4,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/dc-comics/flash-(2023)/36",
+        "series": "Flash",
+        "issue": "36",
+        "publisher": "DC Comics",
+        "year": 2023,
+        "score": 8.8,
+        "review_count": 2,
+        "first_seen": "2026-08-26"
+      },
+      {
+        "url": "/comic-books/reviews/image-comics/g.i.-joe-(2024)/25",
+        "series": "G.I. Joe",
+        "issue": "25",
+        "publisher": "Image Comics",
+        "year": 2024,
+        "score": 9.8,
+        "review_count": 6,
+        "first_seen": "2026-08-26"
+      },
+      {
         "url": "/comic-books/reviews/dc-comics/nightwing-(2016)/141",
         "series": "Nightwing",
         "issue": "141",
         "publisher": "DC Comics",
         "year": 2016,
-        "score": 8.7,
-        "review_count": 1,
+        "score": 7.9,
+        "review_count": 4,
         "first_seen": "2026-08-19"
       },
       {
@@ -1270,7 +1520,7 @@
         "publisher": "DC Comics",
         "year": 2023,
         "score": 10.0,
-        "review_count": 1,
+        "review_count": 2,
         "first_seen": "2026-08-19"
       },
       {
@@ -1279,8 +1529,8 @@
         "issue": "34",
         "publisher": "Marvel",
         "year": 2024,
-        "score": 8.3,
-        "review_count": 6,
+        "score": 8.4,
+        "review_count": 4,
         "first_seen": "2026-08-19"
       },
       {
@@ -1289,8 +1539,8 @@
         "issue": "21",
         "publisher": "IDW Publishing",
         "year": 2024,
-        "score": 8.5,
-        "review_count": 1,
+        "score": 9.0,
+        "review_count": 2,
         "first_seen": "2026-08-19"
       },
       {
@@ -1299,8 +1549,8 @@
         "issue": "18",
         "publisher": "DC Comics",
         "year": 2025,
-        "score": 9.2,
-        "review_count": 2,
+        "score": 9.1,
+        "review_count": 3,
         "first_seen": "2026-08-19"
       },
       {
@@ -1309,8 +1559,8 @@
         "issue": "38",
         "publisher": "DC Comics",
         "year": 2023,
-        "score": 8.5,
-        "review_count": 1,
+        "score": 8.2,
+        "review_count": 7,
         "first_seen": "2026-08-19"
       },
       {
@@ -1319,8 +1569,8 @@
         "issue": "19",
         "publisher": "Image Comics",
         "year": 2024,
-        "score": 7.5,
-        "review_count": 1,
+        "score": 9.6,
+        "review_count": 4,
         "first_seen": "2026-08-19"
       },
       {
@@ -1339,8 +1589,8 @@
         "issue": "4",
         "publisher": "DC Comics",
         "year": 2026,
-        "score": 8.0,
-        "review_count": 2,
+        "score": 8.3,
+        "review_count": 9,
         "first_seen": "2026-08-19"
       },
       {

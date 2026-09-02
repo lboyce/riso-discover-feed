@@ -2,6 +2,87 @@
   "groups": {
     "aipt-reviews": [
       {
+        "url": "https://aiptcomics.com/2026/09/02/the-deadman-4-review/",
+        "series": "The Deadman",
+        "issue": "4",
+        "published": "2026-09-02",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/81MMjYoMZML._SL1500_.jpg?fit=1280%2C868&amp;ssl=1",
+        "summary": "What answers will Deadman get, and what color crayons will he need?",
+        "first_seen": "2026-09-02"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/02/tales-of-wonder-1-is-a-send-up-of-two-comics-greats/",
+        "series": "Tales of Wonder",
+        "issue": "1",
+        "published": "2026-09-02",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/914sFgD4VuL._SL1500_.jpg?fit=1280%2C893&amp;ssl=1",
+        "summary": "Stan and Jack, together again…kind of.",
+        "first_seen": "2026-09-02"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/02/fantastic-four-16-review-2/",
+        "series": "Fantastic Four",
+        "issue": "16",
+        "published": "2026-09-02",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/91BZ2dId72L._SL1500_.jpg?fit=1280%2C847&amp;ssl=1",
+        "summary": "Marvel's First Family makes First Contact and things go up in flames – literally.",
+        "first_seen": "2026-09-02"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/02/marvel-knights-the-world-to-come-6-review/",
+        "series": "Marvel Knights: The World to Come",
+        "issue": "6",
+        "published": "2026-09-02",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/81Nd-lSLyHL._SL1500_.jpg?fit=1280%2C948&amp;ssl=1",
+        "summary": "While the wait has been long, this was absolutely worth it.",
+        "first_seen": "2026-09-02"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/02/captain-america-15-review-2/",
+        "series": "Captain America",
+        "issue": "15",
+        "published": "2026-09-02",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/818Izo5OGsL._SL1500_.jpg?fit=1280%2C904&amp;ssl=1",
+        "summary": "A thrill ride from beginning to end with a few twists that fans won't see coming.",
+        "first_seen": "2026-09-02"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/02/venom-261-review/",
+        "series": "Venom",
+        "issue": "261",
+        "published": "2026-09-02",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/venom-261.jpg?fit=1280%2C1075&amp;ssl=1",
+        "summary": "Decades of bad blood between Venom and Reed Richards are finally confronted.",
+        "first_seen": "2026-09-02"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/02/marvel-zombies-war-zone-1-review/",
+        "series": "Marvel Zombies: War Zone",
+        "issue": "1",
+        "published": "2026-09-02",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/91ZOSpmR7L._SL1500_.jpg?fit=1280%2C1006&amp;ssl=1",
+        "summary": "Plenty of grit and gore as the Punisher fights through a zombie-infested New York.",
+        "first_seen": "2026-09-02"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/02/marvel-mangaverse-web-of-blood-1-review/",
+        "series": "Marvel Mangaverse: Web of Blood",
+        "issue": "1",
+        "published": "2026-09-02",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/mangaverse-web-of-blood.jpg?fit=1280%2C1142&amp;ssl=1",
+        "summary": "Marvel resurrects the Mangaverse with wild magic, ferocious battles, and kaiju-sized spectacle.",
+        "first_seen": "2026-09-02"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/02/black-panther-namor-doomed-1-review/",
+        "series": "Black Panther/Namor: Doomed",
+        "issue": "1",
+        "published": "2026-09-02",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/81gyHdbXqL._SL1500_.jpg?fit=1280%2C890&amp;ssl=1",
+        "summary": "A fast-paced issue that utilizes two unconventional status quos to quickly establish its protagonists and conflict.",
+        "first_seen": "2026-09-02"
+      },
+      {
         "url": "https://aiptcomics.com/2026/08/26/spawn-378-review/",
         "series": "Spawn",
         "issue": "378",

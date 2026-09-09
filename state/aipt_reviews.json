@@ -2,6 +2,87 @@
   "groups": {
     "aipt-reviews": [
       {
+        "url": "https://aiptcomics.com/2026/09/09/transformers-36-review-2/",
+        "series": "Transformers",
+        "issue": "36",
+        "published": "2026-09-09",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/transformers-36.jpg?fit=1500%2C1000&amp;ssl=1",
+        "summary": "Kirkman's Transformers sits head and shoulders above the rest of the EU.",
+        "first_seen": "2026-09-09"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/09/spawn-77-1-review/",
+        "series": "Spawn ’77",
+        "issue": "1",
+        "published": "2026-09-09",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/spawn-771-1.jpg?fit=1280%2C1120&amp;ssl=1",
+        "summary": "Todd McFarlane's teenage vision of Spawn is brought to life.",
+        "first_seen": "2026-09-09"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/09/thundercats-cheetara-1-is-a-little-overcooked/",
+        "series": "ThunderCats: Cheetara",
+        "issue": "1",
+        "published": "2026-09-09",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/81qxRQsSJNL._SL1500_.jpg?fit=1280%2C890&amp;ssl=1",
+        "summary": "'Cheetara' has a lot going for it. Maybe a little too much.",
+        "first_seen": "2026-09-09"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/09/challenges-of-doom-spider-man-1-review/",
+        "series": "Challenges of Doom: Spider-Man",
+        "issue": "1",
+        "published": "2026-09-09",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/81hIx2TW1XL._SL1500_.jpg?fit=1280%2C834&amp;ssl=1",
+        "summary": "Readers will see Spider-Man and Doctor Doom in a new light, adding layers to their first meeting.",
+        "first_seen": "2026-09-09"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/09/black-cat-14-review/",
+        "series": "Black Cat",
+        "issue": "14",
+        "published": "2026-09-09",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/813wkVK4zSL._SL1500_.jpg?fit=1280%2C863&amp;ssl=1",
+        "summary": "Deftly balances its tie-in obligations with plenty of the heists and humor that make this such a standout series.",
+        "first_seen": "2026-09-09"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/09/the-punisher-8-review/",
+        "series": "The Punisher",
+        "issue": "8",
+        "published": "2026-09-09",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/punisher-8.jpg?fit=1280%2C1094&amp;ssl=1",
+        "summary": "Frank Castle discovers that killing Deadpool only creates more problems.",
+        "first_seen": "2026-09-09"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/09/marvel-gold-76-1-review/",
+        "series": "Marvel Gold ’76",
+        "issue": "1",
+        "published": "2026-09-09",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/MARVELGOLD76001_Cover-1.jpg?fit=2062%2C1719&amp;ssl=1",
+        "summary": "An unlikely collection of Marvel heroes and one ruthless assassin turns into a fast, high-stakes celebration of 1976.",
+        "first_seen": "2026-09-09"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/09/doomquest-4-review/",
+        "series": "Doomquest",
+        "issue": "4",
+        "published": "2026-09-09",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/doomquest-4.jpg?fit=1280%2C1103&amp;ssl=1",
+        "summary": "Doctor Doom gets the life he could have had, setting up one of the coldest and most tragic turns of the series yet.",
+        "first_seen": "2026-09-09"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/09/iron-man-9-review-2/",
+        "series": "Iron Man",
+        "issue": "9",
+        "published": "2026-09-09",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/iron-man-9.jpg?fit=1280%2C1085&amp;ssl=1",
+        "summary": "Tony is on the ropes while building toward a Citizen V reveal worthy of the issue's biggest mystery.",
+        "first_seen": "2026-09-09"
+      },
+      {
         "url": "https://aiptcomics.com/2026/09/02/the-deadman-4-review/",
         "series": "The Deadman",
         "issue": "4",

@@ -2,6 +2,96 @@
   "groups": {
     "aipt-reviews": [
       {
+        "url": "https://aiptcomics.com/2026/09/23/vampirella-6-review/",
+        "series": "Vampirella",
+        "issue": "6",
+        "published": "2026-09-23",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/Vampirella-2026-06_CoverA-scaled-e1790185799777.jpg?fit=1664%2C1156&amp;ssl=1",
+        "summary": "Artistic excellence buoys 'Vampirella' #6.",
+        "first_seen": "2026-09-23"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/23/feral-26-review/",
+        "series": "Feral",
+        "issue": "26",
+        "published": "2026-09-23",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/81GxzPUv0KL._SL1500_.jpg?fit=1280%2C924&amp;ssl=1",
+        "summary": "The purr-fect jumping-on point for new readers just discovering this book for the first time.",
+        "first_seen": "2026-09-23"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/23/teenage-mutant-ninja-turtles-saturday-morning-adventures-41-review/",
+        "series": "Teenage Mutant Ninja Turtles: Saturday Morning Adventures",
+        "issue": "41",
+        "published": "2026-09-23",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/91RYcWOdwL._SL1500_.jpg?fit=1280%2C957&amp;ssl=1",
+        "summary": "It's hard to imagine a better way for this series to go out.",
+        "first_seen": "2026-09-23"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/23/bishop-4-review/",
+        "series": "Bishop",
+        "issue": "4",
+        "published": "2026-09-23",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/81NSghdRIgL._SL1500_.jpg?fit=1280%2C939&amp;ssl=1",
+        "summary": "The fight between Bishop and Mirrormind doesn't really work, leading to a flat feeling.",
+        "first_seen": "2026-09-23"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/23/gambit-gone-1-review/",
+        "series": "Gambit Gone",
+        "issue": "1",
+        "published": "2026-09-23",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/gambitgone2026001_cover-k3tbvyi4twyerbywtjylqxwxc2-1-scaled-e1790171706290.jpg?fit=2560%2C1613&amp;ssl=1",
+        "summary": "Two versions of Gambit face the sins of their pasts in a promising multiversal adventure that occasionally gets tangled in its own setup.",
+        "first_seen": "2026-09-23"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/23/superman-father-of-tomorrow-5-review/",
+        "series": "Superman: Father of Tomorrow",
+        "issue": "5",
+        "published": "2026-09-23",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/91lsEFwOlXL._SL1500_.jpg?fit=1280%2C900&amp;ssl=1",
+        "summary": "This is shaping up to be an Elseworlds that I'll wholeheartedly recommend to all kinds of Superman fans.",
+        "first_seen": "2026-09-23"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/23/justice-league-unlimited-23-review/",
+        "series": "Justice League Unlimited",
+        "issue": "23",
+        "published": "2026-09-23",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/Justice-League-Unlimited-23.jpg?fit=1248%2C902&amp;ssl=1",
+        "summary": "This issue leaves the reader on the edge of their seat.",
+        "first_seen": "2026-09-23"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/23/miles-morales-spider-man-2-review-2/",
+        "series": "Miles Morales: Spider-Man",
+        "issue": "2",
+        "published": "2026-09-23",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/91twnAckEL._SL1500_.jpg?fit=1280%2C927&amp;ssl=1",
+        "summary": "A near-perfect sophomore issue.",
+        "first_seen": "2026-09-23"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/23/superman-42-review-2/",
+        "series": "Superman",
+        "issue": "42",
+        "published": "2026-09-23",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/09/91chKrnF82L._SL1500_.jpg?fit=1280%2C926&amp;ssl=1",
+        "summary": "A stopgap that builds up the finale of the Kingdom of Zod storyline.",
+        "first_seen": "2026-09-23"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/09/23/the-muppets-take-the-marvel-universe-1-review/",
+        "series": "The Muppets Take the Marvel Universe",
+        "issue": "1",
+        "published": "2026-09-23",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/MUPPETSTAKEMU2026001_Cover-1-e1789949414627.jpg?fit=2062%2C1292&amp;ssl=1",
+        "summary": "Marvel's heroes are turned into willing participants in one of the funniest and most charming crossovers of the year.",
+        "first_seen": "2026-09-23"
+      },
+      {
         "url": "https://aiptcomics.com/2026/09/16/sleepy-hollow-the-witches-of-western-wood-5-review/",
         "series": "Sleepy Hollow: The Witches of Western Wood",
         "issue": "5",
@@ -998,60 +1088,6 @@
         "published": "2026-06-25",
         "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/Hello-Kitty-1-cover-a.jpg?fit=1200%2C800&amp;ssl=1",
         "summary": "The perfect treat for Sanrio fans of all ages.",
-        "first_seen": "2026-06-24"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/06/24/gotham-academy-first-year-5-review/",
-        "series": "Gotham Academy: First Year",
-        "issue": "5",
-        "published": "2026-06-24",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/812eXG-5OkL._SL1500_.jpg?fit=1280%2C930&amp;ssl=1",
-        "summary": "Melodramatic teen soap, delivered only in a way Gotham could muster.",
-        "first_seen": "2026-06-24"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/06/24/justice-league-dream-girls-a-dc-pride-event-4-review/",
-        "series": "Justice League: Dream Girls – A DC Pride Event",
-        "issue": "4",
-        "published": "2026-06-24",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/81ptMGSS80L._SL1500_.jpg?fit=1280%2C850&amp;ssl=1",
-        "summary": "Exactly the kind of satisfying conclusion I was hoping I’d get.",
-        "first_seen": "2026-06-24"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/06/24/wonder-woman-34-review/",
-        "series": "Wonder Woman",
-        "issue": "34",
-        "published": "2026-06-24",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/819tFmOszNL._SL1500_.jpg?fit=1280%2C852&amp;ssl=1",
-        "summary": "It’s Wonder Woman vs the Matriarch for the fate of the world…and it’s pretty much over after a few pages.",
-        "first_seen": "2026-06-24"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/06/24/zatanna-3-review-2/",
-        "series": "Zatanna",
-        "issue": "3",
-        "published": "2026-06-24",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/Zatanna-3-1-cover-a-.jpg?fit=1200%2C800&amp;ssl=1",
-        "summary": "We finally get to see Prime Magus Zatanna in action, but before that, Zatanna has to recover from the events of last issue.",
-        "first_seen": "2026-06-24"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/06/24/justice-league-unlimited-20-review/",
-        "series": "Justice League Unlimited",
-        "issue": "20",
-        "published": "2026-06-24",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/919LAnyxpwL._SL1500_.jpg?fit=1280%2C879&amp;ssl=1",
-        "summary": "Mark Waid’s characterization of all the main players is the true star of this show.",
-        "first_seen": "2026-06-24"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/06/24/feral-24-review/",
-        "series": "Feral",
-        "issue": "24",
-        "published": "2026-06-24",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/06/81l8RpzOR0L._SL1500_.jpg?fit=1280%2C903&amp;ssl=1",
-        "summary": "This series has never once taken its foot off the gas in terms of thrills and chills.",
         "first_seen": "2026-06-24"
       }
     ]

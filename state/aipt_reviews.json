@@ -2,6 +2,96 @@
   "groups": {
     "aipt-reviews": [
       {
+        "url": "https://aiptcomics.com/2026/10/07/midnight-spider-man-1-review/",
+        "series": "Midnight Spider-Man",
+        "issue": "1",
+        "published": "2026-10-07",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/10/71Vd2DapNsL._SL1500_.jpg?fit=1280%2C741&amp;ssl=1",
+        "summary": "This new take is bound to hook Spider-Man fans old and new in its web.",
+        "first_seen": "2026-10-07"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/10/07/midnight-x-men-1-review/",
+        "series": "Midnight X-Men",
+        "issue": "1",
+        "published": "2026-10-07",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/10/midnight-fullsize-xmen-2-copy.jpg?fit=1280%2C1023&amp;ssl=1",
+        "summary": "A frightening new mutant world where familiar alliances have fractured sets up another Jonathan Hickman long game.",
+        "first_seen": "2026-10-07"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/10/07/midnight-fantastic-four-1-review/",
+        "series": "Midnight Fantastic Four",
+        "issue": "1",
+        "published": "2026-10-07",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/10/MidnightFantasticFour1_Cover-Revealed-scaled-1-e1791291934134.webp?fit=1480%2C1024&amp;ssl=1",
+        "summary": "A horrifying and menacing start to this darker take on Marvel's First Family.",
+        "first_seen": "2026-10-07"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/10/07/superman-the-stranger-2-review/",
+        "series": "Superman: The Stranger",
+        "issue": "2",
+        "published": "2026-10-07",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/10/81QsEDwDhHL._SL1500_.jpg?fit=1280%2C902&amp;ssl=1",
+        "summary": "This might be a Black Label book, but it definitely has the shining heart of Superman.",
+        "first_seen": "2026-10-07"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/10/07/absolute-superman-24-review/",
+        "series": "Absolute Superman",
+        "issue": "24",
+        "published": "2026-10-07",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/10/81LZhuwtN1L._SL1500_.jpg?fit=1280%2C864&amp;ssl=1",
+        "summary": "John Henry Irons becomes the Man of Steel's most stalwart ally.",
+        "first_seen": "2026-10-07"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/10/07/jonah-hex-and-the-shadow-of-death-1-review/",
+        "series": "Jonah Hex and the Shadow of Death",
+        "issue": "1",
+        "published": "2026-10-07",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/10/Jonah-Hex-and-the-Shadow-of-Death-cover.jpg?fit=1248%2C902&amp;ssl=1",
+        "summary": "Jonah Hex takes the spotlight in an issue that represents the best of DC's Next Level initiative.",
+        "first_seen": "2026-10-07"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/10/07/the-demon-1-review/",
+        "series": "The Demon",
+        "issue": "1",
+        "published": "2026-10-07",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/10/demon-1.jpg?fit=1280%2C1006&amp;ssl=1",
+        "summary": "James Harren is let loose on Gotham's supernatural underbelly while giving Jason Blood a chance to prove he can handle monsters without unleashing Etrigan.",
+        "first_seen": "2026-10-07"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/10/07/batman-14-review-2/",
+        "series": "Batman",
+        "issue": "14",
+        "published": "2026-10-07",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/10/8180cyAPEqL._SL1500_-2.jpg?fit=1280%2C939&amp;ssl=1",
+        "summary": "An unfortunate example of an event disrupting a series.",
+        "first_seen": "2026-10-07"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/10/07/the-deadman-5-review/",
+        "series": "The Deadman",
+        "issue": "5",
+        "published": "2026-10-07",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/10/91dv356nQPL._SL1500_.jpg?fit=1280%2C909&amp;ssl=1",
+        "summary": "A ton of great ideas packed into a very short ride.",
+        "first_seen": "2026-10-07"
+      },
+      {
+        "url": "https://aiptcomics.com/2026/10/06/godzillas-monsterpiece-theatre-presents-the-kaiju-of-oz-1-review/",
+        "series": "Godzilla’s Monsterpiece Theatre Presents: The Kaiju of Oz",
+        "issue": "1",
+        "published": "2026-10-07",
+        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/10/IMG_2080-e1791333934799.jpeg?fit=1248%2C765&amp;ssl=1",
+        "summary": "This is a humorous read, but ultimately forgettable.",
+        "first_seen": "2026-10-07"
+      },
+      {
         "url": "https://aiptcomics.com/2026/09/30/zatanna-6-review/",
         "series": "Zatanna",
         "issue": "6",
@@ -972,87 +1062,6 @@
         "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/infernal-hulk-9.jpg?fit=1280%2C1089&amp;ssl=1",
         "summary": "This issue keeps the momentum alive with supernatural spectacle.",
         "first_seen": "2026-07-15"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/07/08/transformers-34-review/",
-        "series": "Transformers",
-        "issue": "34",
-        "published": "2026-07-08",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/transformers-34.jpg?fit=1500%2C1000&amp;ssl=1",
-        "summary": "Action, intrigue, evil scientists, even BIGGER robots, oh my!",
-        "first_seen": "2026-07-08"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/07/08/its-symbie-1-review/",
-        "series": "It’s Symbie",
-        "issue": "1",
-        "published": "2026-07-08",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/91qf9N6NCiL._SL1500_.jpg?fit=1280%2C915&amp;ssl=1",
-        "summary": "Marvel’s latest addition to their cute, kid-friendly lineup.",
-        "first_seen": "2026-07-08"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/07/08/green-lantern-corps-18-review/",
-        "series": "Green Lantern Corps",
-        "issue": "18",
-        "published": "2026-07-08",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/GLC-18-Fi-e1783521524398.jpg?fit=1248%2C744&amp;ssl=1",
-        "summary": "Can Guy Gardner and Jessica Cruz rally the troops before it's too late?",
-        "first_seen": "2026-07-08"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/07/08/die-loaded-7-review/",
-        "series": "DIE: Loaded",
-        "issue": "7",
-        "published": "2026-07-08",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/8143VcyUBqL._SL1500_.jpg?fit=1280%2C901&amp;ssl=1",
-        "summary": "An intriguing issue that delves into games and the way they are perceived.",
-        "first_seen": "2026-07-08"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/07/08/black-cat-12-review/",
-        "series": "Black Cat",
-        "issue": "12",
-        "published": "2026-07-08",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81vzSL1JwkL._SL1500_.jpg?fit=1280%2C957&amp;ssl=1",
-        "summary": "Balances humor, introspection, and action into a surprisingly breezy read.",
-        "first_seen": "2026-07-08"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/07/08/x-men-97-season-2-2-review/",
-        "series": "X-Men ’97: Season 2",
-        "issue": "2",
-        "published": "2026-07-08",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/91x3QDdA0xL._SL1500_.jpg?fit=1280%2C830&amp;ssl=1",
-        "summary": "Builds on the events of the show it's based on and gives X-Force a much needed spotlight.",
-        "first_seen": "2026-07-08"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/07/08/daredevil-4-review-2/",
-        "series": "Daredevil",
-        "issue": "4",
-        "published": "2026-07-08",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/81l-IOkiw-L._SL1500_.jpg?fit=1280%2C890&amp;ssl=1",
-        "summary": "Murdock's greatest power isn't his fighting skills or his hyper-senses, but his unbreakable will.",
-        "first_seen": "2026-07-08"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/07/08/supergirl-15-review/",
-        "series": "Supergirl",
-        "issue": "15",
-        "published": "2026-07-08",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/Supergirl-15-2025-Cover-Header.jpg?fit=1200%2C800&amp;ssl=1",
-        "summary": "After a violent showdown with Black Flame, Supergirl finds her place on Earth.",
-        "first_seen": "2026-07-08"
-      },
-      {
-        "url": "https://aiptcomics.com/2026/07/08/uncanny-x-men-31-review/",
-        "series": "Uncanny X-Men",
-        "issue": "31",
-        "published": "2026-07-08",
-        "image": "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2026/07/UNCX2024031_Preview-1.jpeg?fit=1280%2C1023&amp;ssl=1",
-        "summary": "Alien horrors, a growing Wolverine conspiracy, and one unforgettable cliffhanger.",
-        "first_seen": "2026-07-08"
       }
     ]
   }

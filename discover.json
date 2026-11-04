@@ -1,9 +1,9 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-28T19:21:58Z",
+  "generated_at": "2026-11-04T20:41:53Z",
   "feed_window": {
-    "start": "2026-10-26",
-    "end": "2026-11-01"
+    "start": "2026-11-02",
+    "end": "2026-11-08"
   },
   "sections": [
     {
@@ -14,38 +14,6 @@
       "source_tier": "personal",
       "source": "RISO",
       "items": [
-        {
-          "entity": "cv-issue-4000-1191027",
-          "reason": {
-            "type": "featured_pick",
-            "source": "RISO",
-            "label": "RISO Recommends",
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": 9.5,
-            "score_max": 10.0,
-            "review_count": 3,
-            "pros": null,
-            "cons": null,
-            "quotes": [
-              {
-                "outlet": "Comic Book Clique",
-                "reviewer": "Russell Hartman",
-                "excerpt": "Rick Remender and Daniel Acuna are on a generational run with Escape. This ninth chapter, which features a focus on Milton Shaw’s squadmate Flynn, delivers massive emotional moments and shows how quickly war can break even the strongest soldier down. There are some books that don’t match the hype that they generate, but this one surpasses it. Remender and Acuna continue to make magic.",
-                "score": 10.0,
-                "url": "https://comicbookclique.com/majorreviews/escape9review"
-              },
-              {
-                "outlet": "You Don't Read Comics",
-                "reviewer": "Russ Bickerstaff",
-                "excerpt": "The short narrative that opens the issue is hauntingly vivid. The stark simplicity of it serves as yet another example of just how well Escape is working. Overarching flat lines take a while to play out. So it can be difficult to tell exactly whether or not the creative team is going to be able to follow through on the potential of what they're setting up. Little, isolated narratives like the one at the beginning of the ninth issue show that they really are being very thoughtful about how everything is making it to the page. It's very striking stuff.",
-                "score": 9.6,
-                "url": "https://www.youdontreadcomics.com/comics/2026/8/30/m1mq7v0a73v083hqvm5rhh3ladf6vb"
-              }
-            ]
-          }
-        },
         {
           "entity": "cv-issue-4000-1188243",
           "reason": {
@@ -74,6 +42,70 @@
                 "excerpt": "I know I sound like a broken record but I can’t stop singing this comic run its praises! Kyle Starks makes someone as unlikeable as Eddie Stallion a character you want to root for, and brings a compelling story along with him. This comic is a full course meal and only gets better and better.",
                 "score": 9.5,
                 "url": "https://nerdinitiative.com/2026/08/19/end-of-life-7-your-own-personal-prison/"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1196624",
+          "reason": {
+            "type": "featured_pick",
+            "source": "RISO",
+            "label": "RISO Recommends",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": 8.5,
+            "score_max": 10.0,
+            "review_count": 9,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Capes & Tights",
+                "reviewer": "Justin Soderberg",
+                "excerpt": "Hammer Head is one of those comics that I knew would be worth reading, but surprised the hell out of me in such a fantastic way. Writer Ed Brisson and illustrator Damian Couceiro craft a gloriously twisted must-read horror that delivers all the bloody fun of a classic slasher while carving out something uniquely its own.",
+                "score": 10.0,
+                "url": "https://capesandtights.com/hammer-head-1-a-gloriously-twisted-slasher/"
+              },
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Richard Coryell",
+                "excerpt": "Hammer Head #1 is a gripping debut that blends emotional character work with slow-building horror. Ed Brisson’s tense storytelling and the art team’s bleak, atmospheric visuals make Jules’ nightmare immediately compelling while leaving enough unanswered questions to demand the reader pick up issue two. Horror fans should add this promising new series to their Pull List immediately.",
+                "score": 9.6,
+                "url": "https://www.fanlightzone.com/comics/hammer-head-1"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1193122",
+          "reason": {
+            "type": "featured_pick",
+            "source": "RISO",
+            "label": "RISO Recommends",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": 8.5,
+            "score_max": 10.0,
+            "review_count": 5,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Richard Coryell",
+                "excerpt": "The Big Shakedown #1 is a confident debut that pairs imaginative post-disaster worldbuilding with a compelling lead and a strong central mystery. Jordan Blum and Tim Seeley establish a fractured California that feels dangerous, satirical, and lived in, while Scott Koblish and Hi-Fi give the setting vivid visual character. With Ester’s personal goals tied directly to the missing-person case, the issue delivers an engaging start and plenty of reasons to return. This should be a strong contender when deciding what to pick up at the shop this week. Trust me once you read this first issue you will definitely want to add this series to your Pull List.",
+                "score": 9.3,
+                "url": "https://www.fanlightzone.com/comics/the-big-shakedown-1"
+              },
+              {
+                "outlet": "Capes & Tights",
+                "reviewer": "Justin Soderberg",
+                "excerpt": "The Big Shakedown‘s premiere issue is a gritty post-natural disaster mystery with more unanswered questions and mystery than those answered. Tim Seeley. Jordan Blum, and Scott Koblish deliver a fresh tale with an edge and mystery that pulls you into a dark and frightening Los Angeles that is even hard for the reader to escape. The Big Shakedown is a vivid, character-driven mystery that turns a shattered Los Angeles into an intriguing and frightening noir setting.",
+                "score": 9.0,
+                "url": "https://capesandtights.com/the-big-shakedown-1-review/"
               }
             ]
           }
@@ -111,38 +143,6 @@
           }
         },
         {
-          "entity": "cv-issue-4000-1196199",
-          "reason": {
-            "type": "featured_pick",
-            "source": "RISO",
-            "label": "RISO Recommends",
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": 8.3,
-            "score_max": 10.0,
-            "review_count": 9,
-            "pros": null,
-            "cons": null,
-            "quotes": [
-              {
-                "outlet": "AIPT",
-                "reviewer": "David Brooke",
-                "excerpt": "The Demon #1 is an excellent showcase for James Harren, whose monster designs and expressive storytelling make Gotham feel infested with supernatural danger. Keeping Etrigan largely restrained gives Jason Blood room to establish himself as a capable, compelling lead, while glimpses of ancient history suggest Harren has much bigger plans for both characters. The mythology can be difficult to parse this early, but the mystery only makes the world more enticing to explore.",
-                "score": 9.0,
-                "url": "https://aiptcomics.com/2026/10/07/the-demon-1-review/"
-              },
-              {
-                "outlet": "Henchman-4-Hire",
-                "reviewer": "Sean Ian Mills",
-                "excerpt": "This is an excellent first issue that drops us right into the madness to come, with a lot of fun silliness mixed in with the superhero action.",
-                "score": 9.0,
-                "url": "https://henchman4hire.com/2026/10/10/hench-sized-comic-book-reviews-10-10-26/"
-              }
-            ]
-          }
-        },
-        {
           "entity": "cv-issue-4000-1195350",
           "reason": {
             "type": "featured_pick",
@@ -168,7 +168,7 @@
           }
         },
         {
-          "entity": "cv-issue-4000-1193120",
+          "entity": "cv-issue-4000-1194176",
           "reason": {
             "type": "featured_pick",
             "source": "RISO",
@@ -176,7 +176,39 @@
             "url": null,
             "snippet": null,
             "image": null,
-            "score": 9.2,
+            "score": 8.9,
+            "score_max": 10.0,
+            "review_count": 5,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Nerd Initiative",
+                "reviewer": "Matthew Roth",
+                "excerpt": "This issue raises an ethical dilemma in a more light-hearted manner; however, the main point is not lost on the audience. This team continues to cook with this Flash run, and every issue builds upon the one before it so well.",
+                "score": 10.0,
+                "url": "https://nerdinitiative.com/2026/09/23/the-flash-37-its-all-explosions-under-the-bridge/"
+              },
+              {
+                "outlet": "Fanlight Zone",
+                "reviewer": "Ken M.",
+                "excerpt": "Wally West’s dreams turn into nightmares as the Justice League weighs in on his latest movement. North stages the ethics debate with a well structured script. Guidry and Lucas present the unique visions with excellent imagery. With great ambition comes grave consequences for the Scarlet Speedster. Don’t miss it.",
+                "score": 8.5,
+                "url": "https://www.fanlightzone.com/comics/the-flash-37"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1195374",
+          "reason": {
+            "type": "featured_pick",
+            "source": "RISO",
+            "label": "RISO Recommends",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": 9.7,
             "score_max": 10.0,
             "review_count": 3,
             "pros": null,
@@ -184,81 +216,49 @@
             "quotes": [
               {
                 "outlet": "Nerd Initiative",
-                "reviewer": "TravisComicHaven",
-                "excerpt": "This new story arc for the TMNT Universe is proving to be a challenge that they were warned would happen. I can understand wanting both of your parents back, but at the cost of New York City… This team continues to produce amazing issues every month with great action and storytelling. The added Chinese lore to this series is a joy to see. Seeing the Turtles engage in their heritage is something people should mimic. Take pride in your roots and where you come from. This is a great series and a great read for TMNT and non-TMNT fans.",
+                "reviewer": "Matthew Roth",
+                "excerpt": "Hyde Street #13 sheds light on The Butcher as he wreaks havoc on the residents of Hyde Street while shrouding his motivations in more mystery. If this issue is any indication, things are about to get far more intense.",
                 "score": 10.0,
-                "url": "https://nerdinitiative.com/2026/09/16/teenage-mutant-ninja-turtles-22-the-city-that-never-dies-pt-2/"
+                "url": "https://nerdinitiative.com/2026/09/30/hyde-street-13-the-butcher-shops-open/"
               },
               {
-                "outlet": "Fanlight Zone",
-                "reviewer": "Richard Coryell",
-                "excerpt": "Teenage Mutant Ninja Turtles #22 delivers an exciting escalation of The City That Never Dies, combining supernatural mystery, family consequences, and clear, atmospheric artwork. Gene Luen Yang, Fero Pe, and Luis Antonio Delgado turn Obon into the backdrop for a compelling catastrophe, leaving the Turtles facing a larger and more personal threat. It is a strong, fast-moving issue that builds anticipation for what comes next.",
-                "score": 9.0,
-                "url": "https://www.fanlightzone.com/comics/tmnt-22"
-              }
-            ]
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1184548",
-          "reason": {
-            "type": "featured_pick",
-            "source": "RISO",
-            "label": "RISO Recommends",
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": 7.7,
-            "score_max": 10.0,
-            "review_count": 7,
-            "pros": null,
-            "cons": null,
-            "quotes": [
-              {
-                "outlet": "AIPT",
-                "reviewer": "Collier Jennings",
-                "excerpt": "Power Rangers: Green #1 delivers a unique take on the post-apocalyptic story, and a new version of Tommy Oliver.",
-                "score": 9.0,
-                "url": "https://aiptcomics.com/2026/08/04/power-rangers-green-1-review/"
-              },
-              {
-                "outlet": "Nerd Initiative",
-                "reviewer": "TravisComicHaven",
-                "excerpt": "This debut issue brings back an iconic original Ranger in a futuristic setting. No longer a practicing Ranger, but the last Ranger in existence. Teaming up with an old foe to take on a new threat that is bringing Tommy out of retirement. This issue doesn’t answer some of the more pivotal questions surrounding Tommy, but it paints a comforting picture that he is living a more simplistic life. This is a must-read for Power Ranger fans! So make sure you pick up your copy of this new miniseries and add this to your “pull list.”A little bonus for this review! I had the opportunity to speak with Pallie Paul Allor about this issue as well as what readers can expect in issue two. If you are a fan of Alpha, you are going to want to see what he does in this debut issue because it leads to much more from him physically in issue two!",
-                "score": 9.0,
-                "url": "https://nerdinitiative.com/2026/08/05/power-rangers-green-1-the-dragons-grave/"
-              }
-            ]
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1182968",
-          "reason": {
-            "type": "featured_pick",
-            "source": "RISO",
-            "label": "RISO Recommends",
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": 8.4,
-            "score_max": 10.0,
-            "review_count": 5,
-            "pros": null,
-            "cons": null,
-            "quotes": [
-              {
-                "outlet": "Fanlight Zone",
-                "reviewer": "Richard Coryell",
-                "excerpt": "The Dirt Beneath the Devil #1 is an amazing opening issue for the series that will surely trap readers’ interest in reading more of the series. The mysteries that this issue either straight out tells us or implies are enough to peek even the most jaded readers’ interest. The premise that is laid out here in the first issue is intriguing, but when you know that Panosian obviously has more in store for us that jacks the intrigued levels all the way up. This should be a slam dunk pick up at the shop or Neon Ichiban this week. As a matter of fact, make sure to add this one to your Pull List as you won’t want to miss a single issue of this series.",
+                "outlet": "You Don't Read Comics",
+                "reviewer": "Russ Bickerstaff",
+                "excerpt": "The fundamental mystery of the street impression remains even though there's a bit a lot of backstory delivered about it. And there's a very clever eye towards exactly where the mysteries lie on the street. Johns is doing a very good job of casting light in select places in order to amplify the mystery of what's going on. And at the center of it all there's a lot of people who are really suffering. And about the heart of this series. But there is the mystery beyond it all. And that ends up being a lot of fun to think about.",
                 "score": 9.6,
-                "url": "https://www.fanlightzone.com/comics/the-dirt-beneath-the-devil-1"
+                "url": "https://www.youdontreadcomics.com/comics/2026/9/30/hyde-street-13-review"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1186103",
+          "reason": {
+            "type": "featured_pick",
+            "source": "RISO",
+            "label": "RISO Recommends",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": 9.4,
+            "score_max": 10.0,
+            "review_count": 3,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Comic Watch",
+                "reviewer": "Anthony Bergamini",
+                "excerpt": "Bleeding Hearts #7 continues to prove that its greatest strength is its characters, delivering another emotionally rich chapter that makes the wait for the next issue even harder.",
+                "score": 9.5,
+                "url": "https://comic-watch.com/comic-book-reviews/bleeding-hearts-7-even-the-dead-can-grieve"
               },
               {
-                "outlet": "Graphic Policy",
-                "reviewer": "Brett",
-                "excerpt": "The Dirt Beneath the Devil #1 is a solid debut issue. It takes a familiar concept and puts it in a setting that feels rather new and fresh.",
-                "score": 9.0,
-                "url": "https://graphicpolicy.com/2026/07/29/the-dirt-beneath-the-devil-1-is-a-solid-western-with-a-little-agatha-christie-mystery-mixed-in/"
+                "outlet": "Comic Book Clique",
+                "reviewer": "Frank Jarome",
+                "excerpt": "Bleeding Hearts #7 kicks off the second story arc with a laugh, and by the end will have you on the verge of tears.  Deniz Camp and Stipan Morian have put together a book that defies expectation with each issue—one where, just like Poke himself, there is a real beating heart beneath all its undead exterior.  If you passed on this book because you were \"all zombied out,\" pick up issue #7 and give it a shot.  I wouldn't be surprised if you find yourself going back to pick up the first six.",
+                "score": 9.5,
+                "url": "https://comicbookclique.com/majorreviews/bleeding-hearts-7-review"
               }
             ]
           }
@@ -429,38 +429,6 @@
                 "excerpt": "Marc Spector: Moon Knight #7 delivers an exhilarating ride with huge action, incredible artwork, and deadly stakes. It leaves you itching for the next issue.",
                 "score": 10.0,
                 "url": "https://getyourcomicon.co.uk/blog/2026/08/07/marc-spector-moon-knight-7-2026-review/"
-              }
-            ]
-          }
-        },
-        {
-          "entity": "cv-issue-4000-1184579",
-          "reason": {
-            "type": "featured_pick",
-            "source": "Comic Book Roundup",
-            "label": "Critically Acclaimed",
-            "url": "https://comicbookroundup.com/comic-books/reviews/dark-horse-comics/the-smart-division-(2026)/1",
-            "snippet": null,
-            "image": null,
-            "score": 9.5,
-            "score_max": 10.0,
-            "review_count": 10,
-            "pros": null,
-            "cons": null,
-            "quotes": [
-              {
-                "outlet": "Capes & Tights",
-                "reviewer": "Justin Soderberg",
-                "excerpt": "The Smart Division is a fantastic science-fiction mystery that eerily could be more fact than fiction. Writer Zack Kaplan delivers a timely detective tale exploring the use of modern technology in solving crimes. However, it’s the juxtaposition of John Pearson’s elegant brush strokes that makes story rise above the rest. Kaplan and Pearson’s creativity knows no bounds and The Smart Division is proof of that.",
-                "score": 10.0,
-                "url": "https://capesandtights.com/the-smart-division-1-review-technology-thriller/"
-              },
-              {
-                "outlet": "Derby Comics",
-                "reviewer": "Patrick Savoia-Peterson",
-                "excerpt": "I sat down with The Smart Division expecting a slick sci-fi detective story and walked away rattled about the world outside my window. That is the highest thing I can say about a comic right now. This is a perfect debut and one of the most relevant books on the stands, and I cannot wait to see where the case goes.",
-                "score": 10.0,
-                "url": "https://derbycomics.com/blogs/advanced-review-the-smart-division-1-turns-our-ai-fears-into-the-perfect-crime-thriller"
               }
             ]
           }
@@ -653,6 +621,38 @@
                 "excerpt": "Superman sees a higher calling while helping the voiceless as the Golden Age reveals more dangers. Craig hones in on the weight of hope & vintage looks guiding the way. A vastly different take on the Man Of Steel mythos.",
                 "score": 8.8,
                 "url": "https://www.fanlightzone.com/comics/superman-the-stranger-2"
+              }
+            ]
+          }
+        },
+        {
+          "entity": "cv-issue-4000-1197262",
+          "reason": {
+            "type": "featured_pick",
+            "source": "Comic Book Roundup",
+            "label": "Critically Acclaimed",
+            "url": "https://comicbookroundup.com/comic-books/reviews/image-comics/g.i.-joe-(2024)/27",
+            "snippet": null,
+            "image": null,
+            "score": 8.9,
+            "score_max": 10.0,
+            "review_count": 6,
+            "pros": null,
+            "cons": null,
+            "quotes": [
+              {
+                "outlet": "Lyles Movie Files",
+                "reviewer": "Jeffrey Lyles",
+                "excerpt": "GI Joe 27 keeps the fun rolling in one of comic’s best reads. The Joes and Night Force are getting on the same page, but it might be too late to stop Zartan from getting a major win.",
+                "score": 10.0,
+                "url": "https://lylesmoviefiles.com/2026/10/21/image-comics-gi-joe-27-redcoat-21/2/"
+              },
+              {
+                "outlet": "Comic Watch",
+                "reviewer": "Anthony Bergamini",
+                "excerpt": "G.I. Joe #27 delivers powerful tension, blending high-stakes team infighting, Zartan's deceptive maneuvering, and gorgeous art into a gripping narrative that rewards long-time readers.",
+                "score": 9.5,
+                "url": "https://comic-watch.com/comic-book-reviews/g-i-joe-27-its-all-coming-together"
               }
             ]
           }
@@ -1048,23 +1048,6 @@
       "source": "RISO",
       "items": [
         {
-          "entity": "cv-volume-4050-5516",
-          "reason": {
-            "type": "classic",
-            "source": "RISO",
-            "label": "Featured Classic",
-            "url": null,
-            "snippet": null,
-            "image": null,
-            "score": null,
-            "score_max": null,
-            "review_count": null,
-            "pros": null,
-            "cons": null,
-            "quotes": null
-          }
-        },
-        {
           "entity": "cv-volume-4050-5989",
           "reason": {
             "type": "classic",
@@ -1097,6 +1080,23 @@
             "cons": null,
             "quotes": null
           }
+        },
+        {
+          "entity": "cv-volume-4050-3622",
+          "reason": {
+            "type": "classic",
+            "source": "RISO",
+            "label": "Featured Classic",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
         }
       ]
     },
@@ -1107,7 +1107,450 @@
       "subtitle": null,
       "source_tier": "distribution",
       "source": "Wikidata",
-      "items": []
+      "items": [
+        {
+          "entity": "wd-Q127613016",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Digital Comic (2025)",
+            "url": "https://en.wikipedia.org/wiki/My_Journey_to_Her",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-160511",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best New Series (2025)",
+            "url": "https://en.wikipedia.org/wiki/Absolute_Wonder_Woman",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q138606391",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award (2025)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q18221753",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best U.S. Edition of International Material-Asia (2022)",
+            "url": "https://en.wikipedia.org/wiki/Lovesickness_(manga)",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q96219608",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Webcomic (2022)",
+            "url": "https://en.wikipedia.org/wiki/Lore_Olympus",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-121102",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Continuing Series (2022)",
+            "url": "https://en.wikipedia.org/wiki/Something_Is_Killing_the_Children",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-115236",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Continuing Series (2022)",
+            "url": "https://en.wikipedia.org/wiki/Bitter_Root",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q107404730",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Comics-Related Periodical/Journalism (2022)",
+            "url": "https://en.wikipedia.org/wiki/WomenWriteAboutComics",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q108795607",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Digital Comic (2022)",
+            "url": "https://en.wikipedia.org/wiki/Snow_Angels_(comic)",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-138069",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Humor Publication (2022)",
+            "url": "https://en.wikipedia.org/wiki/Not_All_Robots",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-135895",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Limited Series (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q113342691",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best New Series (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q113342694",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Publication for Teens (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q113342692",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Publication for Early Readers (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q113342693",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Publication for Kids (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q113342698",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Reality-Based Work (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q113342699",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Graphic Memoir (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q113342697",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Anthology (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q113342702",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Adaptation from Another Medium (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-81335",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best U.S. Edition of International Material (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "cv-volume-4050-133182",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Graphic Album — New (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q113342701",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Graphic Album — Reprint (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q113342706",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Comics-Related Book (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q113342707",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Academic/Scholarly Work (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q113342704",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Archival Collection/Project (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q113342705",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Eisner Award for Best Archival Collection/Project (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        }
+      ]
     },
     {
       "id": "harvey-winners",
@@ -1116,7 +1559,42 @@
       "subtitle": null,
       "source_tier": "distribution",
       "source": "Wikidata",
-      "items": []
+      "items": [
+        {
+          "entity": "wd-Q65240543",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Harvey Awards (2023)",
+            "url": "https://en.wikipedia.org/wiki/Chainsaw_Man",
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        },
+        {
+          "entity": "wd-Q115259407",
+          "reason": {
+            "type": "award",
+            "source": "Wikidata",
+            "label": "Harvey Awards (2022)",
+            "url": null,
+            "snippet": null,
+            "image": null,
+            "score": null,
+            "score_max": null,
+            "review_count": null,
+            "pros": null,
+            "cons": null,
+            "quotes": null
+          }
+        }
+      ]
     },
     {
       "id": "ringo-winners",
@@ -1425,6 +1903,762 @@
     }
   ],
   "entities": {
+    "wd-Q127613016": {
+      "kind": "series",
+      "title": "My Journey to Her",
+      "series_name": "My Journey to Her",
+      "issue_number": null,
+      "publisher": null,
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q127613016",
+        "source_url": null,
+        "series_name": "My Journey to Her",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-160511": {
+      "kind": "series",
+      "title": "Absolute Wonder Woman",
+      "series_name": "Absolute Wonder Woman",
+      "issue_number": null,
+      "publisher": "DC Comics",
+      "format": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2024/09/23/bc5cae957ecf4bceb5f9f2126078f939.jpg",
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-160511",
+        "metron_issue": null,
+        "metron_series": 8482,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 216727,
+        "wikidata_id": "Q130903236",
+        "source_url": null,
+        "series_name": "Absolute Wonder Woman",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "wd-Q138606391": {
+      "kind": "series",
+      "title": "Q138606391",
+      "series_name": "Q138606391",
+      "issue_number": null,
+      "publisher": null,
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q138606391",
+        "source_url": null,
+        "series_name": "Q138606391",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q18221753": {
+      "kind": "series",
+      "title": "Lovesickness: Junji Ito Story Collection",
+      "series_name": "Lovesickness: Junji Ito Story Collection",
+      "issue_number": null,
+      "publisher": "Viz Media, LLC",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q18221753",
+        "source_url": null,
+        "series_name": "Lovesickness: Junji Ito Story Collection",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q96219608": {
+      "kind": "series",
+      "title": "Lore Olympus",
+      "series_name": "Lore Olympus",
+      "issue_number": null,
+      "publisher": "Webtoon",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": "978-0-593-87202-4",
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q96219608",
+        "source_url": null,
+        "series_name": "Lore Olympus",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-121102": {
+      "kind": "series",
+      "title": "Something Is Killing the Children",
+      "series_name": "Something Is Killing the Children",
+      "issue_number": null,
+      "publisher": "Boom! Studios",
+      "format": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2019/09/06/something-children-1.jpg",
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-121102",
+        "metron_issue": null,
+        "metron_series": 614,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 160025,
+        "wikidata_id": "Q96406003",
+        "source_url": null,
+        "series_name": "Something Is Killing the Children",
+        "volume_year": 2019
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-115236": {
+      "kind": "series",
+      "title": "Bitter Root",
+      "series_name": "Bitter Root",
+      "issue_number": null,
+      "publisher": "Image Comics",
+      "format": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2023/02/15/2de7340c071349caa8d3b3ee71fca681.jpg",
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-115236",
+        "metron_issue": null,
+        "metron_series": 4244,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 133767,
+        "wikidata_id": "Q98108164",
+        "source_url": null,
+        "series_name": "Bitter Root",
+        "volume_year": 2018
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "wd-Q107404730": {
+      "kind": "series",
+      "title": "WomenWriteAboutComics",
+      "series_name": "WomenWriteAboutComics",
+      "issue_number": null,
+      "publisher": null,
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q107404730",
+        "source_url": null,
+        "series_name": "WomenWriteAboutComics",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q108795607": {
+      "kind": "series",
+      "title": "Snow Angels",
+      "series_name": "Snow Angels",
+      "issue_number": null,
+      "publisher": "Dark Horse Books",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q108795607",
+        "source_url": null,
+        "series_name": "Snow Angels",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-138069": {
+      "kind": "series",
+      "title": "Not All Robots",
+      "series_name": "Not All Robots",
+      "issue_number": null,
+      "publisher": "AWA Studios",
+      "format": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2021/07/29/not-robots-1.jpg",
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-138069",
+        "metron_issue": null,
+        "metron_series": 2514,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 174708,
+        "wikidata_id": "Q113342696",
+        "source_url": null,
+        "series_name": "Not All Robots",
+        "volume_year": 2021
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-135895": {
+      "kind": "series",
+      "title": "The Good Asian",
+      "series_name": "The Good Asian",
+      "issue_number": null,
+      "publisher": "Image Comics",
+      "format": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2021/10/09/the-good-asian-1.jpg",
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-135895",
+        "metron_issue": null,
+        "metron_series": 2759,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 172789,
+        "wikidata_id": "Q113342690",
+        "source_url": null,
+        "series_name": "The Good Asian",
+        "volume_year": 2021
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342691": {
+      "kind": "series",
+      "title": "The Nice House On The Lake 2021",
+      "series_name": "The Nice House On The Lake 2021",
+      "issue_number": null,
+      "publisher": "DC Comics",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342691",
+        "source_url": null,
+        "series_name": "The Nice House On The Lake 2021",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342694": {
+      "kind": "series",
+      "title": "The Legend of Auntie Po",
+      "series_name": "The Legend of Auntie Po",
+      "issue_number": null,
+      "publisher": "Penguin Random House",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342694",
+        "source_url": null,
+        "series_name": "The Legend of Auntie Po",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342692": {
+      "kind": "series",
+      "title": "Attack of the Heebie Chibis",
+      "series_name": "Attack of the Heebie Chibis",
+      "issue_number": null,
+      "publisher": "IDW Publishing",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342692",
+        "source_url": null,
+        "series_name": "Attack of the Heebie Chibis",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342693": {
+      "kind": "series",
+      "title": "Salt Magic",
+      "series_name": "Salt Magic",
+      "issue_number": null,
+      "publisher": null,
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342693",
+        "source_url": null,
+        "series_name": "Salt Magic",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342698": {
+      "kind": "series",
+      "title": "The Black Panther Party: A Graphic Novel History",
+      "series_name": "The Black Panther Party: A Graphic Novel History",
+      "issue_number": null,
+      "publisher": "Ten Speed Press",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342698",
+        "source_url": null,
+        "series_name": "The Black Panther Party: A Graphic Novel History",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342699": {
+      "kind": "series",
+      "title": "Run Book One",
+      "series_name": "Run Book One",
+      "issue_number": null,
+      "publisher": "Abrams Books",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342699",
+        "source_url": null,
+        "series_name": "Run Book One",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342697": {
+      "kind": "series",
+      "title": "You Died: An Anthology of the Afterlife",
+      "series_name": "You Died: An Anthology of the Afterlife",
+      "issue_number": null,
+      "publisher": "Iron Circus Comics",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342697",
+        "source_url": null,
+        "series_name": "You Died: An Anthology of the Afterlife",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342702": {
+      "kind": "series",
+      "title": "George Orwell's 1984: The Graphic Novel",
+      "series_name": "George Orwell's 1984: The Graphic Novel",
+      "issue_number": null,
+      "publisher": "Mariner Books",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342702",
+        "source_url": null,
+        "series_name": "George Orwell's 1984: The Graphic Novel",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-81335": {
+      "kind": "series",
+      "title": "Convergence Batman: Shadow of the Bat",
+      "series_name": "Convergence Batman: Shadow of the Bat",
+      "issue_number": null,
+      "publisher": "DC Comics",
+      "format": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2025/10/26/3ee967d94c6d48b2830df8f335aff4bf.jpg",
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-81335",
+        "metron_issue": null,
+        "metron_series": 13757,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 88322,
+        "wikidata_id": "Q113342703",
+        "source_url": null,
+        "series_name": "Convergence Batman: Shadow of the Bat",
+        "volume_year": 2015
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "cv-volume-4050-133182": {
+      "kind": "series",
+      "title": "American Mythology Monsters",
+      "series_name": "American Mythology Monsters",
+      "issue_number": null,
+      "publisher": "American Mythology Productions",
+      "format": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2025/08/25/fd2d785ec6f94b7390b7bb1a2300d889.jpg",
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-133182",
+        "metron_issue": null,
+        "metron_series": 13036,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": 168712,
+        "wikidata_id": "Q113342700",
+        "source_url": null,
+        "series_name": "American Mythology Monsters",
+        "volume_year": 2021
+      },
+      "resolution": {
+        "confidence": "partial",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342701": {
+      "kind": "series",
+      "title": "The Complete American Gods",
+      "series_name": "The Complete American Gods",
+      "issue_number": null,
+      "publisher": "Dark Horse Books",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342701",
+        "source_url": null,
+        "series_name": "The Complete American Gods",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342706": {
+      "kind": "series",
+      "title": "All of the Marvels: A Journey to the Ends of the Biggest Story Ever Told",
+      "series_name": "All of the Marvels: A Journey to the Ends of the Biggest Story Ever Told",
+      "issue_number": null,
+      "publisher": "Penguin Group",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342706",
+        "source_url": null,
+        "series_name": "All of the Marvels: A Journey to the Ends of the Biggest Story Ever Told",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342707": {
+      "kind": "series",
+      "title": "Comics and the Origins of Manga: A Revisionist History",
+      "series_name": "Comics and the Origins of Manga: A Revisionist History",
+      "issue_number": null,
+      "publisher": "Rutgers University Press",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342707",
+        "source_url": null,
+        "series_name": "Comics and the Origins of Manga: A Revisionist History",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342704": {
+      "kind": "series",
+      "title": "Popeye: The E.C. Segar Popeye Sundays Volume 1",
+      "series_name": "Popeye: The E.C. Segar Popeye Sundays Volume 1",
+      "issue_number": null,
+      "publisher": "Fantagraphics Books",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342704",
+        "source_url": null,
+        "series_name": "Popeye: The E.C. Segar Popeye Sundays Volume 1",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q113342705": {
+      "kind": "series",
+      "title": "EC Covers Artist's Edition",
+      "series_name": "EC Covers Artist's Edition",
+      "issue_number": null,
+      "publisher": "IDW Publishing",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q113342705",
+        "source_url": null,
+        "series_name": "EC Covers Artist's Edition",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q65240543": {
+      "kind": "series",
+      "title": "Chainsaw Man",
+      "series_name": "Chainsaw Man",
+      "issue_number": null,
+      "publisher": "Jump Comics",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": null,
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q65240543",
+        "source_url": null,
+        "series_name": "Chainsaw Man",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
+    "wd-Q115259407": {
+      "kind": "series",
+      "title": "Squire",
+      "series_name": "Squire",
+      "issue_number": null,
+      "publisher": "Quill Tree Books",
+      "format": null,
+      "cover_url": null,
+      "release_date": null,
+      "ids": {
+        "comicvine_issue": null,
+        "comicvine_volume": null,
+        "metron_issue": null,
+        "metron_series": null,
+        "isbn": "978-0-06-294584-6",
+        "upc": null,
+        "gcd_id": null,
+        "wikidata_id": "Q115259407",
+        "source_url": null,
+        "series_name": "Squire",
+        "volume_year": null
+      },
+      "resolution": {
+        "confidence": "unresolved",
+        "issue_pending": false
+      }
+    },
     "rss-76fb661b78ff": {
       "kind": "issue",
       "title": "Jeff the Landshark Superstar #4",
@@ -1749,33 +2983,6 @@
         "issue_pending": false
       }
     },
-    "cv-volume-4050-5516": {
-      "kind": "series",
-      "title": "Preacher",
-      "series_name": "Preacher",
-      "issue_number": null,
-      "publisher": "DC Comics",
-      "format": null,
-      "cover_url": "https://static.metron.cloud/media/issue/2023/04/24/890f81f20f8a489c95288b623eb3bd79.jpg",
-      "release_date": null,
-      "ids": {
-        "comicvine_issue": null,
-        "comicvine_volume": "4050-5516",
-        "metron_issue": null,
-        "metron_series": 4970,
-        "isbn": null,
-        "upc": null,
-        "gcd_id": 5247,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "Preacher",
-        "volume_year": 1995
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
     "cv-volume-4050-5989": {
       "kind": "series",
       "title": "Transmetropolitan",
@@ -1830,27 +3037,27 @@
         "issue_pending": false
       }
     },
-    "cv-issue-4000-1191027": {
-      "kind": "issue",
-      "title": "Escape #9",
-      "series_name": "Escape",
-      "issue_number": "9",
-      "publisher": "Image Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/05/02/3ebf37c7e8c94dc4a26a413a0683aaf2.jpg",
-      "release_date": "2026-09-02",
+    "cv-volume-4050-3622": {
+      "kind": "series",
+      "title": "Watchmen",
+      "series_name": "Watchmen",
+      "issue_number": null,
+      "publisher": "DC Comics",
+      "format": null,
+      "cover_url": "https://static.metron.cloud/media/issue/2019/08/19/watchmen-1.jpg",
+      "release_date": null,
       "ids": {
-        "comicvine_issue": "4000-1191027",
-        "comicvine_volume": "4050-166315",
-        "metron_issue": 169227,
-        "metron_series": 12572,
+        "comicvine_issue": null,
+        "comicvine_volume": "4050-3622",
+        "metron_issue": null,
+        "metron_series": 537,
         "isbn": null,
-        "upc": "70985304410900911",
-        "gcd_id": 2864518,
+        "upc": null,
+        "gcd_id": 3172,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "Escape",
-        "volume_year": 2025
+        "series_name": "Watchmen",
+        "volume_year": 1986
       },
       "resolution": {
         "confidence": "high",
@@ -1877,6 +3084,60 @@
         "wikidata_id": null,
         "source_url": null,
         "series_name": "End of Life",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1196624": {
+      "kind": "issue",
+      "title": "Hammer Head #1",
+      "series_name": "Hammer Head",
+      "issue_number": "1",
+      "publisher": "Mad Cave Studios",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/08/29/d7b11bedf160415d98800bd1c87033bf.jpg",
+      "release_date": "2026-10-14",
+      "ids": {
+        "comicvine_issue": "4000-1196624",
+        "comicvine_volume": "4050-177470",
+        "metron_issue": 181849,
+        "metron_series": 16932,
+        "isbn": null,
+        "upc": "60396240467301011",
+        "gcd_id": 2873938,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Hammer Head",
+        "volume_year": 2026
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1193122": {
+      "kind": "issue",
+      "title": "The Big Shakedown #1",
+      "series_name": "The Big Shakedown",
+      "issue_number": "1",
+      "publisher": "Dark Horse Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/08/08/bc4b02d9ec13452e99b5bc3b6b41ea4f.jpg",
+      "release_date": "2026-09-16",
+      "ids": {
+        "comicvine_issue": "4000-1193122",
+        "comicvine_volume": "4050-177012",
+        "metron_issue": 174290,
+        "metron_series": 16625,
+        "isbn": null,
+        "upc": "76156801630700111",
+        "gcd_id": null,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "The Big Shakedown",
         "volume_year": 2026
       },
       "resolution": {
@@ -1911,33 +3172,6 @@
         "issue_pending": false
       }
     },
-    "cv-issue-4000-1196199": {
-      "kind": "issue",
-      "title": "The Demon #1",
-      "series_name": "The Demon",
-      "issue_number": "1",
-      "publisher": "DC Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/09/28/e824800b2c914c3cad3dd44f0945b1f5.jpg",
-      "release_date": "2026-10-07",
-      "ids": {
-        "comicvine_issue": "4000-1196199",
-        "comicvine_volume": "4050-177363",
-        "metron_issue": 181763,
-        "metron_series": 16896,
-        "isbn": null,
-        "upc": "76194139719100111",
-        "gcd_id": 2870977,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "The Demon",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
     "cv-issue-4000-1195350": {
       "kind": "issue",
       "title": "Conan: The Barbarian #35",
@@ -1965,26 +3199,53 @@
         "issue_pending": false
       }
     },
-    "cv-issue-4000-1193120": {
+    "cv-issue-4000-1194176": {
       "kind": "issue",
-      "title": "Teenage Mutant Ninja Turtles #22",
-      "series_name": "Teenage Mutant Ninja Turtles",
-      "issue_number": "22",
-      "publisher": "IDW Publishing",
+      "title": "The Flash #37",
+      "series_name": "The Flash",
+      "issue_number": "37",
+      "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/30/e2655d609bf54321b05a85c184e04e64.jpg",
-      "release_date": "2026-09-16",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/08/27/flash-37-fixed.jpg",
+      "release_date": "2026-09-23",
       "ids": {
-        "comicvine_issue": "4000-1193120",
-        "comicvine_volume": "4050-159035",
-        "metron_issue": 173272,
-        "metron_series": 7881,
+        "comicvine_issue": "4000-1194176",
+        "comicvine_volume": "4050-153720",
+        "metron_issue": 174430,
+        "metron_series": 5587,
         "isbn": null,
-        "upc": "82771403315102211",
-        "gcd_id": 2867137,
+        "upc": "76194138164003711",
+        "gcd_id": null,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "Teenage Mutant Ninja Turtles",
+        "series_name": "The Flash",
+        "volume_year": 2023
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
+    "cv-issue-4000-1195374": {
+      "kind": "issue",
+      "title": "Hyde Street #13",
+      "series_name": "Hyde Street",
+      "issue_number": "13",
+      "publisher": "Image Comics",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/03/17/9c42a4bd9e4247b99bd75e65bc435158.jpg",
+      "release_date": "2026-09-30",
+      "ids": {
+        "comicvine_issue": "4000-1195374",
+        "comicvine_volume": "4050-160218",
+        "metron_issue": 163765,
+        "metron_series": 8487,
+        "isbn": null,
+        "upc": "70985304127601311",
+        "gcd_id": 2870427,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "Hyde Street",
         "volume_year": 2024
       },
       "resolution": {
@@ -1992,53 +3253,26 @@
         "issue_pending": false
       }
     },
-    "cv-issue-4000-1184548": {
+    "cv-issue-4000-1186103": {
       "kind": "issue",
-      "title": "Power Rangers: Green #1",
-      "series_name": "Power Rangers: Green",
-      "issue_number": "1",
-      "publisher": "Boom! Studios",
+      "title": "Bleeding Hearts #7",
+      "series_name": "Bleeding Hearts",
+      "issue_number": "7",
+      "publisher": "DC Comics",
       "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/24/0ad6d14d5b584491a884f7d3ed3191c7.jpg",
-      "release_date": "2026-08-05",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/07/17/feff0395464049c2bce4bb4753c8ba19.jpg",
+      "release_date": "2026-08-12",
       "ids": {
-        "comicvine_issue": "4000-1184548",
-        "comicvine_volume": "4050-175535",
-        "metron_issue": 172917,
-        "metron_series": 16401,
+        "comicvine_issue": "4000-1186103",
+        "comicvine_volume": "4050-170540",
+        "metron_issue": 172619,
+        "metron_series": 14789,
         "isbn": null,
-        "upc": "84428401346801011",
-        "gcd_id": 2856846,
+        "upc": "76194138556300711",
+        "gcd_id": 2859186,
         "wikidata_id": null,
         "source_url": null,
-        "series_name": "Power Rangers: Green",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "cv-issue-4000-1182968": {
-      "kind": "issue",
-      "title": "The Dirt Beneath the Devil #1",
-      "series_name": "The Dirt Beneath the Devil",
-      "issue_number": "1",
-      "publisher": "Mad Cave Studios",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/19/4051fb033d6b49a28cb706279a5c074f.jpg",
-      "release_date": "2026-07-29",
-      "ids": {
-        "comicvine_issue": "4000-1182968",
-        "comicvine_volume": "4050-175250",
-        "metron_issue": 172630,
-        "metron_series": 16327,
-        "isbn": null,
-        "upc": "60196140539401011",
-        "gcd_id": 2856239,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "The Dirt Beneath the Devil",
+        "series_name": "Bleeding Hearts",
         "volume_year": 2026
       },
       "resolution": {
@@ -2178,33 +3412,6 @@
       },
       "resolution": {
         "confidence": "partial",
-        "issue_pending": false
-      }
-    },
-    "cv-issue-4000-1184579": {
-      "kind": "issue",
-      "title": "The Smart Division #1",
-      "series_name": "The Smart Division",
-      "issue_number": "1",
-      "publisher": "Dark Horse Comics",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/07/20/dce5d44494204768bf102eaee26e7ae4.jpg",
-      "release_date": "2026-08-05",
-      "ids": {
-        "comicvine_issue": "4000-1184579",
-        "comicvine_volume": "4050-175541",
-        "metron_issue": 172682,
-        "metron_series": 16351,
-        "isbn": null,
-        "upc": "76156801607900111",
-        "gcd_id": 2858007,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "The Smart Division",
-        "volume_year": 2026
-      },
-      "resolution": {
-        "confidence": "high",
         "issue_pending": false
       }
     },
@@ -2370,6 +3577,33 @@
         "issue_pending": false
       }
     },
+    "cv-issue-4000-1197262": {
+      "kind": "issue",
+      "title": "G.I. Joe #27",
+      "series_name": "G.I. Joe",
+      "issue_number": "27",
+      "publisher": "Skybound",
+      "format": "single_issue",
+      "cover_url": "https://static.metron.cloud/media/issue/2026/08/30/0b6cc67e4f2e4ef1bae633dd65f5d8a2.jpg",
+      "release_date": "2026-10-21",
+      "ids": {
+        "comicvine_issue": "4000-1197262",
+        "comicvine_volume": "4050-161047",
+        "metron_issue": 182051,
+        "metron_series": 9033,
+        "isbn": null,
+        "upc": "70985304167202711",
+        "gcd_id": 2874351,
+        "wikidata_id": null,
+        "source_url": null,
+        "series_name": "G.I. Joe",
+        "volume_year": 2024
+      },
+      "resolution": {
+        "confidence": "high",
+        "issue_pending": false
+      }
+    },
     "cv-issue-4000-1197246": {
       "kind": "issue",
       "title": "Detective Comics #1114",
@@ -2525,33 +3759,6 @@
         "wikidata_id": null,
         "source_url": null,
         "series_name": "Redcoat",
-        "volume_year": 2024
-      },
-      "resolution": {
-        "confidence": "high",
-        "issue_pending": false
-      }
-    },
-    "cv-issue-4000-1197262": {
-      "kind": "issue",
-      "title": "G.I. Joe #27",
-      "series_name": "G.I. Joe",
-      "issue_number": "27",
-      "publisher": "Skybound",
-      "format": "single_issue",
-      "cover_url": "https://static.metron.cloud/media/issue/2026/08/30/0b6cc67e4f2e4ef1bae633dd65f5d8a2.jpg",
-      "release_date": "2026-10-21",
-      "ids": {
-        "comicvine_issue": "4000-1197262",
-        "comicvine_volume": "4050-161047",
-        "metron_issue": 182051,
-        "metron_series": 9033,
-        "isbn": null,
-        "upc": "70985304167202711",
-        "gcd_id": 2874351,
-        "wikidata_id": null,
-        "source_url": null,
-        "series_name": "G.I. Joe",
         "volume_year": 2024
       },
       "resolution": {
